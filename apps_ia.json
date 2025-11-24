@@ -1,6 +1,6 @@
-{ 
-    "tema":"Aplicativos de Inteligência Artificial",
-    "aplicativos": [
+{
+  "tema": "Aplicativos de Inteligência Artificial",
+  "aplicativos": [
     {
       "nome": "Scratch",
       "descricao": "Scratch é uma plataforma de programação visual baseada em blocos, desenvolvida pelo MIT, que permite criar animações, jogos e histórias interativas de forma intuitiva e acessível, promovendo o aprendizado de conceitos de programação e pensamento computacional.",
@@ -33,7 +33,7 @@
     },
     {
       "nome": "Leonardo AI",
-      "descricao": "Ferramenta de criação impulsionada por IA para facilitar o design e a produção de conteúdos. Automatiza tarefas de design repetitivas e sugere melhorias criativas.",
+      "descricao": "Leonardo AI é uma ferramenta de criação impulsionada por IA para facilitar o design e a produção de conteúdos. Automatiza tarefas de design repetitivas e sugere melhorias criativas.",
       "ferramenta": "https://leonardo.ai/",
       "video": "https://www.youtube.com/watch?v=NWj-thyOGRY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=14"
     },
@@ -42,12 +42,6 @@
       "descricao": "Mobirise é um construtor de sites offline e gratuito, baseado em blocos, que permite criar páginas responsivas sem a necessidade de programação, ideal para pequenas empresas, portfólios e landing pages.",
       "ferramenta": "https://mobirise.com/website-builder/pt/kid.html",
       "video": "https://www.youtube.com/watch?v=Im71QpSVgu4&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=19"
-    },
-    {
-      "nome": "ChatGPT",
-      "descricao": "ChatGPT é um assistente de inteligência artificial desenvolvido pela OpenAI que utiliza processamento de linguagem natural para responder perguntas, gerar textos, auxiliar na programação e realizar diversas tarefas de forma interativa e intuitiva.",
-      "ferramenta": "https://chat.openai.com/",
-      "video": "https://www.youtube.com/watch?v=iXoiTAFMuo4&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=51"
     },
     {
       "nome": "Gamma App",
@@ -66,8 +60,846 @@
       "descricao": "ElevenLabs.io é uma plataforma de inteligência artificial especializada em síntese de voz realista, permitindo a criação de narrações naturais em diversos idiomas e estilos para vídeos, podcasts e assistentes virtuais.",
       "ferramenta": "https://elevenlabs.io/",
       "video": "https://www.youtube.com/watch?v=OkV52yVyP1I&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=30"
+    },
+    {
+      "nome": "Pose Animator",
+      "descricao": "Pose Animator é uma ferramenta de código aberto que utiliza inteligência artificial para animar ilustrações 2D em tempo real, acompanhando os movimentos do usuário através da câmera e aplicando-os ao personagem digital.",
+      "ferramenta": "https://pose-animator-demo.firebaseapp.com/",
+      "video": "https://www.youtube.com/watch?v=tyKsWso2eww&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=22"
+    },
+    {
+      "nome": "Animated Drawings",
+      "descricao": "Animated Drawings é uma ferramenta de inteligência artificial desenvolvida pelo Meta AI Research que permite animar desenhos estáticos de personagens, transformando ilustrações em animações interativas de forma rápida e intuitiva.",
+      "ferramenta": "https://sketch.metademolab.com/",
+      "video": "https://www.youtube.com/watch?v=VHe2LUgY9-E&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=25"
+    },
+    {
+      "nome": "Assisted Melody",
+      "descricao": "Assisted Melody é uma ferramenta de inteligência artificial que auxilia na criação e harmonização de melodias, gerando sugestões musicais automatizadas para compositores e produtores.",
+      "ferramenta": "https://artsandculture.google.com/experiment/cAGcgh18Zi7DqQ?cp=eyJ1cmwiOiJ8MTIwfGJhY2h8b3JnYW4ifQ...",
+      "video": "https://www.youtube.com/watch?v=y9poUi9Zw2U&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=11"
+    },
+    {
+      "nome": "Blob Opera",
+      "descricao": "Blob Opera é uma experiência interativa do Google Arts & Culture que utiliza inteligência artificial para permitir que os usuários criem harmonias vocais operísticas manipulando personagens em formato de blobs, sem necessidade de conhecimento musical.",
+      "ferramenta": "https://www.connectedpapers.com/",
+      "video": ""
+    },
+    {
+      "nome": "HeyGen",
+      "descricao": "HeyGen é uma plataforma de inteligência artificial que permite criar vídeos com avatares virtuais realistas, gerando apresentações e conteúdos audiovisuais personalizados a partir de texto, sem necessidade de gravações tradicionais.",
+      "ferramenta": "https://app.heygen.com/home",
+      "video": "https://drive.google.com/drive/folders/12qOncms02HwIo2zFfjAlyJR_M8pxA9cA"
+    },
+    {
+      "nome": "Remini",
+      "descricao": "Remini é um aplicativo de inteligência artificial especializado em aprimoramento e restauração de imagens, capaz de melhorar a qualidade de fotos antigas, borradas ou de baixa resolução com apenas um clique.",
+      "ferramenta": "https://remini.ai/",
+      "video": "https://drive.google.com/drive/folders/1WHXw48HBfKBS2alhFJ0nS1XBlhJcVM61"
+    },
+    {
+      "nome": "CapCut",
+      "descricao": "CapCut é um editor de vídeo gratuito e intuitivo, desenvolvido pela ByteDance, que oferece ferramentas avançadas de edição, efeitos, filtros e recursos de inteligência artificial para criar conteúdos de alta qualidade para redes sociais.",
+      "ferramenta": "https://www.capcut.com/pt-br/",
+      "video": "https://www.youtube.com/watch?v=1OqhJfkjvAY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=22"
+    },
+    {
+      "nome": "Semi-Conductor",
+      "descricao": "Semi-Conductor é uma experiência interativa do Google que utiliza inteligência artificial para permitir que os usuários “regem” uma orquestra virtual, interpretando seus movimentos através da câmera e traduzindo-os em comandos musicais.",
+      "ferramenta": "https://semiconductor.withgoogle.com/",
+      "video": "https://www.youtube.com/watch?v=tmUrqQ_cuAc&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=28"
+    },
+    {
+      "nome": "Midjourney",
+      "descricao": "Midjourney é uma plataforma de inteligência artificial que gera imagens a partir de descrições textuais, permitindo a criação de ilustrações, artes conceituais e designs personalizados de forma automatizada e criativa.",
+      "ferramenta": "https://midjourney.com/",
+      "video": ""
+    },
+    {
+      "nome": "Mentimeter",
+      "descricao": "Mentimeter é uma plataforma interativa que permite criar apresentações dinâmicas com enquetes, quizzes e nuvens de palavras em tempo real, promovendo maior engajamento e participação do público.",
+      "ferramenta": "https://www.mentimeter.com/",
+      "video": "https://www.youtube.com/watch?v=dKBIHaFHQJc&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=23"
+    },
+    {
+      "nome": "Renderforest",
+      "descricao": "Renderforest é uma plataforma online que oferece ferramentas para criação de vídeos, animações, logotipos, mockups e sites, permitindo a produção de conteúdos visuais de forma intuitiva e profissional.",
+      "ferramenta": "https://www.renderforest.com/pt/",
+      "video": "https://www.youtube.com/watch?v=jOajS2Ga5RY&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=23"
+    },
+    {
+      "nome": "Genmo",
+      "descricao": "Genmo é uma plataforma de inteligência artificial que permite a criação de vídeos e animações a partir de imagens e descrições textuais, transformando ideias em conteúdos visuais dinâmicos de forma automatizada.",
+      "ferramenta": "https://www.genmo.ai/",
+      "video": "https://www.youtube.com/watch?v=J-dfcvLViWs&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=15"
+    },
+    {
+      "nome": "D-ID",
+      "descricao": "D-ID é uma plataforma de inteligência artificial que transforma imagens estáticas em vídeos animados, permitindo a criação de avatares falantes realistas a partir de fotos e textos, ideal para apresentações, assistentes virtuais e storytelling digital.",
+      "ferramenta": "https://www.d-id.com/",
+      "video": ""
+    },
+    {
+      "nome": "Beautiful.ai",
+      "descricao": "Beautiful.ai é uma ferramenta que utiliza inteligência artificial para criar apresentações visuais de alta qualidade de forma rápida e eficiente.",
+      "ferramenta": "https://www.beautiful.ai/",
+      "video": "https://www.youtube.com/watch?v=bJxOLV-ki9s&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=7"
+    },
+    {
+      "nome": "Kling AI",
+      "descricao": "Kling AI é uma ferramenta avançada de inteligência artificial desenvolvida pela equipe da Kuaishou, que permite aos usuários gerar e editar vídeos e imagens a partir de textos ou imagens de referência, oferecendo recursos como Text-to-Video, Image-to-Video e uma comunidade integrada para compartilhamento e inspiração.",
+      "ferramenta": "https://klingai.com/",
+      "video": "https://www.youtube.com/watch?v=D7my31TYiN4&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=17"
+    },
+    {
+      "nome": "Vizcom",
+      "descricao": "Vizcom é uma ferramenta de inteligência artificial projetada para profissionais de design e áreas criativas, que transforma esboços em renderizações realistas instantaneamente, facilitando a visualização e desenvolvimento de conceitos.",
+      "ferramenta": "https://www.vizcom.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Adobe Firefly",
+      "descricao": "Adobe Firefly é uma plataforma de inteligência artificial da Adobe voltada para a criação e edição de conteúdos visuais, permitindo gerar imagens, aplicar efeitos e modificar designs a partir de descrições textuais, integrando-se a outras ferramentas da Adobe para facilitar fluxos de trabalho criativos.",
+      "ferramenta": "https://firefly.adobe.com",
+      "video": "https://www.youtube.com/watch?v=7pNuanWHeQw&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=2"
+    },
+    {
+      "nome": "Canva para Educação",
+      "descricao": "Canva para Educação é uma versão do Canva destinada a professores e alunos, oferecendo ferramentas de design intuitivas para criar apresentações, infográficos, vídeos, atividades interativas e outros materiais educacionais, facilitando a colaboração e o aprendizado visual em sala de aula.",
+      "ferramenta": "https://www.canva.com/pt_br/educacao/",
+      "video": ""
+    },
+    {
+      "nome": "Say What You See",
+      "descricao": "Say What You See é um jogo de quebra-cabeça baseado em imagens, no qual os jogadores devem interpretar ilustrações visuais e adivinhar frases, expressões ou palavras ocultas, desafiando o raciocínio lógico e a criatividade.",
+      "ferramenta": "https://artsandculture.google.com/experiment/say-what-you-see/jwG3m7wQShZngw",
+      "video": "https://www.youtube.com/watch?v=tWm73QiVNcY&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=24"
+    },
+    {
+      "nome": "Quick, Draw!",
+      "descricao": "Quick, Draw! é um jogo interativo de inteligência artificial desenvolvido pelo Google, onde os jogadores desenham objetos ou conceitos em poucos segundos enquanto uma rede neural tenta adivinhar o que está sendo desenhado, promovendo aprendizado de máquina de forma divertida e educativa.",
+      "ferramenta": "https://quickdraw.withgoogle.com",
+      "video": "https://www.youtube.com/watch?v=mGimtIhUyhA&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=50"
+    },
+    {
+      "nome": "Teachable Machine",
+      "descricao": "Teachable Machine é uma ferramenta de inteligência artificial do Google que permite treinar modelos de aprendizado de máquina de forma intuitiva, usando imagens, sons ou poses corporais, sem necessidade de programação, tornando o ensino de IA acessível para educadores, estudantes e criadores.",
+      "ferramenta": "https://teachablemachine.withgoogle.com/",
+      "video": "https://www.youtube.com/watch?v=k3Pezm6aZyY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=29"
+    },
+    {
+      "nome": "TensorFlow Playground",
+      "descricao": "TensorFlow Playground é uma ferramenta interativa baseada na web que permite visualizar e experimentar redes neurais artificiais diretamente no navegador, oferecendo uma maneira intuitiva de entender conceitos de aprendizado de máquina sem necessidade de programação avançada.",
+      "ferramenta": "https://playground.tensorflow.org/",
+      "video": "https://www.youtube.com/watch?v=TYVLMD1PEbc&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=31"
+    },
+    {
+      "nome": "Machine Learning for Kids",
+      "descricao": "Machine Learning for Kids é uma ferramenta gratuita que introduz o aprendizado de máquina, proporcionando experiências práticas para treinar sistemas de aprendizado de máquina em um ambiente guiado e fácil de usar, capaz de reconhecer texto, números, imagens ou sons.",
+      "ferramenta": "https://machinelearningforkids.co.uk/",
+      "video": ""
+    },
+    {
+      "nome": "3 motivos para estudar IA",
+      "descricao": "“3 motivos para estudar IA” é um conteúdo que apresenta, de forma sintética, a demanda crescente no mercado de trabalho, o aumento de produtividade e o impacto transformador da inteligência artificial em diversas áreas.",
+      "ferramenta": "",
+      "video": "https://www.youtube.com/watch?v=9rUfPHgH0hM&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=28"
+    },
+    {
+      "nome": "Perplexity.AI",
+      "descricao": "Perplexity.AI é uma plataforma de busca baseada em inteligência artificial que fornece respostas contextuais e precisas, combinando modelos avançados de linguagem com referências diretas a fontes, facilitando a pesquisa e a descoberta de informações confiáveis.",
+      "ferramenta": "https://kling.kuaishou.com/en",
+      "video": "https://www.youtube.com/watch?v=Aa-gS_O7TKs&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=20"
+    },
+    {
+      "nome": "ChatGPT",
+      "descricao": "ChatGPT é um assistente de inteligência artificial desenvolvido pela OpenAI que utiliza processamento de linguagem natural para responder perguntas, gerar textos, auxiliar na programação e realizar diversas tarefas de forma interativa e intuitiva.",
+      "ferramenta": "https://chat.openai.com/",
+      "video": "https://www.youtube.com/watch?v=3-rZkoOt-fE&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=40 (Elaborar provas: ChatGpt); https://www.youtube.com/watch?v=_EX4WJaoz9o&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=36 (Dá para confiar no que o o ChatGPT te responde?); https://www.youtube.com/watch?v=NWOBUlRTmGw&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=33 (Por que o ChatGPT responde errado?); https://www.youtube.com/watch?v=iXoiTAFMuo4&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=51 (Gerando músicas de Memorização com I.A.); https://www.youtube.com/watch?v=QgFjhja85ik&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=26 (Gerando música com ChatGPT e Suno IA); https://www.youtube.com/watch?v=1OqhJfkjvAY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=22 (Crie um vídeo com ChatGPT e CapCut); https://www.youtube.com/watch?v=Tm916NMy4Cc&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=49 (Usando o ChatGPT4); https://www.youtube.com/watch?v=hxDkzL6rTig&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=42 (ChatGPT vs Google: Como conversar com a IA?); https://www.youtube.com/watch?v=NjGbXo3lH3I&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=16(Chaptgpt4 tradução em tempo real)"
+    },
+    {
+      "nome": "Jasper AI",
+      "descricao": "Jasper AI é uma plataforma de inteligência artificial especializada na geração de textos para marketing, blogs, redes sociais e outros conteúdos, utilizando modelos avançados de linguagem para criar textos persuasivos e otimizados de forma rápida e eficiente.",
+      "ferramenta": "https://jasper.ai",
+      "video": "https://youtu.be/lJUmjYy9XI8?si=IFDpwQvTTGwCUcH8"
+    },
+    {
+      "nome": "Gemini",
+      "descricao": "Gemini é a linha de modelos de inteligência artificial desenvolvida pelo Google DeepMind, projetada para processar múltiplos tipos de dados, como texto, imagens, áudio e código, oferecendo respostas avançadas e interativas para diversas aplicações, incluindo pesquisa, produtividade e desenvolvimento.",
+      "ferramenta": "https://gemini.google.com/app",
+      "video": "https://www.youtube.com/watch?v=rRnz9DBkunE&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=44"
+    },
+    {
+      "nome": "Claude",
+      "descricao": "Claude é um assistente de inteligência artificial desenvolvido pela Anthropic, projetado para ser seguro, útil e alinhado aos princípios éticos, capaz de processar texto, responder perguntas, gerar conteúdo e auxiliar em diversas tarefas com um foco em interação natural e contextualizada.",
+      "ferramenta": "https://claude.ai/l",
+      "video": "https://www.youtube.com/watch?v=y1IG-TDrxSI&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=13"
+    },
+    {
+      "nome": "Meshy.ai",
+      "descricao": "Meshy.ai é uma plataforma de inteligência artificial que gera modelos e texturas 3D a partir de texto ou imagens, facilitando a criação de assets para jogos, animações e realidade estendida (XR) de forma rápida e intuitiva.",
+      "ferramenta": "https://app.meshy.ai/workspace/text-to-3d/beta",
+      "video": "https://www.youtube.com/watch?v=yvpgzPvMgaU&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=20"
+    },
+    {
+      "nome": "BeadCrumb",
+      "descricao": "BeadCrumb é uma plataforma que oferece uma solução de segurança e conformidade automatizada para o setor de construção civil, abrangendo processos como induções, SWMS, permissões, induções de equipamentos e registro de presença no local.",
+      "ferramenta": "https://www.breadcrumb.ai/",
+      "video": "https://www.youtube.com/watch?v=Z0QSB_ElgDo&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=9"
+    },
+    {
+      "nome": "TutorAI",
+      "descricao": "TutorAI é uma plataforma de inteligência artificial que oferece tutoria personalizada, auxiliando os usuários a aprenderem diversos assuntos de forma eficiente e adaptada às suas necessidades individuais.",
+      "ferramenta": "https://tutorai.me/",
+      "video": "https://www.youtube.com/watch?v=_5b2qoEdHrQ&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=12"
+    },
+    {
+      "nome": "LuzIA",
+      "descricao": "LuzIA é um assistente de IA que fornece suporte e respostas rápidas aos usuários, utilizando processamento de linguagem natural para entender e responder a perguntas.",
+      "ferramenta": "https://www.luzia.com/br",
+      "video": "https://www.youtube.com/watch?v=g5O9rls9Iuo&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=3"
+    },
+    {
+      "nome": "Numerous.ai",
+      "descricao": "Numerous.ai é uma ferramenta de inteligência artificial que se integra ao Google Sheets e ao Microsoft Excel, permitindo automatizar tarefas repetitivas como geração de fórmulas, categorização de itens e formatação de células, utilizando o poder do ChatGPT para aprimorar a eficiência em planilhas.",
+      "ferramenta": "https://numerous.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Seeing the Invisible",
+      "descricao": "Seeing the Invisible é uma exposição de arte contemporânea em realidade aumentada que apresenta obras de artistas renomados em jardins botânicos ao redor do mundo, permitindo aos visitantes interagir com arte digital de forma inovadora e imersiva.",
+      "ferramenta": "https://artsandculture.google.com/experiment/seeing-the-invisible/_QG_qDtzdqTsww",
+      "video": "https://www.youtube.com/watch?v=f9T52WOgWKY&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=26"
+    },
+    {
+      "nome": "Food Mood",
+      "descricao": "Food Mood é uma plataforma que explora a relação entre alimentação e emoções, oferecendo ferramentas como diários alimentares, análise de ingredientes e sugestões culinárias baseadas no humor do usuário.",
+      "ferramenta": "https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?cp=e30..",
+      "video": "https://www.youtube.com/watch?v=r2f-eA1INz8&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=4"
+    },
+    {
+      "nome": "H5P",
+      "descricao": "H5P é uma plataforma de código aberto que permite a criação de conteúdos interativos para a web, como questionários, apresentações, vídeos interativos e jogos educacionais, sendo amplamente utilizada em ambientes de ensino online para engajar alunos e facilitar o aprendizado.",
+      "ferramenta": "https://h5p.org",
+      "video": "https://www.youtube.com/watch?v=1MGRPTqws9I&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=9"
+    },
+    {
+      "nome": "Trello",
+      "descricao": "Trello é uma plataforma de gestão de projetos baseada em quadros, listas e cartões, que permite organizar tarefas, colaborar em equipe e acompanhar o progresso de projetos de forma visual e intuitiva.",
+      "ferramenta": "https://trello.com/",
+      "video": "https://www.youtube.com/watch?v=kbnGeK55Nog&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=39"
+    },
+    {
+      "nome": "Mapify",
+      "descricao": "Mapify é uma plataforma de inteligência artificial que transforma automaticamente textos longos, vídeos do YouTube, PDFs e outros conteúdos em mapas mentais interativos, facilitando a organização e compreensão de informações complexas.",
+      "ferramenta": "https://mapify.so/pt/app",
+      "video": "https://www.youtube.com/watch?v=hlePXfKzxyo&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=18"
+    },
+    {
+      "nome": "Blocket",
+      "descricao": "Blocket é a maior plataforma de classificados da Suécia, permitindo que os usuários comprem e vendam produtos novos e usados de forma fácil e segura, promovendo a economia circular e a sustentabilidade.",
+      "ferramenta": "https://www.blooket.com/",
+      "video": "https://www.youtube.com/watch?v=IaozWtPc6mk&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=1"
+    },
+    {
+      "nome": "Genially",
+      "descricao": "Genially é uma plataforma de criação de conteúdos interativos e visuais, permitindo a criação de apresentações, infográficos, jogos e outros materiais dinâmicos de forma intuitiva e sem necessidade de conhecimentos avançados em design.",
+      "ferramenta": "https://app.genially.com/",
+      "video": "https://www.youtube.com/watch?v=SELAsrOZKjw&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=24"
+    },
+    {
+      "nome": "Padlet",
+      "descricao": "Padlet é uma plataforma de colaboração online que permite criar murais digitais interativos, onde usuários podem compartilhar ideias, imagens, links, vídeos e outros conteúdos de forma visual e organizada, facilitando o trabalho em grupo e o aprendizado colaborativo.",
+      "ferramenta": "https://padlet.com/",
+      "video": ""
+    },
+    {
+      "nome": "Cultural Icons",
+      "descricao": "Cultural Icons é uma plataforma que explora e celebra os ícones culturais que moldaram diferentes culturas ao redor do mundo, destacando figuras, símbolos e objetos que representam valores e tradições significativas.",
+      "ferramenta": "https://artsandculture.google.com/experiment/2QFyx9MN7Inxtg",
+      "video": "https://www.youtube.com/watch?v=UWvjTaYunsU&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=7"
+    },
+    {
+      "nome": "Kahoot",
+      "descricao": "Kahoot é uma plataforma de aprendizado gamificado que permite criar quizzes, enquetes e jogos interativos, incentivando a participação ativa de alunos e colaboradores em ambientes educacionais e corporativos de forma divertida e envolvente.",
+      "ferramenta": "https://kahoot.com/",
+      "video": ""
+    },
+    {
+      "nome": "Akinator",
+      "descricao": "Akinator é um jogo de adivinhação que utiliza IA para identificar personagens com base nas respostas do usuário, melhorando suas previsões com base no aprendizado contínuo das interações.",
+      "ferramenta": "https://pt.akinator.com/",
+      "video": ""
+    },
+    {
+      "nome": "Scroobly",
+      "descricao": "Scroobly é uma plataforma interativa que transforma desenhos simples em animações dinâmicas em tempo real, utilizando inteligência artificial para mapear os movimentos do usuário e dar vida aos seus rabiscos.",
+      "ferramenta": "https://www.scroobly.com/",
+      "video": "https://www.youtube.com/watch?v=cwEUSeNPrUA&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=2"
+    },
+    {
+      "nome": "Albus",
+      "descricao": "Albus é uma plataforma de inteligência artificial que organiza e analisa seus documentos, permitindo buscas eficientes em PDFs, imagens, áudios, documentos do Word, Markdown e artigos da web, além de automatizar a organização de arquivos e fornecer respostas contextualizadas com referências específicas.",
+      "ferramenta": "https://albus.org/",
+      "video": "https://www.youtube.com/watch?v=BM16tLK8MHM&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=4"
+    },
+    {
+      "nome": "Ask SMILE",
+      "descricao": "Ask SMILE é uma plataforma que, com o auxílio do GPT, avalia perguntas em uma escala de 1 a 5, alinhada à Taxonomia de Bloom, promovendo uma aprendizagem mais interativa e reflexiva.",
+      "ferramenta": "https://ask.smile.seedsofempowerment.org",
+      "video": "https://www.youtube.com/watch?v=yXgwPIzlOBw&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=45"
+    },
+    {
+      "nome": "Google Classroom",
+      "descricao": "Google Classroom é uma plataforma de gerenciamento de aprendizado que permite a criação, distribuição e avaliação de tarefas de forma digital, facilitando a colaboração entre professores e alunos em ambientes educacionais.",
+      "ferramenta": "https://classroom.google.com/",
+      "video": "https://www.youtube.com/watch?v=Fy1-WJ-bDVA&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=43"
+    },
+    {
+      "nome": "SciSpace",
+      "descricao": "SciSpace é uma plataforma de inteligência artificial voltada para pesquisadores, que facilita a análise, compreensão e citação de artigos científicos, permitindo interações detalhadas com textos acadêmicos, equações e gráficos.",
+      "ferramenta": "https://typeset.io/",
+      "video": ""
+    },
+    {
+      "nome": "Wordwall",
+      "descricao": "Wordwall é uma plataforma de criação de atividades educacionais interativas, que permite aos professores criar quizzes, jogos e exercícios personalizados para tornar o aprendizado mais envolvente e dinâmico.",
+      "ferramenta": "https://wordwall.net/",
+      "video": "https://www.youtube.com/watch?v=myJ_Bg6Y810&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=21"
+    },
+    {
+      "nome": "Connected Papers",
+      "descricao": "Connected Papers é uma ferramenta de exploração visual que ajuda pesquisadores a descobrir e entender a literatura relevante em torno de um tema específico, criando um gráfico de conexões entre artigos científicos e permitindo a exploração de conexões e influências entre os trabalhos.",
+      "ferramenta": "https://www.connectedpapers.com/",
+      "video": "https://www.youtube.com/watch?v=JNqZwUs0p30&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=18"
+    },
+    {
+      "nome": "Answer.AI",
+      "descricao": "Answer.AI é uma plataforma de inteligência artificial que atua como tutor e conselheiro virtual, oferecendo suporte acadêmico 24/7, incluindo explicações detalhadas, ferramentas de estudo personalizadas e orientações para admissões universitárias.",
+      "ferramenta": "https://answerai.pro/",
+      "video": ""
+    },
+    {
+      "nome": "Khan Academy / Khanmigo",
+      "descricao": "Khan Academy é uma plataforma educacional online gratuita com aulas em vídeo, exercícios interativos e materiais de apoio em diversas disciplinas. Khanmigo é um assistente de inteligência artificial desenvolvido pela Khan Academy, projetado para ajudar os estudantes a aprender de forma mais personalizada e interativa.",
+      "ferramenta": "https://www.khanacademy.org; https://www.khanmigo.ai",
+      "video": "https://www.youtube.com/watch?v=0UsPhgLZ-Bg&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=48"
+    },
+    {
+      "nome": "Photomath",
+      "descricao": "Photomath é um app de ensino de álgebra que usa IA para reconhecimento de escrita e resolução de problemas, oferecendo feedback instantâneo e ajustando os desafios com base no progresso do aluno.",
+      "ferramenta": "https://photomath.com/",
+      "video": "https://www.youtube.com/watch?v=dXzxW-MbMIY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=17"
+    },
+    {
+      "nome": "H5P (2)",
+      "descricao": "H5P é uma plataforma de código aberto que permite a criação de conteúdos interativos para a web, como questionários, apresentações, vídeos interativos e jogos educacionais, sendo amplamente utilizada em ambientes de ensino online para engajar alunos e facilitar o aprendizado.",
+      "ferramenta": "https://h5p.org",
+      "video": "https://www.youtube.com/watch?v=KmLwWw-IHfo&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=10"
+    },
+    {
+      "nome": "Gauth",
+      "descricao": "Gauth é uma plataforma de inteligência artificial que ajuda estudantes a resolver problemas acadêmicos, oferecendo explicações detalhadas e soluções passo a passo para diversas disciplinas.",
+      "ferramenta": "https://www.gauthmath.com/",
+      "video": "https://www.youtube.com/watch?v=LCYiSnb89AI&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=14"
+    },
+    {
+      "nome": "Google’s AIY",
+      "descricao": "Google’s AIY é uma plataforma de inteligência artificial que permite aos usuários criar e personalizar projetos de IA com kits de hardware acessíveis, promovendo o aprendizado e a experimentação em IA.",
+      "ferramenta": "https://aiyprojects.withgoogle.com/",
+      "video": "https://www.youtube.com/watch?v=i5KcefkS6OY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=6"
+    },
+    {
+      "nome": "Dola AI",
+      "descricao": "Dola AI é um assistente de calendário baseado em inteligência artificial que permite aos usuários agendar compromissos e gerenciar eventos por meio de mensagens de texto, voz ou imagens, integrando-se com aplicativos como WhatsApp, Telegram, iMessage e LINE.",
+      "ferramenta": "https://heydola.com/pt",
+      "video": "https://www.youtube.com/watch?v=s8hg_QFNz98&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=13"
+    },
+    {
+      "nome": "Da Vinci Stickies",
+      "descricao": "Da Vinci Stickies é uma experiência interativa desenvolvida pelo Google Arts & Culture Lab que combina esboços de Leonardo da Vinci com ferramentas modernas, permitindo aos usuários criar novas ideias e conexões inspiradas nos cadernos do artista.",
+      "ferramenta": "https://artsandculture.google.com/experiment/JQEdlc36huU-PA?e",
+      "video": "https://www.youtube.com/watch?v=uQBVREUxJoU&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=1"
+    },
+    {
+      "nome": "Character.ai",
+      "descricao": "Character.ai é uma plataforma de inteligência artificial que permite criar e interagir com personagens virtuais personalizados, utilizando modelos de linguagem para simular conversas realistas e dinâmicas em tempo real.",
+      "ferramenta": "https://character.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Map This",
+      "descricao": "Map This é uma ferramenta de mapas mentais que utiliza IA para organizar e visualizar informações, sugerindo conexões e estruturando automaticamente os mapas com base nos dados inseridos.",
+      "ferramenta": "https://www.map-this.com/",
+      "video": "https://www.youtube.com/watch?v=gu8MNu8H4bg&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=41"
+    },
+    {
+      "nome": "Teachy",
+      "descricao": "Teachy é uma plataforma de inteligência artificial voltada para professores, que auxilia na criação de planos de aula, avaliações e materiais pedagógicos, economizando tempo e aprimorando a qualidade do ensino.",
+      "ferramenta": "https://www.teachy.com.br/pt_BR/ai-tools-repository",
+      "video": "https://www.youtube.com/watch?v=5k1PmLDj0AE&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=15"
+    },
+    {
+      "nome": "AI for Oceans",
+      "descricao": "AI for Oceans é uma atividade educativa desenvolvida pela Code.org que introduz estudantes a conceitos de inteligência artificial e aprendizado de máquina, permitindo-lhes treinar um modelo para classificar imagens de peixes e lixo, promovendo a compreensão de como a IA pode ser aplicada na preservação ambiental.",
+      "ferramenta": "https://studio.code.org/s/oceans/lessons/1/levels/1",
+      "video": "https://www.youtube.com/watch?v=jLfl7uwWIfE&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=47"
+    },
+    {
+      "nome": "Teachy (sem vídeo)",
+      "descricao": "Teachy é uma plataforma de inteligência artificial voltada para professores, que auxilia na criação de planos de aula, avaliações e materiais pedagógicos, economizando tempo e aprimorando a qualidade do ensino; Gamma App é uma plataforma que utiliza inteligência artificial para criar apresentações, documentos e páginas web interativas de forma automatizada, oferecendo um design moderno e dinâmico.",
+      "ferramenta": "https://www.teachy.com.br/pt_BR/ai-tools-repository / https://gamma.app/",
+      "video": ""
+    },
+    {
+      "nome": "Teachy (vídeo 8q29tDI2po8)",
+      "descricao": "Teachy é uma plataforma de inteligência artificial voltada para professores, que auxilia na criação de planos de aula, avaliações e materiais pedagógicos, economizando tempo e aprimorando a qualidade do ensino.",
+      "ferramenta": "https://www.teachy.com.br/pt_BR/ai-tools-repository",
+      "video": "https://www.youtube.com/watch?v=8q29tDI2po8&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=52"
+    },
+    {
+      "nome": "Magic School IA",
+      "descricao": "Magic School IA é apresentada como uma ferramenta de mapas mentais que utiliza IA para organizar e visualizar informações, sugerindo conexões e estruturando mapas automaticamente com base nos dados inseridos.",
+      "ferramenta": "https://www.magicschool.ai",
+      "video": "https://www.youtube.com/watch?v=CA2lSaW3Skc&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=46"
+    },
+    {
+      "nome": "Teachy (accessible lessons)",
+      "descricao": "Teachy é uma plataforma de inteligência artificial voltada para professores, que auxilia na criação de planos de aula, avaliações e materiais pedagógicos, economizando tempo e aprimorando a qualidade do ensino.",
+      "ferramenta": "https://www.teachy.com.br/pt_BR/ai-tools-repository/accessible-lessons-ideas",
+      "video": "https://www.youtube.com/watch?v=Mc-1vajBzyw&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=37"
+    },
+    {
+      "nome": "Teachy (vídeo 7YxW6KXXLeM)",
+      "descricao": "Teachy é uma plataforma de inteligência artificial voltada para professores, que auxilia na criação de planos de aula, avaliações e materiais pedagógicos, economizando tempo e aprimorando a qualidade do ensino.",
+      "ferramenta": "https://www.teachy.com.br/pt_BR/ai-tools-repository",
+      "video": "https://www.youtube.com/watch?v=7YxW6KXXLeM&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=32"
+    },
+    {
+      "nome": "DALL-E",
+      "descricao": "DALL-E é uma plataforma de inteligência artificial desenvolvida pela OpenAI, capaz de gerar imagens a partir de descrições textuais, permitindo criar ilustrações, arte digital e designs personalizados com base em qualquer conceito ou ideia fornecida pelo usuário.",
+      "ferramenta": "https://ai-pro.org/start-dall-e/?keyword=dall%20e&adid=730213866396&flow=04&ppg=11&pmt=pay2&gad_source=1&gbraid=0AAAAAB-_8YjbdBNPk-O9eq7S_9rgNIiuV&gclid=Cj0KCQjw1um-BhDtARIsABjU5x4_ebfMUFFJwxpVZDDv4WK5HgCjSZez0GJlaKmIGlQIEes1NJ9eq0UaAjWqEALw_wcB",
+      "video": "https://www.youtube.com/watch?v=baGGhJ0Ulxo&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=35"
+    },
+    {
+      "nome": "Teachy (vídeo wFtm5_uF7yI)",
+      "descricao": "Teachy é uma plataforma de inteligência artificial voltada para professores, que auxilia na criação de planos de aula, avaliações e materiais pedagógicos, economizando tempo e aprimorando a qualidade do ensino.",
+      "ferramenta": "https://www.teachy.com.br/pt_BR/ai-tools-repository",
+      "video": "https://www.youtube.com/watch?v=wFtm5_uF7yI&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=28"
+    },
+    {
+      "nome": "ChatPDF",
+      "descricao": "ChatPDF é uma ferramenta baseada em inteligência artificial que permite interagir com documentos PDF, facilitando a leitura, análise, resumo e tradução de textos em diversos idiomas, tornando a compreensão de artigos acadêmicos e outros documentos mais eficiente.",
+      "ferramenta": "https://www.chatpdf.com/",
+      "video": ""
+    },
+    {
+      "nome": "QuillBot",
+      "descricao": "QuillBot é uma ferramenta de parafraseamento e correção de textos com IA para melhorias automáticas, sugerindo alternativas de redação e correções gramaticais em tempo real.",
+      "ferramenta": "https://quillbot.com/",
+      "video": "https://www.youtube.com/watch?v=gGpGUxoRcMY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=19"
+    },
+    {
+      "nome": "Notion",
+      "descricao": "Notion é uma plataforma de produtividade e organização que combina ferramentas de notas, tarefas, calendários e bancos de dados, permitindo aos usuários criar e gerenciar projetos, colaborar em equipe e personalizar seus fluxos de trabalho de maneira flexível.",
+      "ferramenta": "https://www.notion.so/pt-br/templates/collections/top-10-free-teaching-templates-in-notion / https://www.notion.so/Casa-do-professor-4689fd4377fb48699b9b4359fdd8475b",
+      "video": "https://www.youtube.com/watch?v=SpDhP4PaHdE&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=34"
+    },
+    {
+      "nome": "Am I unique?",
+      "descricao": "Am I unique? é uma ferramenta de IA para analisar e determinar a singularidade dos seus dados pessoais. Avalia o risco de exposição de dados pessoais usando algoritmos de IA.",
+      "ferramenta": "https://amiunique.org/",
+      "video": "https://www.youtube.com/watch?v=TmkhnOuSDqQ&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=38"
+    },
+    {
+      "nome": "Diffit",
+      "descricao": "Diffit é um assistente de IA que adapta textos e artigos a diferentes níveis de leitura, gerando resumos, glossários e perguntas para personalizar o aprendizado.",
+      "ferramenta": "https://www.diffit.me/",
+      "video": ""
+    },
+    {
+      "nome": "Fliki",
+      "descricao": "Fliki converte textos em vídeos usando inteligência artificial, combinando locução realista em vários idiomas com imagens e clipes, facilitando a produção de vídeos a partir de roteiros escritos.",
+      "ferramenta": "https://fliki.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Curipod",
+      "descricao": "Curipod utiliza inteligência artificial para criar apresentações interativas, incluindo quizzes, nuvens de palavras e perguntas abertas, a partir de instruções simples do professor.",
+      "ferramenta": "https://curipod.com/",
+      "video": "https://youtu.be/Iy-qMOJuv-4?si=dse4vZ1xn5HUQqCA"
+    },
+    {
+      "nome": "Formative AI",
+      "descricao": "Formative AI cria perguntas automáticas a partir de conteúdos, aplica provas online e analisa o desempenho dos alunos, oferecendo versão gratuita funcional para professores.",
+      "ferramenta": "https://app.formative.com/",
+      "video": ""
+    },
+    {
+      "nome": "NotebookLM",
+      "descricao": "NotebookLM é um LLM que utiliza apenas as fontes fornecidas para gerar textos, sendo capaz de criar vídeos, podcasts e mapas mentais para estudo.",
+      "ferramenta": "https://notebooklm.google.com/",
+      "video": "https://youtu.be/mMFyh4eqA0U?si=nLaTrr7u6aCzWYAJ"
+    },
+    {
+      "nome": "Semantris",
+      "descricao": "Semantris é um jogo para trabalhar vocabulário, em inglês, e a associação de palavras por IA.",
+      "ferramenta": "https://research.google.com/semantris/",
+      "video": ""
+    },
+    {
+      "nome": "Odd One Out",
+      "descricao": "Odd One Out é um jogo para identificar qual a imagem “impostora”, gerada por IA, entre várias imagens apresentadas.",
+      "ferramenta": "https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw?hl=en",
+      "video": ""
+    },
+    {
+      "nome": "Why language models hallucinate",
+      "descricao": "“Why language models hallucinate” é um artigo da OpenAI que explica a alucinação dos modelos de linguagem, discutindo por que os sistemas geram respostas incorretas ou inventadas.",
+      "ferramenta": "https://openai.com/pt-BR/index/why-language-models-hallucinate/",
+      "video": ""
+    },
+    {
+      "nome": "Quizizz",
+      "descricao": "Quizizz é uma plataforma de quizzes interativos que permite criar avaliações gamificadas, oferecendo feedback instantâneo e relatórios de desempenho para os alunos.",
+      "ferramenta": "https://quizizz.com/",
+      "video": ""
+    },
+    {
+      "nome": "Gamma",
+      "descricao": "Gamma é uma ferramenta de apresentações interativas que usa IA para melhorar a experiência visual, sugerindo layouts e designs otimizados para melhor engajamento do público.",
+      "ferramenta": "(link conforme configurado no ambiente Gamma)",
+      "video": ""
+    },
+    {
+      "nome": "EduaideAI",
+      "descricao": "EduaideAI é uma plataforma de inteligência artificial que gera planos de aula, questionários e materiais didáticos personalizados a partir de objetivos e temas fornecidos pelo professor.",
+      "ferramenta": "https://eduaide.ai/",
+      "video": ""
+    },
+    {
+      "nome": "SlidesAI",
+      "descricao": "SlidesAI converte textos e resumos em apresentações de slides profissionais com layouts e gráficos otimizados, economizando tempo na preparação de aulas e palestras.",
+      "ferramenta": "https://www.slidesai.io/",
+      "video": ""
+    },
+    {
+      "nome": "Otter.ai",
+      "descricao": "Otter.ai é um serviço de transcrição automática que grava, transcreve e resume reuniões ou aulas em tempo real, permitindo gerar registros e notas acessíveis.",
+      "ferramenta": "https://otter.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Descript",
+      "descricao": "Descript é um editor de áudio e vídeo que utiliza IA para transcrever, cortar e reordenar clipes a partir de edição de texto, além de oferecer dublagem e remoção de ruído.",
+      "ferramenta": "https://www.descript.com/",
+      "video": ""
+    },
+    {
+      "nome": "Pictory",
+      "descricao": "Pictory utiliza IA para extrair trechos importantes de vídeos longos, criar highlights e transformar roteiros em vídeos com imagens e legendas automaticamente.",
+      "ferramenta": "https://pictory.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Lumen5",
+      "descricao": "Lumen5 é uma plataforma de criação de vídeos que usa IA para converter textos ou posts de blog em vídeos atraentes, sugerindo imagens, trilhas sonoras e animações.",
+      "ferramenta": "https://lumen5.com/",
+      "video": ""
+    },
+    {
+      "nome": "Wisecut",
+      "descricao": "Wisecut é um editor de vídeo online que utiliza IA para remover silêncios, adicionar cortes automáticos e ajustar a trilha sonora, acelerando a pós-produção de vídeos educacionais.",
+      "ferramenta": "https://www.wisecut.video/",
+      "video": ""
+    },
+    {
+      "nome": "Murf AI",
+      "descricao": "Murf AI é uma plataforma de síntese de voz que gera narrações realistas em vários idiomas e estilos a partir de texto, ideal para vídeos, podcasts e materiais de e-learning.",
+      "ferramenta": "https://murf.ai/",
+      "video": ""
+    },
+    {
+      "nome": "AIVA",
+      "descricao": "AIVA é um compositor de música baseado em inteligência artificial que cria trilhas sonoras originais para vídeos, jogos e apresentações, permitindo personalizar estilo e emoção.",
+      "ferramenta": "https://www.aiva.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Copy.ai",
+      "descricao": "Copy.ai é um gerador de conteúdo que utiliza modelos de linguagem para criar textos de marketing, posts, e-mails e descrições de forma rápida e criativa.",
+      "ferramenta": "https://www.copy.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Writesonic",
+      "descricao": "Writesonic é uma plataforma de escrita assistida que gera artigos, scripts, anúncios e posts para redes sociais, com opções de personalização de tom e estilo.",
+      "ferramenta": "https://writesonic.com/",
+      "video": ""
+    },
+    {
+      "nome": "Scholarcy",
+      "descricao": "Scholarcy é uma ferramenta de IA que lê artigos científicos e resumos, extraindo os principais pontos, destacando figuras e criando flashcards para estudo.",
+      "ferramenta": "https://www.scholarcy.com/",
+      "video": ""
+    },
+    {
+      "nome": "Brainly",
+      "descricao": "Brainly é uma comunidade de perguntas e respostas para estudantes que utiliza IA para sugerir soluções, moderar conteúdo e conectar usuários a explicações relevantes.",
+      "ferramenta": "https://brainly.com/",
+      "video": ""
+    },
+    {
+      "nome": "GitHub Copilot",
+      "descricao": "GitHub Copilot é um assistente de programação que usa modelos de IA para sugerir código, completar funções e gerar blocos inteiros a partir de comentários em várias linguagens.",
+      "ferramenta": "https://github.com/features/copilot",
+      "video": ""
+    },
+    {
+      "nome": "Replit Ghostwriter",
+      "descricao": "Replit Ghostwriter é um assistente integrado ao ambiente de codificação do Replit que gera trechos de código, explica erros e ajuda na depuração em tempo real.",
+      "ferramenta": "https://replit.com/site/ghostwriter",
+      "video": ""
+    },
+    {
+      "nome": "Grammarly",
+      "descricao": "Grammarly é um assistente de escrita que corrige gramática, pontuação e estilo em tempo real, oferecendo sugestões de melhoria e integração com diversos aplicativos.",
+      "ferramenta": "https://www.grammarly.com/",
+      "video": ""
+    },
+    {
+      "nome": "DeepL Translator",
+      "descricao": "DeepL Translator utiliza redes neurais avançadas para traduzir textos com alta precisão e preservar o contexto, oferecendo também recursos de escrita assistida.",
+      "ferramenta": "https://www.deepl.com/translator",
+      "video": ""
+    },
+    {
+      "nome": "Wordtune",
+      "descricao": "Wordtune é uma ferramenta de reescrita que sugere diferentes maneiras de expressar a mesma ideia, ajudando a aperfeiçoar a clareza e o tom do texto.",
+      "ferramenta": "https://www.wordtune.com/",
+      "video": ""
+    },
+    {
+      "nome": "Coda AI",
+      "descricao": "Coda AI integra inteligência artificial ao ambiente de documentos da Coda, permitindo gerar textos, organizar dados e automatizar tarefas dentro de um mesmo documento.",
+      "ferramenta": "https://coda.io/ai",
+      "video": ""
+    },
+    {
+      "nome": "AskYourPDF",
+      "descricao": "AskYourPDF permite fazer perguntas diretamente a documentos PDF, utilizando IA para extrair e contextualizar respostas, agilizando a pesquisa em artigos e relatórios.",
+      "ferramenta": "https://askyourpdf.com/",
+      "video": ""
+    },
+    {
+      "nome": "Elicit",
+      "descricao": "Elicit é um assistente de pesquisa que encontra, resume e cita artigos acadêmicos automaticamente, permitindo responder perguntas e gerar revisões de literatura rapidamente.",
+      "ferramenta": "https://elicit.com/",
+      "video": ""
+    },
+    {
+      "nome": "MindMeister",
+      "descricao": "MindMeister é uma plataforma de mapas mentais que incorpora IA para sugerir conexões, organizar tópicos automaticamente e facilitar o brainstorming colaborativo.",
+      "ferramenta": "https://www.mindmeister.com/",
+      "video": ""
+    },
+    {
+      "nome": "Wizer",
+      "descricao": "Wizer é uma plataforma que permite aos professores criar planilhas e atividades interativas; a IA sugere perguntas, oferece feedback automático e adapta o nível de dificuldade.",
+      "ferramenta": "https://www.wizer.me/",
+      "video": ""
+    },
+    {
+      "nome": "Perusall",
+      "descricao": "Perusall é uma plataforma de leitura colaborativa que utiliza IA para selecionar trechos importantes, incentivar anotações e avaliar engajamento em textos acadêmicos.",
+      "ferramenta": "https://perusall.com/",
+      "video": ""
+    },
+    {
+      "nome": "Remove.bg",
+      "descricao": "Remove.bg usa inteligência artificial para remover automaticamente o fundo de fotos e imagens, agilizando a criação de materiais visuais para apresentações e redes sociais.",
+      "ferramenta": "https://www.remove.bg/",
+      "video": ""
+    },
+    {
+      "nome": "Kaiber AI",
+      "descricao": "Kaiber AI transforma imagens, áudio e descrições em vídeos dinâmicos, permitindo criar narrativas visuais e musicais com poucos cliques.",
+      "ferramenta": "https://www.kaiber.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Microsoft Designer",
+      "descricao": "Microsoft Designer é uma ferramenta de design gráfico que usa IA para criar layouts e imagens personalizados a partir de descrições textuais, ideal para posts e materiais promocionais.",
+      "ferramenta": "https://designer.microsoft.com/",
+      "video": ""
+    },
+    {
+      "nome": "Socratic",
+      "descricao": "Socratic é um aplicativo de inteligência artificial do Google que ajuda estudantes a resolver tarefas, permitindo escanear questões ou fotografar problemas e fornecendo explicações detalhadas passo a passo.",
+      "ferramenta": "https://socratic.org/",
+      "video": ""
+    },
+    {
+      "nome": "Duolingo Max",
+      "descricao": "Duolingo Max é a versão premium do Duolingo com recursos de IA generativa, como “Explain My Answer” e “Roleplay”, que oferecem feedback contextualizado e simulação de conversas para aprimorar o aprendizado de idiomas.",
+      "ferramenta": "https://www.duolingo.com/",
+      "video": ""
+    },
+    {
+      "nome": "Turnitin",
+      "descricao": "Turnitin é uma plataforma de verificação de originalidade e detecção de plágio que utiliza algoritmos de inteligência artificial para comparar trabalhos acadêmicos com bancos de dados extensos e identificar textos gerados por IA.",
+      "ferramenta": "https://www.turnitin.com/",
+      "video": ""
+    },
+    {
+      "nome": "Smodin",
+      "descricao": "Smodin é um assistente de escrita que usa inteligência artificial para gerar textos, reescrever parágrafos, resumir conteúdos e citar fontes, sendo útil na criação de trabalhos acadêmicos.",
+      "ferramenta": "https://smodin.io/",
+      "video": ""
+    },
+    {
+      "nome": "Quizlet",
+      "descricao": "Quizlet é uma plataforma de estudo baseada em flashcards que utiliza algoritmos de repetição espaçada e modos de aprendizado adaptativo para ajudar os alunos a memorizar conceitos com eficiência.",
+      "ferramenta": "https://quizlet.com/pt-br",
+      "video": ""
+    },
+    {
+      "nome": "Socrative",
+      "descricao": "Socrative é uma plataforma de avaliação em tempo real que permite aos professores criar questionários, enquetes e jogos, coletando respostas instantaneamente e favorecendo feedback formativo durante as aulas.",
+      "ferramenta": "https://socrative.com/",
+      "video": ""
+    },
+    {
+      "nome": "Edpuzzle",
+      "descricao": "Edpuzzle permite aos educadores transformar vídeos em aulas interativas, adicionando perguntas, notas e narrativas em pontos específicos, com acompanhamento do progresso dos alunos.",
+      "ferramenta": "https://edpuzzle.com/",
+      "video": ""
+    },
+    {
+      "nome": "Loom",
+      "descricao": "Loom é um gravador de tela e câmera que facilita a produção de vídeos educativos, oferecendo transcrições automáticas, compartilhamento rápido e recursos de edição simples.",
+      "ferramenta": "https://www.loom.com/",
+      "video": ""
+    },
+    {
+      "nome": "Tome",
+      "descricao": "Tome é uma plataforma que usa inteligência artificial para gerar apresentações narrativas a partir de prompts, criando slides coerentes com texto, imagens e diagramas de forma automática.",
+      "ferramenta": "https://tome.app/",
+      "video": ""
+    },
+    {
+      "nome": "Synthesys",
+      "descricao": "Synthesys é uma plataforma de síntese de voz e vídeo que utiliza IA para criar narrativas com locutores virtuais realistas e avatares, ideal para gerar explicações em vídeo sem gravação manual.",
+      "ferramenta": "https://synthesys.io/",
+      "video": ""
+    },
+    {
+      "nome": "ChatSonic",
+      "descricao": "ChatSonic é um chatbot de inteligência artificial desenvolvido pela Writesonic, que se conecta à internet para fornecer respostas atualizadas e gera textos, histórias e explicações em conversas naturais.",
+      "ferramenta": "https://writesonic.com/chat",
+      "video": ""
+    },
+    {
+      "nome": "Magic Write",
+      "descricao": "Magic Write é o assistente de escrita do Canva que utiliza IA para gerar textos criativos e profissionais, auxiliando na redação de descrições, roteiros e posts integrado ao editor do Canva.",
+      "ferramenta": "https://www.canva.com/magic-write/",
+      "video": ""
+    },
+    {
+      "nome": "Ava",
+      "descricao": "Ava é uma solução de acessibilidade que oferece transcrição e legendagem em tempo real utilizando inteligência artificial, tornando reuniões, aulas e conversas acessíveis para pessoas com deficiência auditiva.",
+      "ferramenta": "https://www.ava.me/",
+      "video": ""
+    },
+    {
+      "nome": "Rephrase.ai",
+      "descricao": "Rephrase.ai usa IA para gerar vídeos personalizados a partir de texto, criando avatares realistas que narram mensagens, útil para comunicados em vídeo sem gravações longas.",
+      "ferramenta": "https://www.rephrase.ai/",
+      "video": ""
+    },
+    {
+      "nome": "KinetiX",
+      "descricao": "KinetiX é uma plataforma de IA que converte vídeos 2D em animações 3D, permitindo criar personagens e movimentos tridimensionais a partir de gravações.",
+      "ferramenta": "https://www.kinetix.tech/",
+      "video": ""
+    },
+    {
+      "nome": "ChatSpot",
+      "descricao": "ChatSpot é um assistente de IA da HubSpot que integra recursos do ChatGPT com dados de CRM, simplificando tarefas de marketing e vendas e podendo organizar comunicações e relatórios.",
+      "ferramenta": "https://www.chatspot.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Mathway",
+      "descricao": "Mathway é um solucionador de problemas matemáticos que utiliza IA para fornecer respostas imediatas e explicações passo a passo em diversas áreas da matemática.",
+      "ferramenta": "https://www.mathway.com/",
+      "video": ""
+    },
+    {
+      "nome": "Explain Everything",
+      "descricao": "Explain Everything é um aplicativo de quadro branco digital colaborativo que permite desenhar, gravar aulas, importar slides e colaborar em tempo real, integrando áudio, vídeo e anotações.",
+      "ferramenta": "https://explaineverything.com/",
+      "video": ""
+    },
+    {
+      "nome": "Photoleap",
+      "descricao": "Photoleap, da Lightricks, é um editor de fotos com recursos de IA que permitem remover fundos, gerar arte e aplicar efeitos criativos, útil para criar imagens atrativas para materiais didáticos.",
+      "ferramenta": "https://www.photoleapapp.com/",
+      "video": ""
+    },
+    {
+      "nome": "Clipchamp",
+      "descricao": "Clipchamp é um editor de vídeo online da Microsoft que oferece ferramentas intuitivas de corte, legendas automáticas, texto para fala e modelos, auxiliando na criação de vídeos de qualidade.",
+      "ferramenta": "https://www.clipchamp.com/pt-br/",
+      "video": ""
+    },
+    {
+      "nome": "WeVideo",
+      "descricao": "WeVideo é uma plataforma de edição de vídeo baseada na nuvem que permite colaboração em tempo real, com biblioteca de mídias para criação de projetos audiovisuais em grupo.",
+      "ferramenta": "https://www.wevideo.com/",
+      "video": ""
+    },
+    {
+      "nome": "Powtoon",
+      "descricao": "Powtoon é uma ferramenta de criação de vídeos animados e apresentações com modelos e personagens personalizáveis, permitindo elaborar explicações visuais envolventes.",
+      "ferramenta": "https://www.powtoon.com/",
+      "video": ""
+    },
+    {
+      "nome": "Fireflies.ai",
+      "descricao": "Fireflies.ai é um assistente de reuniões que grava, transcreve e gera resumos automáticos de conversas, integrando-se a plataformas de videoconferência e facilitando a documentação de aulas e reuniões pedagógicas.",
+      "ferramenta": "https://fireflies.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Podcastle",
+      "descricao": "Podcastle é uma plataforma de gravação e edição de áudio com recursos de IA, como remoção de ruído, transcrição e clonagem de voz. Ideal para criar podcasts educacionais e materiais sonoros.",
+      "ferramenta": "https://podcastle.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Scite",
+      "descricao": "Scite é uma ferramenta de pesquisa que utiliza IA para avaliar o contexto de citações em artigos científicos. Ele indica se um trabalho foi citado de forma apoiadora, neutra ou contraditória, auxiliando na avaliação de fontes.",
+      "ferramenta": "https://scite.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Humata",
+      "descricao": "Humata é uma plataforma que permite fazer upload de documentos e receber resumos automáticos, respostas a perguntas e insights utilizando IA. Ela ajuda a entender rapidamente textos longos e técnicos.",
+      "ferramenta": "https://www.humata.ai/",
+      "video": ""
+    },
+    {
+      "nome": "Miro AI",
+      "descricao": "Miro AI integra recursos de inteligência artificial ao quadro colaborativo Miro, como geração de ideias, agrupamento de post-its e resumos automáticos, otimizando sessões de brainstorming e planejamento.",
+      "ferramenta": "https://miro.com/ai/",
+      "video": ""
+    },
+    {
+      "nome": "Rewind AI",
+      "descricao": "Rewind AI grava e indexa tudo o que acontece no seu computador, permitindo pesquisar e recuperar informações rapidamente. Para educadores, pode servir como um histórico de trabalho, facilitando revisões e resumos.",
+      "ferramenta": "https://www.rewind.ai/",
+      "video": ""
     }
   ]
 }
-
-
