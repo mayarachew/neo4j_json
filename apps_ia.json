@@ -1,0 +1,73 @@
+{ 
+    "tema":"Aplicativos de Inteligência Artificial",
+    "aplicativos": [
+    {
+      "nome": "Scratch",
+      "descricao": "Scratch é uma plataforma de programação visual baseada em blocos, desenvolvida pelo MIT, que permite criar animações, jogos e histórias interativas de forma intuitiva e acessível, promovendo o aprendizado de conceitos de programação e pensamento computacional.",
+      "ferramenta": "https://scratch.mit.edu/",
+      "video": "https://www.youtube.com/watch?v=SHgHE0DpYyk&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=25"
+    },
+    {
+      "nome": "Blackbox",
+      "descricao": "Blackbox é uma plataforma de inteligência artificial que auxilia programadores a gerar, completar e otimizar código automaticamente, integrando-se a diversos editores e linguagens para aumentar a produtividade no desenvolvimento de software.",
+      "ferramenta": "https://www.blackbox.ai/",
+      "video": "https://www.youtube.com/watch?v=mQKrbR2tE-Y&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=8"
+    },
+    {
+      "nome": "Soundraw.io",
+      "descricao": "Soundraw.io é uma plataforma de inteligência artificial que permite criar músicas personalizadas de forma rápida e intuitiva, oferecendo opções de personalização para gênero, ritmo e instrumentos, ideal para criadores de conteúdo e músicos.",
+      "ferramenta": "http://soundraw.io",
+      "video": "https://www.youtube.com/watch?v=RHWr9MbKhDI&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=29"
+    },
+    {
+      "nome": "Synthesia",
+      "descricao": "Synthesia é uma plataforma de inteligência artificial que permite criar vídeos com avatares virtuais realistas, gerando apresentações e conteúdos audiovisuais a partir de textos sem a necessidade de gravações tradicionais.",
+      "ferramenta": "https://www.synthesia.io/",
+      "video": "https://www.youtube.com/watch?v=VTL11h7dlw4&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=30"
+    },
+    {
+      "nome": "InVideo",
+      "descricao": "InVideo é uma plataforma online de edição de vídeos que oferece templates personalizáveis, ferramentas de inteligência artificial e uma interface intuitiva para criar conteúdos profissionais de forma rápida e acessível.",
+      "ferramenta": "https://invideo.io/",
+      "video": "https://www.youtube.com/watch?v=bHjQvvZvY4c&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=5"
+    },
+    {
+      "nome": "Leonardo AI",
+      "descricao": "Ferramenta de criação impulsionada por IA para facilitar o design e a produção de conteúdos. Automatiza tarefas de design repetitivas e sugere melhorias criativas.",
+      "ferramenta": "https://leonardo.ai/",
+      "video": "https://www.youtube.com/watch?v=NWj-thyOGRY&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=14"
+    },
+    {
+      "nome": "Mobirise",
+      "descricao": "Mobirise é um construtor de sites offline e gratuito, baseado em blocos, que permite criar páginas responsivas sem a necessidade de programação, ideal para pequenas empresas, portfólios e landing pages.",
+      "ferramenta": "https://mobirise.com/website-builder/pt/kid.html",
+      "video": "https://www.youtube.com/watch?v=Im71QpSVgu4&list=PLDFrnPxvGORjdSDjkIJU3lgTjMZkQSYX9&index=19"
+    },
+    {
+      "nome": "ChatGPT",
+      "descricao": "ChatGPT é um assistente de inteligência artificial desenvolvido pela OpenAI que utiliza processamento de linguagem natural para responder perguntas, gerar textos, auxiliar na programação e realizar diversas tarefas de forma interativa e intuitiva.",
+      "ferramenta": "https://chat.openai.com/",
+      "video": "https://www.youtube.com/watch?v=iXoiTAFMuo4&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=51"
+    },
+    {
+      "nome": "Gamma App",
+      "descricao": "Gamma App é uma plataforma que utiliza inteligência artificial para criar apresentações, documentos e páginas web interativas de forma automatizada, oferecendo um design moderno e dinâmico sem a necessidade de habilidades avançadas em design ou programação.",
+      "ferramenta": "https://gamma.app/",
+      "video": "https://www.youtube.com/watch?v=Yw9Ut4T-8tk&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=53"
+    },
+    {
+      "nome": "Suno AI",
+      "descricao": "Suno AI é uma plataforma de inteligência artificial que permite a criação automatizada de músicas, gerando composições originais a partir de comandos de texto, ideal para criadores de conteúdo, músicos e produtores.",
+      "ferramenta": "https://suno.com/create",
+      "video": "https://www.youtube.com/watch?v=gwxQTmT6cDo&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=31"
+    },
+    {
+      "nome": "ElevenLabs.io",
+      "descricao": "ElevenLabs.io é uma plataforma de inteligência artificial especializada em síntese de voz realista, permitindo a criação de narrações naturais em diversos idiomas e estilos para vídeos, podcasts e assistentes virtuais.",
+      "ferramenta": "https://elevenlabs.io/",
+      "video": "https://www.youtube.com/watch?v=OkV52yVyP1I&list=PLDFrnPxvGORjqHtU2s3nasxSbn0qzw2MI&index=30"
+    }
+  ]
+}
+
+
