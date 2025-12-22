@@ -1664,784 +1664,788 @@
             "Estrutura_de_Oferta": {
               "descricao": "Um dos princípios que norteiam os Itinerários Formativos é a flexibilização, segundo a qual a composição das unidades curriculares nessa parte do currículo será personalizada e orientada.",
               "componentes": [
-                "Projeto de Vida",
-                "Língua Espanhola",
-                "Eletivas Orientadas",
-                "Trilhas de Aprendizagens"
-              ]
-            },
-            "Projeto_de_Vida": {
-              "objetivo": "Propiciar um momento de autorreflexão sobre seu presente e futuro, estimulando a autonomia, o protagonismo e o desenvolvimento das competências sociais para que os estudantes se tornem cidadãos ativos e responsáveis.",
-              "finalidades": [
-                "planejar trajetórias ao longo do Ensino Médio",
-                "refletir sobre escolhas de eletivas orientadas e trilhas de aprendizagem",
-                "tomar decisões refletidas",
-                "engajar-se no trabalho coletivo",
-                "compreender as responsabilidades de cada escolha"
-              ],
-              "vertentes": [
                 {
-                  "nome": "Transição para o Ensino Médio",
-                  "descricao": "Trabalhar a dificuldade de transição entre o Ensino Fundamental e o Ensino Médio, bem como a necessidade de planejamento e organização dos estudantes."
-                },
-                {
-                  "nome": "Desenvolvimento do Projeto de Vida",
-                  "descricao": "Estimular o autoconhecimento e a reflexão sobre o percurso para a vida adulta, sem definir precocemente profissão ou área de formação."
-                },
-                {
-                  "nome": "Desenvolvimento do Plano Individual de Curso",
-                  "descricao": "Elaborar um planejamento da trajetória no Ensino Médio, em conjunto com o professor orientador, de acordo com as potencialidades do estudante."
-                },
-                {
-                  "nome": "Orientação para Prosseguimento dos Estudos",
-                  "descricao": "Orientar estratégias para o acesso ao Ensino Superior, Educação Profissional e Tecnológica, concursos públicos, empreendedorismo e outras formas de ingresso no mundo do trabalho."
-                }
-              ],
-              "caracter_obrigatorio": "A unidade curricular Projeto de Vida será ofertada a todos os estudantes ao longo de todo o Ensino Médio, como unidade curricular obrigatória."
-            }
-          }
-        },
-        "Lingua_Espanhola": {
-          "Objetivos_Gerais": "A ampliação crítica das relações sociais por meio dos estudos das diferentes linguagens humanas nas plataformas digitais existentes.",
-          "Objetivos_de_Aprendizagem_por_Unidade_Tematica": [
-            {
-              "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS SOCIOAMBIENTAIS",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "ESP43",
-                  "descricao": "Averiguar o funcionamento de órgãos públicos normatizadores e fiscalizadores de questões ambientais, a partir da análise linguística de textos oficiais relacionados à área, para a produção e divulgação de materiais informativos e opinativos referentes a temáticas socioambientais."
-                },
-                {
-                  "codigo": "ESP44",
-                  "descricao": "Analisar as políticas públicas de combate às ocupações ilegais/desordenadas e às queimadas, bem como a aplicabilidade da legislação vigente voltada ao uso consciente dos recursos hídricos, para um monitoramento ativo e responsável do Patrimônio Ambiental do DF e da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (RIDE)."
-                },
-                {
-                  "codigo": "ESP45",
-                  "descricao": "Posicionar-se, pelo uso de debates, acerca de questões socioambientais, indígenas, quilombolas e dos povos ciganos, presentes em textos midiáticos de âmbito nacional e distrital, favorecendo o raciocínio crítico, prospectivo e interpretativo."
-                },
-                {
-                  "codigo": "ESP46",
-                  "descricao": "Verificar ações artísticas, desportivas, verbais e socioculturais que envolvem a preservação do meio ambiente e o incentivo à sustentabilidade; visando reconstruí-las em contextos pedagógicos, escolares e socioculturais e, também, digitais."
-                },
-                {
-                  "codigo": "ESP47",
-                  "descricao": "Distinguir diferentes estilos e espaços cênicos, esportivos e de letramento para analisar a dinâmica de práticas sociais, tradicionais e contemporâneas, que envolvem o meio ambiente e contextualizam campos específicos dos diferentes componentes da Área de Linguagens e suas Tecnologias."
-                },
-                {
-                  "codigo": "ESP48",
-                  "descricao": "Comparar a espacialidade visual com práticas artísticas, esportivas, históricas e socioculturais (Arte Medieval - bizantina, românica e gótica, Renascentista - clássica e neoclássica, barroco, movimentos artísticos e literários - romantismo, realismo, naturalismo) para apreciar a construção de estéticas e monumentos que se inspiram e interferem em paisagens e no meio ambiente."
-                },
-                {
-                  "codigo": "ESP49",
-                  "descricao": "Analisar a participação cidadã, democrática, humana, sensível, diversa, por meio do posicionamento crítico das teorias, práticas e relações estéticas da Arte, da Educação Física e das Línguas Portuguesa e Estrangeiras com as novas tecnologias, o meio ambiente e a biodiversidade."
-                },
-                {
-                  "codigo": "ESP50",
-                  "descricao": "Vivenciar práticas corporais praticadas em espaços naturais e espaços urbanos de forma crítica, que leve em conta o meio ambiente, a arquitetura local, o patrimônio público e a consciência socioambiental para possibilidades de atuação social e política, objetivando a manutenção e a criação de iniciativas públicas de esporte e lazer em sua comunidade, em consonância com a preservação do meio ambiente."
-                },
-                {
-                  "codigo": "ESP51",
-                  "descricao": "Contrastar as ações que envolvem o Brasil e os países que falam a Língua Espanhola, no tocante a acordos internacionais acerca do meio ambiente, com o objetivo de desenvolver a consciência e o protagonismo ambiental quanto à preservação em níveis local, regional e global."
-                },
-                {
-                  "codigo": "ESP52",
-                  "descricao": "Categorizar, na Língua Espanhola, ações individuais e coletivas que possibilitem a reflexão sobre a importância do trabalho voluntário, para a melhoria da relação do individuo com o meio ambiente e com a comunidade em que vive, fortalecendo a consciência de pertencimento local, regional e global."
-                },
-                {
-                  "codigo": "ESP53",
-                  "descricao": "Criar, utilizando a Língua Espanhola, orientações/sugestões para o desenvolvimento da sustentabilidade em âmbitos local, regional e global, visando a conscientização e a preservação do patrimônio ambiental."
-                }
-              ]
-            },
-            {
-              "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE IDENTIDADE E PROTAGONISMO JUVENIL",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "ESP54",
-                  "descricao": "Criar, pelo uso do LinkedIn, Infográficos, Currículo Digital, Blog Profissional, registros digitais profissionais em diferentes linguagens, no propósito de validar os projetos de vida alicerçados nas trajetórias de cada indivíduo."
-                },
-                {
-                  "codigo": "ESP55",
-                  "descricao": "Posicionar-se a partir de debates e discussões sobre temas de interesse da juventude, apropriando-se de bases legais, como o Estatuto da Juventude e as políticas públicas vigentes, para tornarem-se protagonistas de ações que contemplem a condição juvenil."
-                },
-                {
-                  "codigo": "ESP56",
-                  "descricao": "Avaliar os valores culturais e humanos no patrimônio artístico, arquitetônico e literário, valorizando as peculiaridades estruturais e estilísticas de diferentes gêneros artísticos e literários, a fim de fortalecer a elaboração da subjetividade e das inter-relações pessoais."
-                },
-                {
-                  "codigo": "ESP57",
-                  "descricao": "Planejar, de forma colaborativa, a produção de projetos culturais e de entretenimento para a divulgação, produção de comentários e avaliação de produções culturais e artísticas de interesse juvenil."
-                },
-                {
-                  "codigo": "ESP58",
-                  "descricao": "Desenvolver as etapas de produção da pesquisa científica a partir dos gêneros textuais envolvidos na sua realização e divulgação, reconhecendo as múltiplas formas como esse conhecimento é produzido e difundido nas sociedades contemporâneas."
-                },
-                {
-                  "codigo": "ESP59",
-                  "descricao": "Selecionar procedimentos de checagem de fatos noticiados e demais informações veiculadas nos sistemas de comunicação e informação e que originam o fenômeno da pós- -verdade, detectando a veracidade e os interesses implícitos dessas informações."
-                },
-                {
-                  "codigo": "ESP60",
-                  "descricao": "Descobrir coletivos indígenas, negros, latino-americanos e outros grupos étnicos que fazem uso de diversas expressões artísticas, verbais e desportivas (hip hop, rock, danças urbanas) para discutir a expressão e manifestação de suas ideias, de forma mútua e intercultural, por meio das diferentes linguagens e suas tecnologias."
-                },
-                {
-                  "codigo": "ESP61",
-                  "descricao": "Distinguir as danças e expressões brasileiras das matrizes culturais dos povos indigenas (cateretê, caiapós, cururu, guajajara, jacundá, boi-bumbá), africanas e afro-brasileiras (capoeira, congada, jongo, maracatu, samba de roda), valorizando e praticando seus saberes e fazeres culturais de formação da identidade artística, linguística e esportiva nacional."
-                },
-                {
-                  "codigo": "ESP62",
-                  "descricao": "Identificar conceitos sobre o corpo e discursos linguísticos e identitários presentes na expressividade corporal (ações corporais - movimento, espaço, tempo, peso, fluência, conceito de corpo dual, totalidade, corporeidade) para experimentar seus procedimentos de improvisação e criação relacionados aos diferentes modos próprios e sensíveis de criar, recriar e expressar o movimento estético e corporal em contextos pedagógicos, artísticos e desportivos."
-                },
-                {
-                  "codigo": "ESP63",
-                  "descricao": "Utilizar processos criativos incorporados à corporeidade e suas expressões verbais e estéticas, de modo a desenvolver o repertório artístico e cultural; contribuindo para a autonomia e trajetória de vida por meio do autoconhecimento corpóreo em práticas artiísticas, desportivas e expressivas."
-                },
-                {
-                  "codigo": "ESP64",
-                  "descricao": "Apreciar espetáculos e manifestações artísticas, verbais e desportivas que envolvem as diferentes linguagens, no entorno escolar e além dele, para aprimorar a fruição, a crítica e a leitura de estéticas tradicionais e contemporâneas como parte do processo de formação do público/espectador."
-                },
-                {
-                  "codigo": "ESP65",
-                  "descricao": "Interpretar os conceitos de atividade física, aptidão física (principalmente os componentes da aptidão física relacionados à saúde), saúde e qualidade de vida (e seus fatores), bem como seus benefícios e comorbidades associadas para significá-las em seu projeto de vida de forma consciente, de modo a desenvolver um estilo de vida mais ativo, adotando práticas de cuidado com o corpo e com a saúde."
-                },
-                {
-                  "codigo": "ESP66",
-                  "descricao": "Compreender os conceitos de nutrição, suplementação, produtos anabolizantes, alimentação saudável e suas relações de consumo, sustentabilidade e discursos midiáticos para a construção de um posicionamento crítico e a adoção de hábitos saudáveis."
-                },
-                {
-                  "codigo": "ESP67",
-                  "descricao": "Conhecer o conceito de imagem corporal, sua forma de desenvolvimento e construção, compreender os padrões de beleza e a diversidade corporal e analisar, de forma crítica, os discursos midiáticos apresentados através das manifestações artísticas, linguísticas e desportivas e sua relação com os transtornos relacionados com a imagem corporal, de modo a ressignificar suas práticas corporais na promoção do autoconhecimento e do autocuidado com a saúde para subsidiar suas escolhas para seu projeto de vida."
-                },
-                {
-                  "codigo": "ESP68",
-                  "descricao": "Experimentar novos processos de autoconhecimento através de técnicas do Yoga. Identificar as práticas yogues, a cultura oriental e suas influências na cultura brasileira, bem como suas origens históricas e mitológicas para desenvolvimento de um caminho de autoconhecimento, autocontrole, compreensão e respeito a si mesmo e ao outro."
-                },
-                {
-                  "codigo": "ESP69",
-                  "descricao": "Empregar conhecimentos linguísticos, metodológicos e socioculturais, na Língua Espanhola, para a elaboração de pré-projetos e/ou projetos (de iniciação científica, por exemplo), cartas de intenção, relatos de experiências, a fim de ampliar as possibilidades de intercâmbios estudantis, de acesso a universidades estrangeiras, de estágios profissionais e da realização de quaisquer outros projetos de vida."
-                },
-                {
-                  "codigo": "ESP70",
-                  "descricao": "Desenvolver a performance argumentativa, por meio da interação com diferentes contextos de uso da Língua Espanhola (debates, seminários, fóruns, plenárias, simulações da ONU a exemplo da SiINUS), com o objetivo de conhecer, conviver, trabalhar e serem um meio mais tolerante, inclusivo, colaborativo e pacífico."
-                },
-                {
-                  "codigo": "ESP71",
-                  "descricao": "Construir textos multimidiáticos (blogs, jornais, canais online, revistas digitais) que divulguem conteúdos de interesse dos estudantes e experiências exitosas nas comunidades escolar e local, para promover interação entre elas e ampliar a competência comunicacional na Língua Espanhola."
-                }
-              ]
-            },
-            {
-              "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE CULTURA DIGITAL",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "ESP72",
-                  "descricao": "Analisar as tecnologias da comunicação e da informação na vida pessoal e social dos jovens, associando-as ao desenvolvimento de conhecimentos científicos, às linguagens que lhes dão suporte, aos processos de produção e aos problemas que se propõem solucionar, no intuito de adequar as produções aos contextos sociais em que estejam inseridos, formando cidadãos munidos de reflexão social."
-                },
-                {
-                  "codigo": "ESP73",
-                  "descricao": "Planejar o uso das diversas plataformas de ferramentas digitais, a partir de uma participação fundamentada e ética, quanto à criação cultural para o engajamento social, propiciando uma visão crítica do indivíduo."
-                },
-                {
-                  "codigo": "ESP74",
-                  "descricao": "Apreciar formas contemporâneas de publicidade em contexto digital, bem como peças de campanhas publicitárias e políticas, debatendo os valores e as representações de situações, grupos e configurações sociais veiculadas, desconstruindo estereótipos, destacando estratégias de engajamento e viralização e explicando os mecanismos de persuasão utilizados e os efeitos de sentido provocados pelas escolhas feitas em termos de elementos e recursos de diferentes linguagens."
-                },
-                {
-                  "codigo": "ESP75",
-                  "descricao": "Operar, de forma compartilhada, práticas culturais e sociais de diferentes temáticas apoiadas em meios digitais atualmente existentes, com a finalidade de valorizar a participação cultural coletiva, fomentando a prática da inserção do indivíduo no ato de criação crítico-social."
-                },
-                {
-                  "codigo": "ESP76",
-                  "descricao": "Analisar os diferentes gêneros audiovisuais e cinematográficos e suas relações com as linguagens artísticas, verbais e esportivas (documentário, videoarte, videoclipe, animação), a fim de produzir conhecimentos da Área de Linguagens com os recursos e as estéticas digitais, considerando as produções do contexto escolar e do entorno."
-                },
-                {
-                  "codigo": "ESP77",
-                  "descricao": "Examinar a relação das diversas produções artísticas, verbais e corporais da Área de Linguagens com o desenvolvimento digital e tecnológico para interpretar seus contextos sociais, políticos, históricos e contemporâneos (Semana de Arte Moderna de 1922, antropofagia, arte moderna e pós-moderna, artistas, poetas, performers, grupos teatrais e musicais brasileiros)."
-                },
-                {
-                  "codigo": "ESP78",
-                  "descricao": "Analisar, em plataformas digitais ou em outros recursos analógicos e afins, os Festivais de Música Popular Brasileira (1965-1985) e outras composições no período da Ditadura Militar, para criar conexões com outros gêneros e estilos artísticos, textuais e musicais de diferentes tempos e espaços da historiografia musical do Brasil com o mundo (tropicalismo, bossa nova, MPB, moda de viola e emboladas, samba, batalha de rima, lives)."
-                },
-                {
-                  "codigo": "ESP79",
-                  "descricao": "Avaliar o uso de aplicativos, protocolos e softwares utilizados para promoção de atividades físicas, propiciando uma visão crítica acerca dos objetivos e das metas idealizados."
-                },
-                {
-                  "codigo": "ESP80",
-                  "descricao": "Utilizar testes e avaliações físicas, principalmente os relacionados à saúde, para compreender os benefícios no organismo humano, nas capacidades psíquicas, fisiológicas, motoras e afetivas, para adoção de um estilo de vida que leve em consideração a promoção da atividade física."
-                },
-                {
-                  "codigo": "ESP81",
-                  "descricao": "Avaliar criticamente o processo histórico dos jogos eletrônicos, preconceitos, estereótipos e relações de poder, com a finalidade de desenvolver diferentes modos de participação e intervenção social."
-                },
-                {
-                  "codigo": "ESP82",
-                  "descricao": "Explorar as tecnologias digitais dirigidas à atividade física, conhecidas como Exergames, ou interface de esforço, compreendendo sua abrangência, seus princípios, suas funcionalidades e seus objetivos, e utilizá-las de forma crítica, ética, criativa e adequada à construção do seu conhecimento sobre o tema."
-                },
-                {
-                  "codigo": "ESP83",
-                  "descricao": "Analisar diferentes gêneros digitais (tradutores online, dicionários virtuais, mensagens instantâneas), com o objetivo de acessar a informação e ampliar a capacidade de comunicação, na Língua Espanhola, por meio de ambientes virtuais."
-                },
-                {
-                  "codigo": "ESP84",
-                  "descricao": "Explorar diferentes plataformas digitais que propiciem o acesso ao acervo artístico-literário internacional, a fim de ampliar repertório e conhecer expoentes mundiais nos cenários culturais da Língua Espanhola (música, teatro, literatura, arte)."
-                },
-                {
-                  "codigo": "ESP85",
-                  "descricao": "Desenvolver recursos digitais (aplicativos, sistemas, gráficos para mapeamentos de dados), utilizando a Língua Espanhola, de modo a contribuir, de forma criativa e significativa, com o aprimoramento de questões relacionadas ao bem-estar da comunidade na qual o estudante está inserido."
-                }
-              ]
-            }
-          ]
-        },
-        "Eletivas_Orientadas": {
-          "definicao": "As Eletivas Orientadas são unidades curriculares de duração semestral, com carga horária definida conforme a intencionalidade pedagógica, nas quais os estudantes serão matriculados de acordo com suas escolhas, porém de maneira orientada.",
-          "oferta": "Essas Unidades Curriculares serão disponibilizadas aos estudantes ao longo de todo o Ensino Médio, a partir de um catálogo construído pelas Instituições Educacionais e aprovado pela sua mantenedora.",
-          "planejamento": "As Eletivas Orientadas devem ser planejadas em função de um ou mais Eixos Estruturantes, estando organizadas de acordo com a temática a ser abordada e em consonância com as DCNEM, com os referenciais para elaboração dos itinerários formativos e com o Currículo em Movimento da Educação Básica do Distrito Federal.",
-          "finalidade": "Devem possibilitar tanto o aprofundamento quanto o acompanhamento das aprendizagens que ainda não foram adequadamente alcançadas pelo estudante.",
-          "formatos_e_tematicas": "O estudante indicará as Eletivas Orientadas que pretende cursar, as quais poderão ser ofertadas no formato de projetos, oficinas, clubes, monitorias, núcleo de estudos, incubadoras, estágios, entre outras."
-        },
-        "Trilhas_de_Aprendizagens": {
-          "definicao": "As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, cursadas a partir do terceiro.",
-          "finalidade": "Possibilita o aprofundamento progressivo das aprendizagens em uma área do conhecimento.",
-          "organizacao": "Cada unidade deve ser focada em um eixo estruturante, de modo que, ao final do Ensino Médio, o estudante tenha percorrido os quatro eixos.",
-          "escolha_do_estudante": "As trilhas são de livre escolha do estudante, mas ele deverá se matricular em ao menos uma delas, no 3º semestre.",
-          "sequencia_dos_eixos": "Investigação Científica (3º semestre), Processos Criativos (4º semestre), Mediação e Intervenção Sociocultural (5º semestre) e Empreendedorismo (6º semestre).",
-          "certificacao": "Para efeito de conclusão e certificação do Ensino Médio, o estudante deverá ter cursado e concluído, necessariamente, uma trilha de aprendizagem."
-        },
-        "Objetivos_Gerais_dos_Itinerarios_Formativos": [
-          {
-            "Eixo_Estruturante": "Investigação Científica",
-            "Objetivos_de_Aprendizagem": [
-              {
-                "codigo": "IFG01",
-                "descricao": "Reconhecer e compreender elementos e relações da natureza e da sociedade, individuais e coletivos, presentes na vida cotidiana e no mundo do trabalho como fontes de dados para a investigação científica."
-              },
-              {
-                "codigo": "IFG02",
-                "descricao": "Aplicar metodologias científicas para a geração de informações estratégicas, analisando sua relevância e utilidade na formulação de soluções para os problemas cotidianos."
-              },
-              {
-                "codigo": "IFG03",
-                "descricao": "Avaliar e desenvolver soluções teóricas e práticas aos desafios ambientais, econômicos, políticos e socioculturais, sendo capaz de representá-las e divulgá-las por meio de diferentes mídias com o uso de elementos textuais, gráficos, figurativos e imagéticos."
-              }
-            ]
-          },
-          {
-            "Eixo_Estruturante": "Processos Criativos",
-            "Objetivos_de_Aprendizagem": [
-              {
-                "codigo": "IFG04",
-                "descricao": "Reconhecer e compreender a diversidade como fonte e objeto do processo criativo e produtora de sentidos importantes para construção de uma cultura da paz, com tolerância, integração e harmonia."
-              },
-              {
-                "codigo": "IFG05",
-                "descricao": "Integrar e aplicar soluções criativas em diferentes situações da vida cotidiana, do mundo do trabalho e na superação de conflitos ambientais, econômicos, políticos e socioculturais."
-              },
-              {
-                "codigo": "IFG06",
-                "descricao": "Desenvolver habilidades relacionadas ao pensar e fazer criativo para sua aplicação social, ambiental, científica, laboral e artística."
-              }
-            ]
-          },
-          {
-            "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
-            "Objetivos_de_Aprendizagem": [
-              {
-                "codigo": "IFG07",
-                "descricao": "Compreender a relevância do diálogo qualificado para a solução de conflitos socioambientais e construção de alternativas democráticas que valorizem as identidades, as diversidades e os direitos humanos."
-              },
-              {
-                "codigo": "IFG08",
-                "descricao": "Aplicar a criatividade, o conhecimento científico e a capacidade de argumentação para promover o respeito à dignidade humana e buscar soluções consensuadas na defesa da diversidade, no combate ao preconceito e para construção da cultura da paz."
-              },
-              {
-                "codigo": "IFG09",
-                "descricao": "Criar e desenvolver propostas materiais e imateriais para o fortalecimento do diálogo, da solidariedade, do respeito aos valores humanos no fortalecimento da diversidade sociocultural e ambiental."
-              }
-            ]
-          },
-          {
-            "Eixo_Estruturante": "Empreendedorismo",
-            "Objetivos_de_Aprendizagem": [
-              {
-                "codigo": "IFG010",
-                "descricao": "Compreender a ação empreendedora como um campo de aplicação dos conhecimentos teóricos e práticos, de criatividade e de diálogo para o desenvolvimento da confiança, da proatividade e do autoconhecimento."
-              },
-              {
-                "codigo": "IFG011",
-                "descricao": "Aplicar o autoconhecimento, o planejamento e a organização para fortalecer a empatia, o espírito de colaboração e a integração da vida escolar ao mundo do trabalho."
-              },
-              {
-                "codigo": "IFG012",
-                "descricao": "Planejar e desenvolver o seu projeto de vida, valorizando a diversidade de saberes e as vivências culturais para a tomada de decisões com escolhas alinhadas ao exercício da cidadania, durante e além do período escolar."
-              }
-            ]
-          }
-        ],
-        "Itinerarios_aplicados": {
-          "Linguagens_e_suas_Tecnologias": [
-            {
-              "Eixo_Estruturante": "Investigação Científica",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "LGGO1IF",
-                  "descricao": "Examinar a estrutura, a organização e as relações de sentido presentes em discursos, empregando estratégias de investigação científica para aprofundar conhecimentos acerca de diversas manifestações culturais modernas e contemporâneas, em língua pátria e/ou estrangeira, perpassando diferentes formas de linguagem, a fim de ampliar o repertório científico-cultural para o desenvolvimento de um olhar crítico, ético e sensível à diversidade de formas de expressão artística e literária."
-                },
-                {
-                  "codigo": "LGGO2IF",
-                  "descricao": "Utilizar informações acerca da língua pátria e/ou de língua estrangeira, abrangendo as respectivas produções literárias, artísticas e corporais, bem como a multiplicidade de manifestações sociais que emergem de grupos culturais diversos, a fim de elaborar argumentos que sustentem hipóteses sobre a estrutura, o funcionamento e as intencionalidades de discursos variados, além de posicionar-se de forma crítica, sensível, ética e propositiva diante das diferentes linguagens."
-                },
-                {
-                  "codigo": "LGGO3IF",
-                  "descricao": "Formular hipóteses acerca do contexto histórico, do desenvolvimento e dos elementos estruturantes de diversas línguas e linguagens, avaliando as relações de poder presentes em seus usos em diversas mídias, suas influências nas relações humanas e no comportamento social, artístico, corpóreo e linguístico."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Processos Criativos",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "LGGO4IF",
-                  "descricao": "Reconhecer produtos e/ou processos de criação e recepção - linguístico-literários, artísticos, desportivos e culturais -, a fim de aprofundar conhecimentos sobre os variados usos das linguagens, bem como sobre a multiplicidade de expressões individuais e/ou coletivas, posicionando-se de forma ética e tolerante em relação à diversidade do patrimônio cultural local, regional, nacional e/ou internacional."
-                },
-                {
-                  "codigo": "LGGO5IF",
-                  "descricao": "Utilizar recursos expressivos presentes em diversas linguagens, ampliando repertório acerca de manifestações linguísticas, corporais, estéticas e culturais, mobilizando esses conhecimentos para engajar-se em iniciativas criativas de interesse individual e/ou coletivo."
-                },
-                {
-                  "codigo": "LGGO6IF",
-                  "descricao": "Desenvolver estratégias inovadoras e éticas para resolver desafios do cotidiano, mobilizando conhecimentos e recursos de diversas linguagens, com o propósito de desconstruir estereótipos e outras formas de preconceito."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "LGGO7IF",
-                  "descricao": "Interpretar desafios socioculturais e ambientais cuja superação possa ocorrer por meio de intervenções centradas em práticas que valorizem a diversidade de manifestações culturais e sociais; delineando soluções capazes de contribuir com a qualidade de vida da comunidade e a preservação do meio ambiente."
-                },
-                {
-                  "codigo": "LGGO8IF",
-                  "descricao": "Organizar repertório individual sobre as diversas linguagens, por meio de estratégias de mediação e intervenção sobre questões de ordem sociocultural, aprimorando as relações da vida em sociedade, as possibilidades de fruição cultural coletiva e o respeito à diversidade e ao meio ambiente."
-                },
-                {
-                  "codigo": "LGGO9IF",
-                  "descricao": "Analisar ações de mediação e intervenção sociocultural e ambiental, mobilizando conhecimentos sobre as diversas linguagens e concebendo soluções viáveis para questões sociais e ambientais."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Empreendedorismo",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "LGG10IF",
-                  "descricao": "Entender de que forma o repertório pessoal acerca das diversas linguagens pode contribuir com a materialização de projetos de interesse individual e/ou coletivo, desenvolvendo estratégias éticas e sustentáveis para concretizá-los."
-                },
-                {
-                  "codigo": "LGG11IF",
-                  "descricao": "Organizar repertório pessoal acerca das diversas linguagens, favorecendo a escolha de conhecimentos que contribuam para o planejamento de iniciativas e/ou empreendimentos de interesse individual e/ou coletivo; fomentando a participação juvenil e a iniciativa empreendedora."
-                },
-                {
-                  "codigo": "LGG12IF",
-                  "descricao": "Desenvolver ações vinculadas a projetos individuais e/ou coletivos, estruturando iniciativas empreendedoras que proponham soluções para desafios pessoais, socioculturais e ambientais."
-                }
-              ]
-            }
-          ],
-          "Matematica_e_suas_Tecnologias": [
-            {
-              "Eixo_Estruturante": "Investigação Científica",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "MATO1IF",
-                  "descricao": "Investigar situações-problema, selecionando os conhecimentos matemáticos relevantes e elaborando modelos para sua representação."
-                },
-                {
-                  "codigo": "MATO2IF",
-                  "descricao": "Testar hipóteses levantadas de variáveis que interferem na explicação ou na resolução de uma situação-problema, avaliando a adequação da linguagem de determinado modelo matemático, em termos de possíveis limitações, eficiência e possibilidades de generalização."
-                },
-                {
-                  "codigo": "MATO3IF",
-                  "descricao": "Sistematizar informações, com base em estudos e/ou pesquisas, sobre a contribuição matemática na explicação de fenômenos de natureza científica, social, profissional, cultural, de processos tecnológicos, reconhecendo pontos de vista diversos para posicionar-se com argumentação consistente, fazendo uso de diferentes mídias para a apresentação de conclusões."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Processos Criativos",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "MATO04IF",
-                  "descricao": "Reconhecer conceitos matemáticos, por meio de fruição, vivências e reflexão critica, que têm relação com produtos e/ou processos criativos, a fim de compreender a contribuição da Matemática para a resolução de problemas sociais e para o desenvolvimento de processos tecnológicos."
-                },
-                {
-                  "codigo": "MATOS1IF",
-                  "descricao": "Selecionar intencionalmente recursos relacionados ao conhecimento matemático, de modo a comunicar com precisão suas ações, reflexões, constatações, interpretações, bem como seus argumentos para resolver situações-problema de natureza diversa."
-                },
-                {
-                  "codigo": "MATO6IF",
-                  "descricao": "Propor novas abordagens e estratégias para o enfrentamento de situações reais, de forma ética, criativa e inovadora, utilizando conhecimentos matemáticos associados ao domínio de operações e relações simbólicas e formais."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "MATOTIF",
-                  "descricao": "Identificar questões socioculturais e ambientais que utilizem conhecimentos e habilidades matemáticas como subsídio para a tomada de decisões."
-                },
-                {
-                  "codigo": "MATOSIF",
-                  "descricao": "Mobilizar conhecimentos e recursos matemáticos para propor ações individuais e/ou coletivas de mediação e intervenção sobre problemas socioculturais e ambientais."
-                },
-                {
-                  "codigo": "MATOSIF",
-                  "descricao": "Propor estratégias de mediação e intervenção na solução de problemas de natureza sociocultural e ambiental que tenham relação com a Matemática, utilizando recursos e conhecimentos matemáticos."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Empreendedorismo",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "MAT10IF",
-                  "descricao": "Selecionar conhecimentos e recursos matemáticos para desenvolver um projeto pessoal ou um empreendimento produtivo."
-                },
-                {
-                  "codigo": "MAT11IF",
-                  "descricao": "Desenvolver projetos (pessoais e/ou produtivos) articulados com o projeto de vida, utilizando conhecimentos matemáticos."
-                },
-                {
-                  "codigo": "MAT12IF",
-                  "descricao": "Avaliar as diversas formas de relação entre os conhecimentos e recursos da Matemática e, também, a influência desses para concretizar projetos pessoais ou produtivos, levando em consideração as tecnologias e os impactos socioambientais."
-                }
-              ]
-            }
-          ],
-          "Ciencias_da_Natureza_e_suas_Tecnologias": [
-            {
-              "Eixo_Estruturante": "Investigação Científica",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CNO1IF",
-                  "descricao": "Reconhecer a Ciência como uma atividade humana coletiva, historicamente construída e fundamentada em métodos estruturados, cujo objetivo é a compreensão do ordenamento e do funcionamento da natureza."
-                },
-                {
-                  "codigo": "CNO2IF",
-                  "descricao": "Discutir e testar conhecimentos e modelos científicos em busca de evidências para validação de hipóteses, respeitando diretrizes de segurança, bioética e respeito aos direitos humanos."
-                },
-                {
-                  "codigo": "CNO3IF",
-                  "descricao": "Elaborar hipóteses, procedimentos de coleta de dados, modelos explicativos e conclusões para processos investigativos, construindo textos, gráficos, tabelas e outras formas de representação para comunicar informações de interesse científico e tecnológico."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Processos Criativos",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CNO4IF",
-                  "descricao": "Reconhecer a Ciência como um processo criativo, dinâmico e transformador, presente no cotidiano das pessoas, que é capaz de promover a cultura da paz, com tolerância, integração e harmonia."
-                },
-                {
-                  "codigo": "CN05IF",
-                  "descricao": "Utilizar recursos e processos químicos, físicos e biológicos, respaldados por conhecimentos teóricos e práticos, para elaborar propostas para a solução de problemas."
-                },
-                {
-                  "codigo": "CNO6IF",
-                  "descricao": "Projetar e aplicar soluções para problemas reais, considerando os contextos ambientais, éticos e socioculturais, identificando seus impactos e prevendo desdobramentos."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CNO7IF",
-                  "descricao": "Reconhecer o conhecimento científico como instrumento de compreensão e solução de questões ambientais, sanitárias e socioculturais, a partir de procedimentos éticos, bioéticos, de respeito aos direitos humanos e à sustentabilidade."
-                },
-                {
-                  "codigo": "CNO8IF",
-                  "descricao": "Selecionar e aplicar recursos e procedimentos científicos para combater o preconceito, as ideias de eugenia e superioridade étnico-racial, bem como avaliar criticamente tecnologias que ameacem a construção de uma cultura da paz, como armamentos nucleares, químicos e biológicos."
-                },
-                {
-                  "codigo": "CNO9IF",
-                  "descricao": "Propor alternativas sustentáveis para a melhoria da qualidade de vida de pessoas e comunidades, garantindo seus direitos humanos e acesso a oportunidades iguais, considerando suas especificidades e diversidades regional, étnica, religiosa, sexual e sociocultural."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Empreendedorismo",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CN10IF",
-                  "descricao": "Entender a importância da tecnologia para a sociedade humana, que historicamente utiliza processos e insumos biológicos para a subsistência, a promoção do crescimento e a geração de bem-estar."
-                },
-                {
-                  "codigo": "CN11IF",
-                  "descricao": "Avaliar alternativas tecnológicas, selecionando as de melhor custo-benefício, considerando seus impactos ao ambiente, às comunidades locais e à saúde humana, tanto física quanto mental."
-                },
-                {
-                  "codigo": "CN12IF",
-                  "descricao": "Desenvolver soluções sustentáveis para questões cotidianas, a partir de saberes e tecnologias que favoreçam o exercício da cultura, da cidadania, bem como o desenvolvimento da sociedade, considerando suas necessidades por produção de alimentos, geração de energia e manutenção da saúde."
-                }
-              ]
-            }
-          ],
-          "Ciencias_Humanas_e_Sociais_Aplicadas": [
-            {
-              "Eixo_Estruturante": "Investigação Científica",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CHSAIFO1",
-                  "descricao": "Investigar fenômenos e processos de natureza histórica, social, econômica, filosófica, ambiental, política e cultural, presentes no cotidiano como fontes de dados para a análise, interpretação, crítica e proposição científica."
-                },
-                {
-                  "codigo": "CHSAIFO2",
-                  "descricao": "Testar, a partir de dados investigados em âmbito local, regional, nacional e/ou global, procedimentos e linguagens adequados à pesquisa científica com vistas à (re)formulação de conhecimentos, apresentando conclusões práticas e/ou teóricas, com a utilização de diferentes mídias."
-                },
-                {
-                  "codigo": "CHSAIFO3",
-                  "descricao": "Sistematizar informações com base em pesquisa crítica (documental, bibliográfica, exploratória, de campo, experimental, etc.) a fim de se obter conhecimentos confiáveis."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Processos Criativos",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CHSAIF04",
-                  "descricao": "Reconhecer a diversidade de formas e recursos criativos na multiplicidade de discursos e práticas constituintes da realidade social."
-                },
-                {
-                  "codigo": "CHSAIF05",
-                  "descricao": "Selecionar formas e recursos criativos identificados em diferentes contextos da vida cotidiana (local, regional, nacional e global) para uma vida ativa, contributiva e melhoria dos âmbitos individual e coletivo."
-                },
-                {
-                  "codigo": "CHSAIF06",
-                  "descricao": "Propor soluções inovadoras em busca da superação de problemas relacionados às singularidades e suas especificidades de ordens histórica, social, econômica, filosófica, política e cultural."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CHSAIF07",
-                  "descricao": "Identificar, na diversidade de contextos históricos e geográficos e de modos de vida dos grupos humanos, práticas, crenças, valores e normas relacionadas às diferentes identidades socioculturais."
-                },
-                {
-                  "codigo": "CHSAIF08",
-                  "descricao": "Mobilizar recursos e conhecimentos de natureza sociocultural e ambiental, a partir das demandas locais, regionais, nacionais e/ou globais, segundo as especificidades das diversidades e coletividades."
-                },
-                {
-                  "codigo": "CHSAIF09",
-                  "descricao": "Propor ações de mediação e intervenção sobre questões adversas envolvidas na vida pública e cotidiana, por meio de projetos contributivos à construção de um espaço de convivência democrática e respeitosa dos direitos e da dignidade humana."
-                }
-              ]
-            },
-            {
-              "Eixo_Estruturante": "Empreendedorismo",
-              "Objetivos_de_Aprendizagem": [
-                {
-                  "codigo": "CHSAIF10",
-                  "descricao": "Avaliar oportunidades, saberes, técnicas e recursos de processos produtivos nas perspectivas de análise e de reflexão sobre as culturas do empreendedorismo, da autogestão e do trabalho associado, em âmbito local, regional, nacional e/ou global."
-                },
-                {
-                  "codigo": "CHSAIF11",
-                  "descricao": "Selecionar estratégias criativas, relacionadas às ações de natureza social, econômica, ambiental, política e cultural, de forma articulada às diversidades de projetos de vida, com o intuito de construir projetos pessoais e/ou associativos."
-                },
-                {
-                  "codigo": "CHSAIF12",
-                  "descricao": "Desenvolver projetos por meio da elaboração e concretização de ações que coadunem com as práticas democráticas de cidadania, de sustentabilidade e de Direitos Humanos."
-                }
-              ]
-            }
-          ],
-          "Educacao_Profissional_e_Tecnologica": {
-            "Descricao": "A Educação Profissional e Tecnológica (EPT) integra-se aos diferentes níveis e modalidades de educação e às dimensões do trabalho, da ciência, da tecnologia e da cultura, constituindo modalidade da Educação Básica e Superior, articulada à EJA, Educação Especial e EaD. Destina-se à formação profissional de jovens e adultos, preparando-os para a vida, para o mundo do trabalho e para a continuidade dos estudos.",
-            "Cursos_Profissionais_Tecnicos_de_Nivel_Medio": {
-              "descricao": "Cursos com cargas horárias de 800, 1.000 ou 1.200 horas, que conferem habilitação profissional técnica de nível médio, com diploma de validade nacional, registrados no SISTEC, podendo ser ofertados de forma integrada, concomitante ou subsequente ao Ensino Médio."
-            },
-            "Cursos_de_Qualificacao_Profissional_FIC": {
-              "descricao": "Cursos de Qualificação Profissional ou Formação Inicial e Continuada (FIC), com carga horária mínima de 160 horas, reconhecidos por certificado, voltados à inserção ou reinserção no mundo do trabalho."
-            },
-            "Principios_Orientadores": [
-              "formação integral do estudante, garantindo articulação entre a formação no Ensino Médio e a formação técnica específica",
-              "pleno desenvolvimento para a vida social e profissional, com formação voltada para o fortalecimento de valores cidadãos",
-              "respeito aos conhecimentos prévios dos sujeitos da aprendizagem, promovendo a indissociabilidade entre educação e prática social",
-              "indissociabilidade entre teoria e prática no processo de ensino e aprendizagem",
-              "envolvimento das múltiplas dimensões do eixo tecnológico do curso e das ciências e tecnologias a ele vinculadas",
-              "articulação com os arranjos produtivos locais, com as demandas da comunidade escolar e com o desenvolvimento socioeconômico-ambiental dos territórios",
-              "reconhecimento da diversidade das pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades, em regime de acolhimento ou internação e em regime de privação de liberdade",
-              "reconhecimento das identidades étnico-raciais dos povos indígenas, dos quilombolas e das identidades de gênero, bem como da diversidade de orientação sexual, das populações do campo e das pessoas em situação de rua",
-              "autonomia da Instituição Educacional na construção e revisão de seu Projeto Político Pedagógico (PPP), desde que respeitados o processo participativo, a legislação e as normas educacionais",
-              "descrição de perfis profissionais de conclusão de curso que contemplem conhecimentos, competências e saberes profissionais requeridos pela natureza do trabalho, pelo desenvolvimento tecnológico e pelas demandas sociais, econômicas e ambientais",
-              "colaboração entre os entes federados, incluindo parcerias com as entidades da sociedade civil, visando à melhoria dos indicadores educacionais"
-            ],
-            "Trabalho_como_Principio_Educativo": "Compreende o trabalho como elemento formativo que supera a dicotomia entre trabalho manual e intelectual, integrando formação humanística e conhecimentos específicos, promovendo autonomia reflexiva, ética e cidadania.",
-            "Pesquisa_como_Principio_Pedagogico": "A pesquisa orienta os processos formativos, estimulando o pensamento crítico, a prática investigativa, a integração entre ciência e prática e a superação da fragmentação do conhecimento por meio da interdisciplinaridade.",
-            "Planejamento_Pedagogico": {
-              "etapas": [
-                "Diagnóstico situacional",
-                "Definição de objetivos e metas",
-                "Construção de plano ou projeto",
-                "Monitoramento e avaliação"
-              ]
-            },
-            "Organizacao_Curricular": {
-              "pressupostos": [
-                "historicidade da ocupação profissional",
-                "adequação à vocação produtiva regional",
-                "definição do perfil profissional de conclusão",
-                "aproveitamento contínuo de estudos",
-                "flexibilidade curricular",
-                "interdisciplinaridade",
-                "critérios de avaliação",
-                "condições técnicas e de pessoal"
-              ]
-            },
-            "Organizacao_da_Oferta_EPT": {
-              "Organizacao_Formas_Modalidades_de_Oferta": {
-                "contexto": "Articulação com o Ensino Médio",
-                "instituicoes": {
-                  "rede_de_ensino": {
-                    "descricao": "Instituições educacionais da rede de ensino do Sistema de Ensino do Distrito Federal."
-                  },
-                  "instituicoes_parceiras": {
-                    "descricao": "Instituições parceiras devidamente autorizadas, conforme legislações vigentes."
+                  "Projeto_de_Vida": {
+                    "objetivo": "Propiciar um momento de autorreflexão sobre seu presente e futuro, estimulando a autonomia, o protagonismo e o desenvolvimento das competências sociais para que os estudantes se tornem cidadãos ativos e responsáveis.",
+                    "finalidades": [
+                      "planejar trajetórias ao longo do Ensino Médio",
+                      "refletir sobre escolhas de eletivas orientadas e trilhas de aprendizagem",
+                      "tomar decisões refletidas",
+                      "engajar-se no trabalho coletivo",
+                      "compreender as responsabilidades de cada escolha"
+                    ],
+                    "vertentes": [
+                      {
+                        "nome": "Transição para o Ensino Médio",
+                        "descricao": "Trabalhar a dificuldade de transição entre o Ensino Fundamental e o Ensino Médio, bem como a necessidade de planejamento e organização dos estudantes."
+                      },
+                      {
+                        "nome": "Desenvolvimento do Projeto de Vida",
+                        "descricao": "Estimular o autoconhecimento e a reflexão sobre o percurso para a vida adulta, sem definir precocemente profissão ou área de formação."
+                      },
+                      {
+                        "nome": "Desenvolvimento do Plano Individual de Curso",
+                        "descricao": "Elaborar um planejamento da trajetória no Ensino Médio, em conjunto com o professor orientador, de acordo com as potencialidades do estudante."
+                      },
+                      {
+                        "nome": "Orientação para Prosseguimento dos Estudos",
+                        "descricao": "Orientar estratégias para o acesso ao Ensino Superior, Educação Profissional e Tecnológica, concursos públicos, empreendedorismo e outras formas de ingresso no mundo do trabalho."
+                      }
+                    ],
+                    "caracter_obrigatorio": "A unidade curricular Projeto de Vida será ofertada a todos os estudantes ao longo de todo o Ensino Médio, como unidade curricular obrigatória."
                   }
                 },
-                "tipos_de_cursos": {
-                  "Cursos_Tecnicos_de_Nivel_Medio": {
-                    "publico": [
-                      "estudantes matriculados no Ensino Médio",
-                      "egressos do Ensino Médio"
-                    ],
-                    "referencial_normativo": "Catálogo Nacional de Cursos Técnicos",
-                    "estrutura": {
-                      "organizacao": "eixos tecnológicos",
-                      "articulacao": "Formação Geral Básica",
-                      "carga_horaria": "mínima definida no CNCT"
+                {
+                  "Lingua_Espanhola": {
+                    "Objetivos_Gerais": "A ampliação crítica das relações sociais por meio dos estudos das diferentes linguagens humanas nas plataformas digitais existentes.",
+                    "Objetivos_de_Aprendizagem_por_Unidade_Tematica": [
+                      {
+                        "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS SOCIOAMBIENTAIS",
+                        "Objetivos_de_Aprendizagem": [
+                          {
+                            "codigo": "ESP43",
+                            "descricao": "Averiguar o funcionamento de órgãos públicos normatizadores e fiscalizadores de questões ambientais, a partir da análise linguística de textos oficiais relacionados à área, para a produção e divulgação de materiais informativos e opinativos referentes a temáticas socioambientais."
+                          },
+                          {
+                            "codigo": "ESP44",
+                            "descricao": "Analisar as políticas públicas de combate às ocupações ilegais/desordenadas e às queimadas, bem como a aplicabilidade da legislação vigente voltada ao uso consciente dos recursos hídricos, para um monitoramento ativo e responsável do Patrimônio Ambiental do DF e da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (RIDE)."
+                          },
+                          {
+                            "codigo": "ESP45",
+                            "descricao": "Posicionar-se, pelo uso de debates, acerca de questões socioambientais, indígenas, quilombolas e dos povos ciganos, presentes em textos midiáticos de âmbito nacional e distrital, favorecendo o raciocínio crítico, prospectivo e interpretativo."
+                          },
+                          {
+                            "codigo": "ESP46",
+                            "descricao": "Verificar ações artísticas, desportivas, verbais e socioculturais que envolvem a preservação do meio ambiente e o incentivo à sustentabilidade; visando reconstruí-las em contextos pedagógicos, escolares e socioculturais e, também, digitais."
+                          },
+                          {
+                            "codigo": "ESP47",
+                            "descricao": "Distinguir diferentes estilos e espaços cênicos, esportivos e de letramento para analisar a dinâmica de práticas sociais, tradicionais e contemporâneas, que envolvem o meio ambiente e contextualizam campos específicos dos diferentes componentes da Área de Linguagens e suas Tecnologias."
+                          },
+                          {
+                            "codigo": "ESP48",
+                            "descricao": "Comparar a espacialidade visual com práticas artísticas, esportivas, históricas e socioculturais (Arte Medieval - bizantina, românica e gótica, Renascentista - clássica e neoclássica, barroco, movimentos artísticos e literários - romantismo, realismo, naturalismo) para apreciar a construção de estéticas e monumentos que se inspiram e interferem em paisagens e no meio ambiente."
+                          },
+                          {
+                            "codigo": "ESP49",
+                            "descricao": "Analisar a participação cidadã, democrática, humana, sensível, diversa, por meio do posicionamento crítico das teorias, práticas e relações estéticas da Arte, da Educação Física e das Línguas Portuguesa e Estrangeiras com as novas tecnologias, o meio ambiente e a biodiversidade."
+                          },
+                          {
+                            "codigo": "ESP50",
+                            "descricao": "Vivenciar práticas corporais praticadas em espaços naturais e espaços urbanos de forma crítica, que leve em conta o meio ambiente, a arquitetura local, o patrimônio público e a consciência socioambiental para possibilidades de atuação social e política, objetivando a manutenção e a criação de iniciativas públicas de esporte e lazer em sua comunidade, em consonância com a preservação do meio ambiente."
+                          },
+                          {
+                            "codigo": "ESP51",
+                            "descricao": "Contrastar as ações que envolvem o Brasil e os países que falam a Língua Espanhola, no tocante a acordos internacionais acerca do meio ambiente, com o objetivo de desenvolver a consciência e o protagonismo ambiental quanto à preservação em níveis local, regional e global."
+                          },
+                          {
+                            "codigo": "ESP52",
+                            "descricao": "Categorizar, na Língua Espanhola, ações individuais e coletivas que possibilitem a reflexão sobre a importância do trabalho voluntário, para a melhoria da relação do individuo com o meio ambiente e com a comunidade em que vive, fortalecendo a consciência de pertencimento local, regional e global."
+                          },
+                          {
+                            "codigo": "ESP53",
+                            "descricao": "Criar, utilizando a Língua Espanhola, orientações/sugestões para o desenvolvimento da sustentabilidade em âmbitos local, regional e global, visando a conscientização e a preservação do patrimônio ambiental."
+                          }
+                        ]
+                      },
+                      {
+                        "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE IDENTIDADE E PROTAGONISMO JUVENIL",
+                        "Objetivos_de_Aprendizagem": [
+                          {
+                            "codigo": "ESP54",
+                            "descricao": "Criar, pelo uso do LinkedIn, Infográficos, Currículo Digital, Blog Profissional, registros digitais profissionais em diferentes linguagens, no propósito de validar os projetos de vida alicerçados nas trajetórias de cada indivíduo."
+                          },
+                          {
+                            "codigo": "ESP55",
+                            "descricao": "Posicionar-se a partir de debates e discussões sobre temas de interesse da juventude, apropriando-se de bases legais, como o Estatuto da Juventude e as políticas públicas vigentes, para tornarem-se protagonistas de ações que contemplem a condição juvenil."
+                          },
+                          {
+                            "codigo": "ESP56",
+                            "descricao": "Avaliar os valores culturais e humanos no patrimônio artístico, arquitetônico e literário, valorizando as peculiaridades estruturais e estilísticas de diferentes gêneros artísticos e literários, a fim de fortalecer a elaboração da subjetividade e das inter-relações pessoais."
+                          },
+                          {
+                            "codigo": "ESP57",
+                            "descricao": "Planejar, de forma colaborativa, a produção de projetos culturais e de entretenimento para a divulgação, produção de comentários e avaliação de produções culturais e artísticas de interesse juvenil."
+                          },
+                          {
+                            "codigo": "ESP58",
+                            "descricao": "Desenvolver as etapas de produção da pesquisa científica a partir dos gêneros textuais envolvidos na sua realização e divulgação, reconhecendo as múltiplas formas como esse conhecimento é produzido e difundido nas sociedades contemporâneas."
+                          },
+                          {
+                            "codigo": "ESP59",
+                            "descricao": "Selecionar procedimentos de checagem de fatos noticiados e demais informações veiculadas nos sistemas de comunicação e informação e que originam o fenômeno da pós- -verdade, detectando a veracidade e os interesses implícitos dessas informações."
+                          },
+                          {
+                            "codigo": "ESP60",
+                            "descricao": "Descobrir coletivos indígenas, negros, latino-americanos e outros grupos étnicos que fazem uso de diversas expressões artísticas, verbais e desportivas (hip hop, rock, danças urbanas) para discutir a expressão e manifestação de suas ideias, de forma mútua e intercultural, por meio das diferentes linguagens e suas tecnologias."
+                          },
+                          {
+                            "codigo": "ESP61",
+                            "descricao": "Distinguir as danças e expressões brasileiras das matrizes culturais dos povos indigenas (cateretê, caiapós, cururu, guajajara, jacundá, boi-bumbá), africanas e afro-brasileiras (capoeira, congada, jongo, maracatu, samba de roda), valorizando e praticando seus saberes e fazeres culturais de formação da identidade artística, linguística e esportiva nacional."
+                          },
+                          {
+                            "codigo": "ESP62",
+                            "descricao": "Identificar conceitos sobre o corpo e discursos linguísticos e identitários presentes na expressividade corporal (ações corporais - movimento, espaço, tempo, peso, fluência, conceito de corpo dual, totalidade, corporeidade) para experimentar seus procedimentos de improvisação e criação relacionados aos diferentes modos próprios e sensíveis de criar, recriar e expressar o movimento estético e corporal em contextos pedagógicos, artísticos e desportivos."
+                          },
+                          {
+                            "codigo": "ESP63",
+                            "descricao": "Utilizar processos criativos incorporados à corporeidade e suas expressões verbais e estéticas, de modo a desenvolver o repertório artístico e cultural; contribuindo para a autonomia e trajetória de vida por meio do autoconhecimento corpóreo em práticas artiísticas, desportivas e expressivas."
+                          },
+                          {
+                            "codigo": "ESP64",
+                            "descricao": "Apreciar espetáculos e manifestações artísticas, verbais e desportivas que envolvem as diferentes linguagens, no entorno escolar e além dele, para aprimorar a fruição, a crítica e a leitura de estéticas tradicionais e contemporâneas como parte do processo de formação do público/espectador."
+                          },
+                          {
+                            "codigo": "ESP65",
+                            "descricao": "Interpretar os conceitos de atividade física, aptidão física (principalmente os componentes da aptidão física relacionados à saúde), saúde e qualidade de vida (e seus fatores), bem como seus benefícios e comorbidades associadas para significá-las em seu projeto de vida de forma consciente, de modo a desenvolver um estilo de vida mais ativo, adotando práticas de cuidado com o corpo e com a saúde."
+                          },
+                          {
+                            "codigo": "ESP66",
+                            "descricao": "Compreender os conceitos de nutrição, suplementação, produtos anabolizantes, alimentação saudável e suas relações de consumo, sustentabilidade e discursos midiáticos para a construção de um posicionamento crítico e a adoção de hábitos saudáveis."
+                          },
+                          {
+                            "codigo": "ESP67",
+                            "descricao": "Conhecer o conceito de imagem corporal, sua forma de desenvolvimento e construção, compreender os padrões de beleza e a diversidade corporal e analisar, de forma crítica, os discursos midiáticos apresentados através das manifestações artísticas, linguísticas e desportivas e sua relação com os transtornos relacionados com a imagem corporal, de modo a ressignificar suas práticas corporais na promoção do autoconhecimento e do autocuidado com a saúde para subsidiar suas escolhas para seu projeto de vida."
+                          },
+                          {
+                            "codigo": "ESP68",
+                            "descricao": "Experimentar novos processos de autoconhecimento através de técnicas do Yoga. Identificar as práticas yogues, a cultura oriental e suas influências na cultura brasileira, bem como suas origens históricas e mitológicas para desenvolvimento de um caminho de autoconhecimento, autocontrole, compreensão e respeito a si mesmo e ao outro."
+                          },
+                          {
+                            "codigo": "ESP69",
+                            "descricao": "Empregar conhecimentos linguísticos, metodológicos e socioculturais, na Língua Espanhola, para a elaboração de pré-projetos e/ou projetos (de iniciação científica, por exemplo), cartas de intenção, relatos de experiências, a fim de ampliar as possibilidades de intercâmbios estudantis, de acesso a universidades estrangeiras, de estágios profissionais e da realização de quaisquer outros projetos de vida."
+                          },
+                          {
+                            "codigo": "ESP70",
+                            "descricao": "Desenvolver a performance argumentativa, por meio da interação com diferentes contextos de uso da Língua Espanhola (debates, seminários, fóruns, plenárias, simulações da ONU a exemplo da SiINUS), com o objetivo de conhecer, conviver, trabalhar e serem um meio mais tolerante, inclusivo, colaborativo e pacífico."
+                          },
+                          {
+                            "codigo": "ESP71",
+                            "descricao": "Construir textos multimidiáticos (blogs, jornais, canais online, revistas digitais) que divulguem conteúdos de interesse dos estudantes e experiências exitosas nas comunidades escolar e local, para promover interação entre elas e ampliar a competência comunicacional na Língua Espanhola."
+                          }
+                        ]
+                      },
+                      {
+                        "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE CULTURA DIGITAL",
+                        "Objetivos_de_Aprendizagem": [
+                          {
+                            "codigo": "ESP72",
+                            "descricao": "Analisar as tecnologias da comunicação e da informação na vida pessoal e social dos jovens, associando-as ao desenvolvimento de conhecimentos científicos, às linguagens que lhes dão suporte, aos processos de produção e aos problemas que se propõem solucionar, no intuito de adequar as produções aos contextos sociais em que estejam inseridos, formando cidadãos munidos de reflexão social."
+                          },
+                          {
+                            "codigo": "ESP73",
+                            "descricao": "Planejar o uso das diversas plataformas de ferramentas digitais, a partir de uma participação fundamentada e ética, quanto à criação cultural para o engajamento social, propiciando uma visão crítica do indivíduo."
+                          },
+                          {
+                            "codigo": "ESP74",
+                            "descricao": "Apreciar formas contemporâneas de publicidade em contexto digital, bem como peças de campanhas publicitárias e políticas, debatendo os valores e as representações de situações, grupos e configurações sociais veiculadas, desconstruindo estereótipos, destacando estratégias de engajamento e viralização e explicando os mecanismos de persuasão utilizados e os efeitos de sentido provocados pelas escolhas feitas em termos de elementos e recursos de diferentes linguagens."
+                          },
+                          {
+                            "codigo": "ESP75",
+                            "descricao": "Operar, de forma compartilhada, práticas culturais e sociais de diferentes temáticas apoiadas em meios digitais atualmente existentes, com a finalidade de valorizar a participação cultural coletiva, fomentando a prática da inserção do indivíduo no ato de criação crítico-social."
+                          },
+                          {
+                            "codigo": "ESP76",
+                            "descricao": "Analisar os diferentes gêneros audiovisuais e cinematográficos e suas relações com as linguagens artísticas, verbais e esportivas (documentário, videoarte, videoclipe, animação), a fim de produzir conhecimentos da Área de Linguagens com os recursos e as estéticas digitais, considerando as produções do contexto escolar e do entorno."
+                          },
+                          {
+                            "codigo": "ESP77",
+                            "descricao": "Examinar a relação das diversas produções artísticas, verbais e corporais da Área de Linguagens com o desenvolvimento digital e tecnológico para interpretar seus contextos sociais, políticos, históricos e contemporâneos (Semana de Arte Moderna de 1922, antropofagia, arte moderna e pós-moderna, artistas, poetas, performers, grupos teatrais e musicais brasileiros)."
+                          },
+                          {
+                            "codigo": "ESP78",
+                            "descricao": "Analisar, em plataformas digitais ou em outros recursos analógicos e afins, os Festivais de Música Popular Brasileira (1965-1985) e outras composições no período da Ditadura Militar, para criar conexões com outros gêneros e estilos artísticos, textuais e musicais de diferentes tempos e espaços da historiografia musical do Brasil com o mundo (tropicalismo, bossa nova, MPB, moda de viola e emboladas, samba, batalha de rima, lives)."
+                          },
+                          {
+                            "codigo": "ESP79",
+                            "descricao": "Avaliar o uso de aplicativos, protocolos e softwares utilizados para promoção de atividades físicas, propiciando uma visão crítica acerca dos objetivos e das metas idealizados."
+                          },
+                          {
+                            "codigo": "ESP80",
+                            "descricao": "Utilizar testes e avaliações físicas, principalmente os relacionados à saúde, para compreender os benefícios no organismo humano, nas capacidades psíquicas, fisiológicas, motoras e afetivas, para adoção de um estilo de vida que leve em consideração a promoção da atividade física."
+                          },
+                          {
+                            "codigo": "ESP81",
+                            "descricao": "Avaliar criticamente o processo histórico dos jogos eletrônicos, preconceitos, estereótipos e relações de poder, com a finalidade de desenvolver diferentes modos de participação e intervenção social."
+                          },
+                          {
+                            "codigo": "ESP82",
+                            "descricao": "Explorar as tecnologias digitais dirigidas à atividade física, conhecidas como Exergames, ou interface de esforço, compreendendo sua abrangência, seus princípios, suas funcionalidades e seus objetivos, e utilizá-las de forma crítica, ética, criativa e adequada à construção do seu conhecimento sobre o tema."
+                          },
+                          {
+                            "codigo": "ESP83",
+                            "descricao": "Analisar diferentes gêneros digitais (tradutores online, dicionários virtuais, mensagens instantâneas), com o objetivo de acessar a informação e ampliar a capacidade de comunicação, na Língua Espanhola, por meio de ambientes virtuais."
+                          },
+                          {
+                            "codigo": "ESP84",
+                            "descricao": "Explorar diferentes plataformas digitais que propiciem o acesso ao acervo artístico-literário internacional, a fim de ampliar repertório e conhecer expoentes mundiais nos cenários culturais da Língua Espanhola (música, teatro, literatura, arte)."
+                          },
+                          {
+                            "codigo": "ESP85",
+                            "descricao": "Desenvolver recursos digitais (aplicativos, sistemas, gráficos para mapeamentos de dados), utilizando a Língua Espanhola, de modo a contribuir, de forma criativa e significativa, com o aprimoramento de questões relacionadas ao bem-estar da comunidade na qual o estudante está inserido."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Eletivas_Orientadas": {
+                    "definicao": "As Eletivas Orientadas são unidades curriculares de duração semestral, com carga horária definida conforme a intencionalidade pedagógica, nas quais os estudantes serão matriculados de acordo com suas escolhas, porém de maneira orientada.",
+                    "oferta": "Essas Unidades Curriculares serão disponibilizadas aos estudantes ao longo de todo o Ensino Médio, a partir de um catálogo construído pelas Instituições Educacionais e aprovado pela sua mantenedora.",
+                    "planejamento": "As Eletivas Orientadas devem ser planejadas em função de um ou mais Eixos Estruturantes, estando organizadas de acordo com a temática a ser abordada e em consonância com as DCNEM, com os referenciais para elaboração dos itinerários formativos e com o Currículo em Movimento da Educação Básica do Distrito Federal.",
+                    "finalidade": "Devem possibilitar tanto o aprofundamento quanto o acompanhamento das aprendizagens que ainda não foram adequadamente alcançadas pelo estudante.",
+                    "formatos_e_tematicas": "O estudante indicará as Eletivas Orientadas que pretende cursar, as quais poderão ser ofertadas no formato de projetos, oficinas, clubes, monitorias, núcleo de estudos, incubadoras, estágios, entre outras."
+                  }
+                },
+                {
+                  "Trilhas_de_Aprendizagens": {
+                    "definicao": "As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, cursadas a partir do terceiro.",
+                    "finalidade": "Possibilita o aprofundamento progressivo das aprendizagens em uma área do conhecimento.",
+                    "organizacao": "Cada unidade deve ser focada em um eixo estruturante, de modo que, ao final do Ensino Médio, o estudante tenha percorrido os quatro eixos.",
+                    "escolha_do_estudante": "As trilhas são de livre escolha do estudante, mas ele deverá se matricular em ao menos uma delas, no 3º semestre.",
+                    "sequencia_dos_eixos": "Investigação Científica (3º semestre), Processos Criativos (4º semestre), Mediação e Intervenção Sociocultural (5º semestre) e Empreendedorismo (6º semestre).",
+                    "certificacao": "Para efeito de conclusão e certificação do Ensino Médio, o estudante deverá ter cursado e concluído, necessariamente, uma trilha de aprendizagem."
+                  }
+                }
+              ],
+              "Objetivos_Gerais_dos_Itinerarios_Formativos": [
+                {
+                  "Eixo_Estruturante": "Investigação Científica",
+                  "Objetivos_de_Aprendizagem": [
+                    {
+                      "codigo": "IFG01",
+                      "descricao": "Reconhecer e compreender elementos e relações da natureza e da sociedade, individuais e coletivos, presentes na vida cotidiana e no mundo do trabalho como fontes de dados para a investigação científica."
+                    },
+                    {
+                      "codigo": "IFG02",
+                      "descricao": "Aplicar metodologias científicas para a geração de informações estratégicas, analisando sua relevância e utilidade na formulação de soluções para os problemas cotidianos."
+                    },
+                    {
+                      "codigo": "IFG03",
+                      "descricao": "Avaliar e desenvolver soluções teóricas e práticas aos desafios ambientais, econômicos, políticos e socioculturais, sendo capaz de representá-las e divulgá-las por meio de diferentes mídias com o uso de elementos textuais, gráficos, figurativos e imagéticos."
+                    }
+                  ]
+                },
+                {
+                  "Eixo_Estruturante": "Processos Criativos",
+                  "Objetivos_de_Aprendizagem": [
+                    {
+                      "codigo": "IFG04",
+                      "descricao": "Reconhecer e compreender a diversidade como fonte e objeto do processo criativo e produtora de sentidos importantes para construção de uma cultura da paz, com tolerância, integração e harmonia."
+                    },
+                    {
+                      "codigo": "IFG05",
+                      "descricao": "Integrar e aplicar soluções criativas em diferentes situações da vida cotidiana, do mundo do trabalho e na superação de conflitos ambientais, econômicos, políticos e socioculturais."
+                    },
+                    {
+                      "codigo": "IFG06",
+                      "descricao": "Desenvolver habilidades relacionadas ao pensar e fazer criativo para sua aplicação social, ambiental, científica, laboral e artística."
+                    }
+                  ]
+                },
+                {
+                  "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
+                  "Objetivos_de_Aprendizagem": [
+                    {
+                      "codigo": "IFG07",
+                      "descricao": "Compreender a relevância do diálogo qualificado para a solução de conflitos socioambientais e construção de alternativas democráticas que valorizem as identidades, as diversidades e os direitos humanos."
+                    },
+                    {
+                      "codigo": "IFG08",
+                      "descricao": "Aplicar a criatividade, o conhecimento científico e a capacidade de argumentação para promover o respeito à dignidade humana e buscar soluções consensuadas na defesa da diversidade, no combate ao preconceito e para construção da cultura da paz."
+                    },
+                    {
+                      "codigo": "IFG09",
+                      "descricao": "Criar e desenvolver propostas materiais e imateriais para o fortalecimento do diálogo, da solidariedade, do respeito aos valores humanos no fortalecimento da diversidade sociocultural e ambiental."
+                    }
+                  ]
+                },
+                {
+                  "Eixo_Estruturante": "Empreendedorismo",
+                  "Objetivos_de_Aprendizagem": [
+                    {
+                      "codigo": "IFG010",
+                      "descricao": "Compreender a ação empreendedora como um campo de aplicação dos conhecimentos teóricos e práticos, de criatividade e de diálogo para o desenvolvimento da confiança, da proatividade e do autoconhecimento."
+                    },
+                    {
+                      "codigo": "IFG011",
+                      "descricao": "Aplicar o autoconhecimento, o planejamento e a organização para fortalecer a empatia, o espírito de colaboração e a integração da vida escolar ao mundo do trabalho."
+                    },
+                    {
+                      "codigo": "IFG012",
+                      "descricao": "Planejar e desenvolver o seu projeto de vida, valorizando a diversidade de saberes e as vivências culturais para a tomada de decisões com escolhas alinhadas ao exercício da cidadania, durante e além do período escolar."
+                    }
+                  ]
+                }
+              ],
+              "Itinerarios_aplicados": {
+                "Linguagens_e_suas_Tecnologias": [
+                  {
+                    "Eixo_Estruturante": "Investigação Científica",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "LGGO1IF",
+                        "descricao": "Examinar a estrutura, a organização e as relações de sentido presentes em discursos, empregando estratégias de investigação científica para aprofundar conhecimentos acerca de diversas manifestações culturais modernas e contemporâneas, em língua pátria e/ou estrangeira, perpassando diferentes formas de linguagem, a fim de ampliar o repertório científico-cultural para o desenvolvimento de um olhar crítico, ético e sensível à diversidade de formas de expressão artística e literária."
+                      },
+                      {
+                        "codigo": "LGGO2IF",
+                        "descricao": "Utilizar informações acerca da língua pátria e/ou de língua estrangeira, abrangendo as respectivas produções literárias, artísticas e corporais, bem como a multiplicidade de manifestações sociais que emergem de grupos culturais diversos, a fim de elaborar argumentos que sustentem hipóteses sobre a estrutura, o funcionamento e as intencionalidades de discursos variados, além de posicionar-se de forma crítica, sensível, ética e propositiva diante das diferentes linguagens."
+                      },
+                      {
+                        "codigo": "LGGO3IF",
+                        "descricao": "Formular hipóteses acerca do contexto histórico, do desenvolvimento e dos elementos estruturantes de diversas línguas e linguagens, avaliando as relações de poder presentes em seus usos em diversas mídias, suas influências nas relações humanas e no comportamento social, artístico, corpóreo e linguístico."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Processos Criativos",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "LGGO4IF",
+                        "descricao": "Reconhecer produtos e/ou processos de criação e recepção - linguístico-literários, artísticos, desportivos e culturais -, a fim de aprofundar conhecimentos sobre os variados usos das linguagens, bem como sobre a multiplicidade de expressões individuais e/ou coletivas, posicionando-se de forma ética e tolerante em relação à diversidade do patrimônio cultural local, regional, nacional e/ou internacional."
+                      },
+                      {
+                        "codigo": "LGGO5IF",
+                        "descricao": "Utilizar recursos expressivos presentes em diversas linguagens, ampliando repertório acerca de manifestações linguísticas, corporais, estéticas e culturais, mobilizando esses conhecimentos para engajar-se em iniciativas criativas de interesse individual e/ou coletivo."
+                      },
+                      {
+                        "codigo": "LGGO6IF",
+                        "descricao": "Desenvolver estratégias inovadoras e éticas para resolver desafios do cotidiano, mobilizando conhecimentos e recursos de diversas linguagens, com o propósito de desconstruir estereótipos e outras formas de preconceito."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "LGGO7IF",
+                        "descricao": "Interpretar desafios socioculturais e ambientais cuja superação possa ocorrer por meio de intervenções centradas em práticas que valorizem a diversidade de manifestações culturais e sociais; delineando soluções capazes de contribuir com a qualidade de vida da comunidade e a preservação do meio ambiente."
+                      },
+                      {
+                        "codigo": "LGGO8IF",
+                        "descricao": "Organizar repertório individual sobre as diversas linguagens, por meio de estratégias de mediação e intervenção sobre questões de ordem sociocultural, aprimorando as relações da vida em sociedade, as possibilidades de fruição cultural coletiva e o respeito à diversidade e ao meio ambiente."
+                      },
+                      {
+                        "codigo": "LGGO9IF",
+                        "descricao": "Analisar ações de mediação e intervenção sociocultural e ambiental, mobilizando conhecimentos sobre as diversas linguagens e concebendo soluções viáveis para questões sociais e ambientais."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Empreendedorismo",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "LGG10IF",
+                        "descricao": "Entender de que forma o repertório pessoal acerca das diversas linguagens pode contribuir com a materialização de projetos de interesse individual e/ou coletivo, desenvolvendo estratégias éticas e sustentáveis para concretizá-los."
+                      },
+                      {
+                        "codigo": "LGG11IF",
+                        "descricao": "Organizar repertório pessoal acerca das diversas linguagens, favorecendo a escolha de conhecimentos que contribuam para o planejamento de iniciativas e/ou empreendimentos de interesse individual e/ou coletivo; fomentando a participação juvenil e a iniciativa empreendedora."
+                      },
+                      {
+                        "codigo": "LGG12IF",
+                        "descricao": "Desenvolver ações vinculadas a projetos individuais e/ou coletivos, estruturando iniciativas empreendedoras que proponham soluções para desafios pessoais, socioculturais e ambientais."
+                      }
+                    ]
+                  }
+                ],
+                "Matematica_e_suas_Tecnologias": [
+                  {
+                    "Eixo_Estruturante": "Investigação Científica",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "MATO1IF",
+                        "descricao": "Investigar situações-problema, selecionando os conhecimentos matemáticos relevantes e elaborando modelos para sua representação."
+                      },
+                      {
+                        "codigo": "MATO2IF",
+                        "descricao": "Testar hipóteses levantadas de variáveis que interferem na explicação ou na resolução de uma situação-problema, avaliando a adequação da linguagem de determinado modelo matemático, em termos de possíveis limitações, eficiência e possibilidades de generalização."
+                      },
+                      {
+                        "codigo": "MATO3IF",
+                        "descricao": "Sistematizar informações, com base em estudos e/ou pesquisas, sobre a contribuição matemática na explicação de fenômenos de natureza científica, social, profissional, cultural, de processos tecnológicos, reconhecendo pontos de vista diversos para posicionar-se com argumentação consistente, fazendo uso de diferentes mídias para a apresentação de conclusões."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Processos Criativos",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "MATO04IF",
+                        "descricao": "Reconhecer conceitos matemáticos, por meio de fruição, vivências e reflexão critica, que têm relação com produtos e/ou processos criativos, a fim de compreender a contribuição da Matemática para a resolução de problemas sociais e para o desenvolvimento de processos tecnológicos."
+                      },
+                      {
+                        "codigo": "MATOS1IF",
+                        "descricao": "Selecionar intencionalmente recursos relacionados ao conhecimento matemático, de modo a comunicar com precisão suas ações, reflexões, constatações, interpretações, bem como seus argumentos para resolver situações-problema de natureza diversa."
+                      },
+                      {
+                        "codigo": "MATO6IF",
+                        "descricao": "Propor novas abordagens e estratégias para o enfrentamento de situações reais, de forma ética, criativa e inovadora, utilizando conhecimentos matemáticos associados ao domínio de operações e relações simbólicas e formais."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "MATOTIF",
+                        "descricao": "Identificar questões socioculturais e ambientais que utilizem conhecimentos e habilidades matemáticas como subsídio para a tomada de decisões."
+                      },
+                      {
+                        "codigo": "MATOSIF",
+                        "descricao": "Mobilizar conhecimentos e recursos matemáticos para propor ações individuais e/ou coletivas de mediação e intervenção sobre problemas socioculturais e ambientais."
+                      },
+                      {
+                        "codigo": "MATOSIF",
+                        "descricao": "Propor estratégias de mediação e intervenção na solução de problemas de natureza sociocultural e ambiental que tenham relação com a Matemática, utilizando recursos e conhecimentos matemáticos."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Empreendedorismo",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "MAT10IF",
+                        "descricao": "Selecionar conhecimentos e recursos matemáticos para desenvolver um projeto pessoal ou um empreendimento produtivo."
+                      },
+                      {
+                        "codigo": "MAT11IF",
+                        "descricao": "Desenvolver projetos (pessoais e/ou produtivos) articulados com o projeto de vida, utilizando conhecimentos matemáticos."
+                      },
+                      {
+                        "codigo": "MAT12IF",
+                        "descricao": "Avaliar as diversas formas de relação entre os conhecimentos e recursos da Matemática e, também, a influência desses para concretizar projetos pessoais ou produtivos, levando em consideração as tecnologias e os impactos socioambientais."
+                      }
+                    ]
+                  }
+                ],
+                "Ciencias_da_Natureza_e_suas_Tecnologias": [
+                  {
+                    "Eixo_Estruturante": "Investigação Científica",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CNO1IF",
+                        "descricao": "Reconhecer a Ciência como uma atividade humana coletiva, historicamente construída e fundamentada em métodos estruturados, cujo objetivo é a compreensão do ordenamento e do funcionamento da natureza."
+                      },
+                      {
+                        "codigo": "CNO2IF",
+                        "descricao": "Discutir e testar conhecimentos e modelos científicos em busca de evidências para validação de hipóteses, respeitando diretrizes de segurança, bioética e respeito aos direitos humanos."
+                      },
+                      {
+                        "codigo": "CNO3IF",
+                        "descricao": "Elaborar hipóteses, procedimentos de coleta de dados, modelos explicativos e conclusões para processos investigativos, construindo textos, gráficos, tabelas e outras formas de representação para comunicar informações de interesse científico e tecnológico."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Processos Criativos",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CNO4IF",
+                        "descricao": "Reconhecer a Ciência como um processo criativo, dinâmico e transformador, presente no cotidiano das pessoas, que é capaz de promover a cultura da paz, com tolerância, integração e harmonia."
+                      },
+                      {
+                        "codigo": "CN05IF",
+                        "descricao": "Utilizar recursos e processos químicos, físicos e biológicos, respaldados por conhecimentos teóricos e práticos, para elaborar propostas para a solução de problemas."
+                      },
+                      {
+                        "codigo": "CNO6IF",
+                        "descricao": "Projetar e aplicar soluções para problemas reais, considerando os contextos ambientais, éticos e socioculturais, identificando seus impactos e prevendo desdobramentos."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CNO7IF",
+                        "descricao": "Reconhecer o conhecimento científico como instrumento de compreensão e solução de questões ambientais, sanitárias e socioculturais, a partir de procedimentos éticos, bioéticos, de respeito aos direitos humanos e à sustentabilidade."
+                      },
+                      {
+                        "codigo": "CNO8IF",
+                        "descricao": "Selecionar e aplicar recursos e procedimentos científicos para combater o preconceito, as ideias de eugenia e superioridade étnico-racial, bem como avaliar criticamente tecnologias que ameacem a construção de uma cultura da paz, como armamentos nucleares, químicos e biológicos."
+                      },
+                      {
+                        "codigo": "CNO9IF",
+                        "descricao": "Propor alternativas sustentáveis para a melhoria da qualidade de vida de pessoas e comunidades, garantindo seus direitos humanos e acesso a oportunidades iguais, considerando suas especificidades e diversidades regional, étnica, religiosa, sexual e sociocultural."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Empreendedorismo",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CN10IF",
+                        "descricao": "Entender a importância da tecnologia para a sociedade humana, que historicamente utiliza processos e insumos biológicos para a subsistência, a promoção do crescimento e a geração de bem-estar."
+                      },
+                      {
+                        "codigo": "CN11IF",
+                        "descricao": "Avaliar alternativas tecnológicas, selecionando as de melhor custo-benefício, considerando seus impactos ao ambiente, às comunidades locais e à saúde humana, tanto física quanto mental."
+                      },
+                      {
+                        "codigo": "CN12IF",
+                        "descricao": "Desenvolver soluções sustentáveis para questões cotidianas, a partir de saberes e tecnologias que favoreçam o exercício da cultura, da cidadania, bem como o desenvolvimento da sociedade, considerando suas necessidades por produção de alimentos, geração de energia e manutenção da saúde."
+                      }
+                    ]
+                  }
+                ],
+                "Ciencias_Humanas_e_Sociais_Aplicadas": [
+                  {
+                    "Eixo_Estruturante": "Investigação Científica",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CHSAIFO1",
+                        "descricao": "Investigar fenômenos e processos de natureza histórica, social, econômica, filosófica, ambiental, política e cultural, presentes no cotidiano como fontes de dados para a análise, interpretação, crítica e proposição científica."
+                      },
+                      {
+                        "codigo": "CHSAIFO2",
+                        "descricao": "Testar, a partir de dados investigados em âmbito local, regional, nacional e/ou global, procedimentos e linguagens adequados à pesquisa científica com vistas à (re)formulação de conhecimentos, apresentando conclusões práticas e/ou teóricas, com a utilização de diferentes mídias."
+                      },
+                      {
+                        "codigo": "CHSAIFO3",
+                        "descricao": "Sistematizar informações com base em pesquisa crítica (documental, bibliográfica, exploratória, de campo, experimental, etc.) a fim de se obter conhecimentos confiáveis."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Processos Criativos",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CHSAIF04",
+                        "descricao": "Reconhecer a diversidade de formas e recursos criativos na multiplicidade de discursos e práticas constituintes da realidade social."
+                      },
+                      {
+                        "codigo": "CHSAIF05",
+                        "descricao": "Selecionar formas e recursos criativos identificados em diferentes contextos da vida cotidiana (local, regional, nacional e global) para uma vida ativa, contributiva e melhoria dos âmbitos individual e coletivo."
+                      },
+                      {
+                        "codigo": "CHSAIF06",
+                        "descricao": "Propor soluções inovadoras em busca da superação de problemas relacionados às singularidades e suas especificidades de ordens histórica, social, econômica, filosófica, política e cultural."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CHSAIF07",
+                        "descricao": "Identificar, na diversidade de contextos históricos e geográficos e de modos de vida dos grupos humanos, práticas, crenças, valores e normas relacionadas às diferentes identidades socioculturais."
+                      },
+                      {
+                        "codigo": "CHSAIF08",
+                        "descricao": "Mobilizar recursos e conhecimentos de natureza sociocultural e ambiental, a partir das demandas locais, regionais, nacionais e/ou globais, segundo as especificidades das diversidades e coletividades."
+                      },
+                      {
+                        "codigo": "CHSAIF09",
+                        "descricao": "Propor ações de mediação e intervenção sobre questões adversas envolvidas na vida pública e cotidiana, por meio de projetos contributivos à construção de um espaço de convivência democrática e respeitosa dos direitos e da dignidade humana."
+                      }
+                    ]
+                  },
+                  {
+                    "Eixo_Estruturante": "Empreendedorismo",
+                    "Objetivos_de_Aprendizagem": [
+                      {
+                        "codigo": "CHSAIF10",
+                        "descricao": "Avaliar oportunidades, saberes, técnicas e recursos de processos produtivos nas perspectivas de análise e de reflexão sobre as culturas do empreendedorismo, da autogestão e do trabalho associado, em âmbito local, regional, nacional e/ou global."
+                      },
+                      {
+                        "codigo": "CHSAIF11",
+                        "descricao": "Selecionar estratégias criativas, relacionadas às ações de natureza social, econômica, ambiental, política e cultural, de forma articulada às diversidades de projetos de vida, com o intuito de construir projetos pessoais e/ou associativos."
+                      },
+                      {
+                        "codigo": "CHSAIF12",
+                        "descricao": "Desenvolver projetos por meio da elaboração e concretização de ações que coadunem com as práticas democráticas de cidadania, de sustentabilidade e de Direitos Humanos."
+                      }
+                    ]
+                  }
+                ],
+                "Educacao_Profissional_e_Tecnologica": {
+                  "Descricao": "A Educação Profissional e Tecnológica (EPT) integra-se aos diferentes níveis e modalidades de educação e às dimensões do trabalho, da ciência, da tecnologia e da cultura, constituindo modalidade da Educação Básica e Superior, articulada à EJA, Educação Especial e EaD. Destina-se à formação profissional de jovens e adultos, preparando-os para a vida, para o mundo do trabalho e para a continuidade dos estudos.",
+                  "Cursos_Profissionais_Tecnicos_de_Nivel_Medio": {
+                    "descricao": "Cursos com cargas horárias de 800, 1.000 ou 1.200 horas, que conferem habilitação profissional técnica de nível médio, com diploma de validade nacional, registrados no SISTEC, podendo ser ofertados de forma integrada, concomitante ou subsequente ao Ensino Médio."
+                  },
+                  "Cursos_de_Qualificacao_Profissional_FIC": {
+                    "descricao": "Cursos de Qualificação Profissional ou Formação Inicial e Continuada (FIC), com carga horária mínima de 160 horas, reconhecidos por certificado, voltados à inserção ou reinserção no mundo do trabalho."
+                  },
+                  "Principios_Orientadores": [
+                    "formação integral do estudante, garantindo articulação entre a formação no Ensino Médio e a formação técnica específica",
+                    "pleno desenvolvimento para a vida social e profissional, com formação voltada para o fortalecimento de valores cidadãos",
+                    "respeito aos conhecimentos prévios dos sujeitos da aprendizagem, promovendo a indissociabilidade entre educação e prática social",
+                    "indissociabilidade entre teoria e prática no processo de ensino e aprendizagem",
+                    "envolvimento das múltiplas dimensões do eixo tecnológico do curso e das ciências e tecnologias a ele vinculadas",
+                    "articulação com os arranjos produtivos locais, com as demandas da comunidade escolar e com o desenvolvimento socioeconômico-ambiental dos territórios",
+                    "reconhecimento da diversidade das pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades, em regime de acolhimento ou internação e em regime de privação de liberdade",
+                    "reconhecimento das identidades étnico-raciais dos povos indígenas, dos quilombolas e das identidades de gênero, bem como da diversidade de orientação sexual, das populações do campo e das pessoas em situação de rua",
+                    "autonomia da Instituição Educacional na construção e revisão de seu Projeto Político Pedagógico (PPP), desde que respeitados o processo participativo, a legislação e as normas educacionais",
+                    "descrição de perfis profissionais de conclusão de curso que contemplem conhecimentos, competências e saberes profissionais requeridos pela natureza do trabalho, pelo desenvolvimento tecnológico e pelas demandas sociais, econômicas e ambientais",
+                    "colaboração entre os entes federados, incluindo parcerias com as entidades da sociedade civil, visando à melhoria dos indicadores educacionais"
+                  ],
+                  "Trabalho_como_Principio_Educativo": "Compreende o trabalho como elemento formativo que supera a dicotomia entre trabalho manual e intelectual, integrando formação humanística e conhecimentos específicos, promovendo autonomia reflexiva, ética e cidadania.",
+                  "Pesquisa_como_Principio_Pedagogico": "A pesquisa orienta os processos formativos, estimulando o pensamento crítico, a prática investigativa, a integração entre ciência e prática e a superação da fragmentação do conhecimento por meio da interdisciplinaridade.",
+                  "Planejamento_Pedagogico": {
+                    "etapas": [
+                      "Diagnóstico situacional",
+                      "Definição de objetivos e metas",
+                      "Construção de plano ou projeto",
+                      "Monitoramento e avaliação"
+                    ]
+                  },
+                  "Organizacao_Curricular": {
+                    "pressupostos": [
+                      "historicidade da ocupação profissional",
+                      "adequação à vocação produtiva regional",
+                      "definição do perfil profissional de conclusão",
+                      "aproveitamento contínuo de estudos",
+                      "flexibilidade curricular",
+                      "interdisciplinaridade",
+                      "critérios de avaliação",
+                      "condições técnicas e de pessoal"
+                    ]
+                  },
+                  "Organizacao_da_Oferta_EPT": {
+                    "Organizacao_Formas_Modalidades_de_Oferta": {
+                      "contexto": "Articulação com o Ensino Médio",
+                      "instituicoes": {
+                        "rede_de_ensino": {
+                          "descricao": "Instituições educacionais da rede de ensino do Sistema de Ensino do Distrito Federal."
+                        },
+                        "instituicoes_parceiras": {
+                          "descricao": "Instituições parceiras devidamente autorizadas, conforme legislações vigentes."
+                        }
+                      },
+                      "tipos_de_cursos": {
+                        "Cursos_Tecnicos_de_Nivel_Medio": {
+                          "publico": [
+                            "estudantes matriculados no Ensino Médio",
+                            "egressos do Ensino Médio"
+                          ],
+                          "referencial_normativo": "Catálogo Nacional de Cursos Técnicos",
+                          "estrutura": {
+                            "organizacao": "eixos tecnológicos",
+                            "articulacao": "Formação Geral Básica",
+                            "carga_horaria": "mínima definida no CNCT"
+                          }
+                        },
+                        "Qualificacao_Profissional_ou_FIC": {
+                          "denominacao_e_parametros": {
+                            "referenciais": [
+                              "Guia Nacional de Cursos FIC",
+                              "Classificação Brasileira de Ocupações"
+                            ],
+                            "criterios": [
+                              "denominação",
+                              "carga horária",
+                              "escolaridade",
+                              "perfil profissional"
+                            ]
+                          },
+                          "relacao_com_cursos_tecnicos": {
+                            "tipo": "saída intermediária",
+                            "descricao": "Pode integrar a matriz curricular dos cursos técnicos de nível médio."
+                          },
+                          "certificacao": {
+                            "tipo": "certificado",
+                            "condicao": "conclusão do curso conforme normativas do DF"
+                          }
+                        }
+                      },
+                      "organizacao_curricular": {
+                        "descricao": "Cada tipo de curso possui organização curricular própria, em conformidade com as legislações vigentes."
+                      }
                     }
                   },
-                  "Qualificacao_Profissional_ou_FIC": {
-                    "denominacao_e_parametros": {
-                      "referenciais": [
-                        "Guia Nacional de Cursos FIC",
-                        "Classificação Brasileira de Ocupações"
-                      ],
-                      "criterios": [
-                        "denominação",
-                        "carga horária",
-                        "escolaridade",
-                        "perfil profissional"
+                  "Formas_de_Oferta": {
+                    "tipos": [
+                      "Integrada ao Ensino Médio",
+                      "Concomitante ao Ensino Médio"
+                    ]
+                  },
+                  "Possibilidades_de_Oferta": {
+                    "modalidades": [
+                      "Forma Presencial",
+                      "Educação a Distância (EaD)"
+                    ]
+                  },
+                  "Registro_no_Sistema_Nacional_de_Informacoes_da_EPT": {
+                    "descricao": "Os cursos técnicos de nível médio devem ser registrados no Sistema Nacional de Cursos Técnicos vigente, garantindo a validade nacional dos diplomas."
+                  },
+                  "Formalizacao_de_Parcerias": {
+                    "descricao": "As parcerias com instituições possibilitam a oferta de itinerários formativos, a emissão de certificações e o fortalecimento da gestão democrática, visando à permanência, aprendizagem e protagonismo dos estudantes."
+                  },
+                  "Objetivos_de_Aprendizagem": [
+                    {
+                      "Eixo_Estruturante": "Investigação Científica",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "EPT01IF",
+                          "descricao": "Compreender os fenômenos cotidianos que permeiam a vida pessoal, familiar e comunitária, o ambiente escolar e o mundo do trabalho, por meio de metodologias participativas e de problematização."
+                        },
+                        {
+                          "codigo": "EPTO2IF",
+                          "descricao": "Aplicar conhecimentos construídos pelas ciências para entender suas relações com os saberes inerentes ao mundo do trabalho."
+                        },
+                        {
+                          "codigo": "EPTO3IF",
+                          "descricao": "Produzir novas informações a partir do conhecimento da realidade vivenciada, visando à solução de situações-problema."
+                        }
                       ]
                     },
-                    "relacao_com_cursos_tecnicos": {
-                      "tipo": "saída intermediária",
-                      "descricao": "Pode integrar a matriz curricular dos cursos técnicos de nível médio."
+                    {
+                      "Eixo_Estruturante": "Processos Criativos",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "EPTO4IF",
+                          "descricao": "Reconhecer conceitos e expressões do processo criativo e sua relevância na vida e no mundo do trabalho."
+                        },
+                        {
+                          "codigo": "EPTO5IF",
+                          "descricao": "Demonstrar senso crítico e criativo a partir da análise da realidade e das exigências do mundo do trabalho."
+                        },
+                        {
+                          "codigo": "EPTO6IF",
+                          "descricao": "Desenvolver a capacidade de articular o pensar e o agir diante das oportunidades do processo de aprendizagem."
+                        }
+                      ]
                     },
-                    "certificacao": {
-                      "tipo": "certificado",
-                      "condicao": "conclusão do curso conforme normativas do DF"
+                    {
+                      "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "EPTO7IF",
+                          "descricao": "Entender deveres, direitos e responsabilidades individuais e coletivas nas questões sociais e ambientais."
+                        },
+                        {
+                          "codigo": "EPTO8IF",
+                          "descricao": "Demonstrar capacidade de atuação em equipe, respeitando a diversidade e os preceitos éticos."
+                        },
+                        {
+                          "codigo": "EPTO9IF",
+                          "descricao": "Analisar estratégias e métodos para mediação de conflitos nas relações sociais e de trabalho."
+                        }
+                      ]
+                    },
+                    {
+                      "Eixo_Estruturante": "Empreendedorismo",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "EPTO10IF",
+                          "descricao": "Reconhecer fundamentos e características comportamentais relacionadas ao empreendedorismo."
+                        },
+                        {
+                          "codigo": "EPTO11IF",
+                          "descricao": "Categorizar instrumentais para formulação e gerenciamento de projetos."
+                        },
+                        {
+                          "codigo": "EPTO12IF",
+                          "descricao": "Desenvolver capacidade empreendedora por meio da elaboração de projetos alinhados ao contexto produtivo."
+                        }
+                      ]
                     }
-                  }
-                },
-                "organizacao_curricular": {
-                  "descricao": "Cada tipo de curso possui organização curricular própria, em conformidade com as legislações vigentes."
+                  ]
                 }
               }
-            },
-            "Formas_de_Oferta": {
-              "tipos": [
-                "Integrada ao Ensino Médio",
-                "Concomitante ao Ensino Médio"
-              ]
-            },
-            "Possibilidades_de_Oferta": {
-              "modalidades": [
-                "Forma Presencial",
-                "Educação a Distância (EaD)"
-              ]
-            },
-            "Registro_no_Sistema_Nacional_de_Informacoes_da_EPT": {
-              "descricao": "Os cursos técnicos de nível médio devem ser registrados no Sistema Nacional de Cursos Técnicos vigente, garantindo a validade nacional dos diplomas."
-            },
-            "Formalizacao_de_Parcerias": {
-              "descricao": "As parcerias com instituições possibilitam a oferta de itinerários formativos, a emissão de certificações e o fortalecimento da gestão democrática, visando à permanência, aprendizagem e protagonismo dos estudantes."
-            },
-            "Objetivos_de_Aprendizagem": [
-              {
-                "Eixo_Estruturante": "Investigação Científica",
-                "Objetivos_de_Aprendizagem": [
-                  {
-                    "codigo": "EPT01IF",
-                    "descricao": "Compreender os fenômenos cotidianos que permeiam a vida pessoal, familiar e comunitária, o ambiente escolar e o mundo do trabalho, por meio de metodologias participativas e de problematização."
-                  },
-                  {
-                    "codigo": "EPTO2IF",
-                    "descricao": "Aplicar conhecimentos construídos pelas ciências para entender suas relações com os saberes inerentes ao mundo do trabalho."
-                  },
-                  {
-                    "codigo": "EPTO3IF",
-                    "descricao": "Produzir novas informações a partir do conhecimento da realidade vivenciada, visando à solução de situações-problema."
-                  }
-                ]
-              },
-              {
-                "Eixo_Estruturante": "Processos Criativos",
-                "Objetivos_de_Aprendizagem": [
-                  {
-                    "codigo": "EPTO4IF",
-                    "descricao": "Reconhecer conceitos e expressões do processo criativo e sua relevância na vida e no mundo do trabalho."
-                  },
-                  {
-                    "codigo": "EPTO5IF",
-                    "descricao": "Demonstrar senso crítico e criativo a partir da análise da realidade e das exigências do mundo do trabalho."
-                  },
-                  {
-                    "codigo": "EPTO6IF",
-                    "descricao": "Desenvolver a capacidade de articular o pensar e o agir diante das oportunidades do processo de aprendizagem."
-                  }
-                ]
-              },
-              {
-                "Eixo_Estruturante": "Mediação e Intervenção Sociocultural",
-                "Objetivos_de_Aprendizagem": [
-                  {
-                    "codigo": "EPTO7IF",
-                    "descricao": "Entender deveres, direitos e responsabilidades individuais e coletivas nas questões sociais e ambientais."
-                  },
-                  {
-                    "codigo": "EPTO8IF",
-                    "descricao": "Demonstrar capacidade de atuação em equipe, respeitando a diversidade e os preceitos éticos."
-                  },
-                  {
-                    "codigo": "EPTO9IF",
-                    "descricao": "Analisar estratégias e métodos para mediação de conflitos nas relações sociais e de trabalho."
-                  }
-                ]
-              },
-              {
-                "Eixo_Estruturante": "Empreendedorismo",
-                "Objetivos_de_Aprendizagem": [
-                  {
-                    "codigo": "EPTO10IF",
-                    "descricao": "Reconhecer fundamentos e características comportamentais relacionadas ao empreendedorismo."
-                  },
-                  {
-                    "codigo": "EPTO11IF",
-                    "descricao": "Categorizar instrumentais para formulação e gerenciamento de projetos."
-                  },
-                  {
-                    "codigo": "EPTO12IF",
-                    "descricao": "Desenvolver capacidade empreendedora por meio da elaboração de projetos alinhados ao contexto produtivo."
-                  }
-                ]
-              }
-            ]
+            }
           }
         }
       }
