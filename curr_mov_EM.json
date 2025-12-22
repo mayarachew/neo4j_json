@@ -1665,248 +1665,244 @@
               "descricao": "Um dos princípios que norteiam os Itinerários Formativos é a flexibilização, segundo a qual a composição das unidades curriculares nessa parte do currículo será personalizada e orientada.",
               "componentes": [
                 {
-                  "Projeto_de_Vida": {
-                    "objetivo": "Propiciar um momento de autorreflexão sobre seu presente e futuro, estimulando a autonomia, o protagonismo e o desenvolvimento das competências sociais para que os estudantes se tornem cidadãos ativos e responsáveis.",
-                    "finalidades": [
-                      "planejar trajetórias ao longo do Ensino Médio",
-                      "refletir sobre escolhas de eletivas orientadas e trilhas de aprendizagem",
-                      "tomar decisões refletidas",
-                      "engajar-se no trabalho coletivo",
-                      "compreender as responsabilidades de cada escolha"
-                    ],
-                    "vertentes": [
-                      {
-                        "nome": "Transição para o Ensino Médio",
-                        "descricao": "Trabalhar a dificuldade de transição entre o Ensino Fundamental e o Ensino Médio, bem como a necessidade de planejamento e organização dos estudantes."
-                      },
-                      {
-                        "nome": "Desenvolvimento do Projeto de Vida",
-                        "descricao": "Estimular o autoconhecimento e a reflexão sobre o percurso para a vida adulta, sem definir precocemente profissão ou área de formação."
-                      },
-                      {
-                        "nome": "Desenvolvimento do Plano Individual de Curso",
-                        "descricao": "Elaborar um planejamento da trajetória no Ensino Médio, em conjunto com o professor orientador, de acordo com as potencialidades do estudante."
-                      },
-                      {
-                        "nome": "Orientação para Prosseguimento dos Estudos",
-                        "descricao": "Orientar estratégias para o acesso ao Ensino Superior, Educação Profissional e Tecnológica, concursos públicos, empreendedorismo e outras formas de ingresso no mundo do trabalho."
-                      }
-                    ],
-                    "caracter_obrigatorio": "A unidade curricular Projeto de Vida será ofertada a todos os estudantes ao longo de todo o Ensino Médio, como unidade curricular obrigatória."
-                  }
+                  "componente": "Projeto_de_Vida",
+                  "objetivo": "Propiciar um momento de autorreflexão sobre seu presente e futuro, estimulando a autonomia, o protagonismo e o desenvolvimento das competências sociais para que os estudantes se tornem cidadãos ativos e responsáveis.",
+                  "finalidades": [
+                    "planejar trajetórias ao longo do Ensino Médio",
+                    "refletir sobre escolhas de eletivas orientadas e trilhas de aprendizagem",
+                    "tomar decisões refletidas",
+                    "engajar-se no trabalho coletivo",
+                    "compreender as responsabilidades de cada escolha"
+                  ],
+                  "vertentes": [
+                    {
+                      "nome": "Transição para o Ensino Médio",
+                      "descricao": "Trabalhar a dificuldade de transição entre o Ensino Fundamental e o Ensino Médio, bem como a necessidade de planejamento e organização dos estudantes."
+                    },
+                    {
+                      "nome": "Desenvolvimento do Projeto de Vida",
+                      "descricao": "Estimular o autoconhecimento e a reflexão sobre o percurso para a vida adulta, sem definir precocemente profissão ou área de formação."
+                    },
+                    {
+                      "nome": "Desenvolvimento do Plano Individual de Curso",
+                      "descricao": "Elaborar um planejamento da trajetória no Ensino Médio, em conjunto com o professor orientador, de acordo com as potencialidades do estudante."
+                    },
+                    {
+                      "nome": "Orientação para Prosseguimento dos Estudos",
+                      "descricao": "Orientar estratégias para o acesso ao Ensino Superior, Educação Profissional e Tecnológica, concursos públicos, empreendedorismo e outras formas de ingresso no mundo do trabalho."
+                    }
+                  ],
+                  "caracter_obrigatorio": "A unidade curricular Projeto de Vida será ofertada a todos os estudantes ao longo de todo o Ensino Médio, como unidade curricular obrigatória."
                 },
                 {
-                  "Lingua_Espanhola": {
-                    "Objetivos_Gerais": "A ampliação crítica das relações sociais por meio dos estudos das diferentes linguagens humanas nas plataformas digitais existentes.",
-                    "Objetivos_de_Aprendizagem_por_Unidade_Tematica": [
-                      {
-                        "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS SOCIOAMBIENTAIS",
-                        "Objetivos_de_Aprendizagem": [
-                          {
-                            "codigo": "ESP43",
-                            "descricao": "Averiguar o funcionamento de órgãos públicos normatizadores e fiscalizadores de questões ambientais, a partir da análise linguística de textos oficiais relacionados à área, para a produção e divulgação de materiais informativos e opinativos referentes a temáticas socioambientais."
-                          },
-                          {
-                            "codigo": "ESP44",
-                            "descricao": "Analisar as políticas públicas de combate às ocupações ilegais/desordenadas e às queimadas, bem como a aplicabilidade da legislação vigente voltada ao uso consciente dos recursos hídricos, para um monitoramento ativo e responsável do Patrimônio Ambiental do DF e da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (RIDE)."
-                          },
-                          {
-                            "codigo": "ESP45",
-                            "descricao": "Posicionar-se, pelo uso de debates, acerca de questões socioambientais, indígenas, quilombolas e dos povos ciganos, presentes em textos midiáticos de âmbito nacional e distrital, favorecendo o raciocínio crítico, prospectivo e interpretativo."
-                          },
-                          {
-                            "codigo": "ESP46",
-                            "descricao": "Verificar ações artísticas, desportivas, verbais e socioculturais que envolvem a preservação do meio ambiente e o incentivo à sustentabilidade; visando reconstruí-las em contextos pedagógicos, escolares e socioculturais e, também, digitais."
-                          },
-                          {
-                            "codigo": "ESP47",
-                            "descricao": "Distinguir diferentes estilos e espaços cênicos, esportivos e de letramento para analisar a dinâmica de práticas sociais, tradicionais e contemporâneas, que envolvem o meio ambiente e contextualizam campos específicos dos diferentes componentes da Área de Linguagens e suas Tecnologias."
-                          },
-                          {
-                            "codigo": "ESP48",
-                            "descricao": "Comparar a espacialidade visual com práticas artísticas, esportivas, históricas e socioculturais (Arte Medieval - bizantina, românica e gótica, Renascentista - clássica e neoclássica, barroco, movimentos artísticos e literários - romantismo, realismo, naturalismo) para apreciar a construção de estéticas e monumentos que se inspiram e interferem em paisagens e no meio ambiente."
-                          },
-                          {
-                            "codigo": "ESP49",
-                            "descricao": "Analisar a participação cidadã, democrática, humana, sensível, diversa, por meio do posicionamento crítico das teorias, práticas e relações estéticas da Arte, da Educação Física e das Línguas Portuguesa e Estrangeiras com as novas tecnologias, o meio ambiente e a biodiversidade."
-                          },
-                          {
-                            "codigo": "ESP50",
-                            "descricao": "Vivenciar práticas corporais praticadas em espaços naturais e espaços urbanos de forma crítica, que leve em conta o meio ambiente, a arquitetura local, o patrimônio público e a consciência socioambiental para possibilidades de atuação social e política, objetivando a manutenção e a criação de iniciativas públicas de esporte e lazer em sua comunidade, em consonância com a preservação do meio ambiente."
-                          },
-                          {
-                            "codigo": "ESP51",
-                            "descricao": "Contrastar as ações que envolvem o Brasil e os países que falam a Língua Espanhola, no tocante a acordos internacionais acerca do meio ambiente, com o objetivo de desenvolver a consciência e o protagonismo ambiental quanto à preservação em níveis local, regional e global."
-                          },
-                          {
-                            "codigo": "ESP52",
-                            "descricao": "Categorizar, na Língua Espanhola, ações individuais e coletivas que possibilitem a reflexão sobre a importância do trabalho voluntário, para a melhoria da relação do individuo com o meio ambiente e com a comunidade em que vive, fortalecendo a consciência de pertencimento local, regional e global."
-                          },
-                          {
-                            "codigo": "ESP53",
-                            "descricao": "Criar, utilizando a Língua Espanhola, orientações/sugestões para o desenvolvimento da sustentabilidade em âmbitos local, regional e global, visando a conscientização e a preservação do patrimônio ambiental."
-                          }
-                        ]
-                      },
-                      {
-                        "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE IDENTIDADE E PROTAGONISMO JUVENIL",
-                        "Objetivos_de_Aprendizagem": [
-                          {
-                            "codigo": "ESP54",
-                            "descricao": "Criar, pelo uso do LinkedIn, Infográficos, Currículo Digital, Blog Profissional, registros digitais profissionais em diferentes linguagens, no propósito de validar os projetos de vida alicerçados nas trajetórias de cada indivíduo."
-                          },
-                          {
-                            "codigo": "ESP55",
-                            "descricao": "Posicionar-se a partir de debates e discussões sobre temas de interesse da juventude, apropriando-se de bases legais, como o Estatuto da Juventude e as políticas públicas vigentes, para tornarem-se protagonistas de ações que contemplem a condição juvenil."
-                          },
-                          {
-                            "codigo": "ESP56",
-                            "descricao": "Avaliar os valores culturais e humanos no patrimônio artístico, arquitetônico e literário, valorizando as peculiaridades estruturais e estilísticas de diferentes gêneros artísticos e literários, a fim de fortalecer a elaboração da subjetividade e das inter-relações pessoais."
-                          },
-                          {
-                            "codigo": "ESP57",
-                            "descricao": "Planejar, de forma colaborativa, a produção de projetos culturais e de entretenimento para a divulgação, produção de comentários e avaliação de produções culturais e artísticas de interesse juvenil."
-                          },
-                          {
-                            "codigo": "ESP58",
-                            "descricao": "Desenvolver as etapas de produção da pesquisa científica a partir dos gêneros textuais envolvidos na sua realização e divulgação, reconhecendo as múltiplas formas como esse conhecimento é produzido e difundido nas sociedades contemporâneas."
-                          },
-                          {
-                            "codigo": "ESP59",
-                            "descricao": "Selecionar procedimentos de checagem de fatos noticiados e demais informações veiculadas nos sistemas de comunicação e informação e que originam o fenômeno da pós- -verdade, detectando a veracidade e os interesses implícitos dessas informações."
-                          },
-                          {
-                            "codigo": "ESP60",
-                            "descricao": "Descobrir coletivos indígenas, negros, latino-americanos e outros grupos étnicos que fazem uso de diversas expressões artísticas, verbais e desportivas (hip hop, rock, danças urbanas) para discutir a expressão e manifestação de suas ideias, de forma mútua e intercultural, por meio das diferentes linguagens e suas tecnologias."
-                          },
-                          {
-                            "codigo": "ESP61",
-                            "descricao": "Distinguir as danças e expressões brasileiras das matrizes culturais dos povos indigenas (cateretê, caiapós, cururu, guajajara, jacundá, boi-bumbá), africanas e afro-brasileiras (capoeira, congada, jongo, maracatu, samba de roda), valorizando e praticando seus saberes e fazeres culturais de formação da identidade artística, linguística e esportiva nacional."
-                          },
-                          {
-                            "codigo": "ESP62",
-                            "descricao": "Identificar conceitos sobre o corpo e discursos linguísticos e identitários presentes na expressividade corporal (ações corporais - movimento, espaço, tempo, peso, fluência, conceito de corpo dual, totalidade, corporeidade) para experimentar seus procedimentos de improvisação e criação relacionados aos diferentes modos próprios e sensíveis de criar, recriar e expressar o movimento estético e corporal em contextos pedagógicos, artísticos e desportivos."
-                          },
-                          {
-                            "codigo": "ESP63",
-                            "descricao": "Utilizar processos criativos incorporados à corporeidade e suas expressões verbais e estéticas, de modo a desenvolver o repertório artístico e cultural; contribuindo para a autonomia e trajetória de vida por meio do autoconhecimento corpóreo em práticas artiísticas, desportivas e expressivas."
-                          },
-                          {
-                            "codigo": "ESP64",
-                            "descricao": "Apreciar espetáculos e manifestações artísticas, verbais e desportivas que envolvem as diferentes linguagens, no entorno escolar e além dele, para aprimorar a fruição, a crítica e a leitura de estéticas tradicionais e contemporâneas como parte do processo de formação do público/espectador."
-                          },
-                          {
-                            "codigo": "ESP65",
-                            "descricao": "Interpretar os conceitos de atividade física, aptidão física (principalmente os componentes da aptidão física relacionados à saúde), saúde e qualidade de vida (e seus fatores), bem como seus benefícios e comorbidades associadas para significá-las em seu projeto de vida de forma consciente, de modo a desenvolver um estilo de vida mais ativo, adotando práticas de cuidado com o corpo e com a saúde."
-                          },
-                          {
-                            "codigo": "ESP66",
-                            "descricao": "Compreender os conceitos de nutrição, suplementação, produtos anabolizantes, alimentação saudável e suas relações de consumo, sustentabilidade e discursos midiáticos para a construção de um posicionamento crítico e a adoção de hábitos saudáveis."
-                          },
-                          {
-                            "codigo": "ESP67",
-                            "descricao": "Conhecer o conceito de imagem corporal, sua forma de desenvolvimento e construção, compreender os padrões de beleza e a diversidade corporal e analisar, de forma crítica, os discursos midiáticos apresentados através das manifestações artísticas, linguísticas e desportivas e sua relação com os transtornos relacionados com a imagem corporal, de modo a ressignificar suas práticas corporais na promoção do autoconhecimento e do autocuidado com a saúde para subsidiar suas escolhas para seu projeto de vida."
-                          },
-                          {
-                            "codigo": "ESP68",
-                            "descricao": "Experimentar novos processos de autoconhecimento através de técnicas do Yoga. Identificar as práticas yogues, a cultura oriental e suas influências na cultura brasileira, bem como suas origens históricas e mitológicas para desenvolvimento de um caminho de autoconhecimento, autocontrole, compreensão e respeito a si mesmo e ao outro."
-                          },
-                          {
-                            "codigo": "ESP69",
-                            "descricao": "Empregar conhecimentos linguísticos, metodológicos e socioculturais, na Língua Espanhola, para a elaboração de pré-projetos e/ou projetos (de iniciação científica, por exemplo), cartas de intenção, relatos de experiências, a fim de ampliar as possibilidades de intercâmbios estudantis, de acesso a universidades estrangeiras, de estágios profissionais e da realização de quaisquer outros projetos de vida."
-                          },
-                          {
-                            "codigo": "ESP70",
-                            "descricao": "Desenvolver a performance argumentativa, por meio da interação com diferentes contextos de uso da Língua Espanhola (debates, seminários, fóruns, plenárias, simulações da ONU a exemplo da SiINUS), com o objetivo de conhecer, conviver, trabalhar e serem um meio mais tolerante, inclusivo, colaborativo e pacífico."
-                          },
-                          {
-                            "codigo": "ESP71",
-                            "descricao": "Construir textos multimidiáticos (blogs, jornais, canais online, revistas digitais) que divulguem conteúdos de interesse dos estudantes e experiências exitosas nas comunidades escolar e local, para promover interação entre elas e ampliar a competência comunicacional na Língua Espanhola."
-                          }
-                        ]
-                      },
-                      {
-                        "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE CULTURA DIGITAL",
-                        "Objetivos_de_Aprendizagem": [
-                          {
-                            "codigo": "ESP72",
-                            "descricao": "Analisar as tecnologias da comunicação e da informação na vida pessoal e social dos jovens, associando-as ao desenvolvimento de conhecimentos científicos, às linguagens que lhes dão suporte, aos processos de produção e aos problemas que se propõem solucionar, no intuito de adequar as produções aos contextos sociais em que estejam inseridos, formando cidadãos munidos de reflexão social."
-                          },
-                          {
-                            "codigo": "ESP73",
-                            "descricao": "Planejar o uso das diversas plataformas de ferramentas digitais, a partir de uma participação fundamentada e ética, quanto à criação cultural para o engajamento social, propiciando uma visão crítica do indivíduo."
-                          },
-                          {
-                            "codigo": "ESP74",
-                            "descricao": "Apreciar formas contemporâneas de publicidade em contexto digital, bem como peças de campanhas publicitárias e políticas, debatendo os valores e as representações de situações, grupos e configurações sociais veiculadas, desconstruindo estereótipos, destacando estratégias de engajamento e viralização e explicando os mecanismos de persuasão utilizados e os efeitos de sentido provocados pelas escolhas feitas em termos de elementos e recursos de diferentes linguagens."
-                          },
-                          {
-                            "codigo": "ESP75",
-                            "descricao": "Operar, de forma compartilhada, práticas culturais e sociais de diferentes temáticas apoiadas em meios digitais atualmente existentes, com a finalidade de valorizar a participação cultural coletiva, fomentando a prática da inserção do indivíduo no ato de criação crítico-social."
-                          },
-                          {
-                            "codigo": "ESP76",
-                            "descricao": "Analisar os diferentes gêneros audiovisuais e cinematográficos e suas relações com as linguagens artísticas, verbais e esportivas (documentário, videoarte, videoclipe, animação), a fim de produzir conhecimentos da Área de Linguagens com os recursos e as estéticas digitais, considerando as produções do contexto escolar e do entorno."
-                          },
-                          {
-                            "codigo": "ESP77",
-                            "descricao": "Examinar a relação das diversas produções artísticas, verbais e corporais da Área de Linguagens com o desenvolvimento digital e tecnológico para interpretar seus contextos sociais, políticos, históricos e contemporâneos (Semana de Arte Moderna de 1922, antropofagia, arte moderna e pós-moderna, artistas, poetas, performers, grupos teatrais e musicais brasileiros)."
-                          },
-                          {
-                            "codigo": "ESP78",
-                            "descricao": "Analisar, em plataformas digitais ou em outros recursos analógicos e afins, os Festivais de Música Popular Brasileira (1965-1985) e outras composições no período da Ditadura Militar, para criar conexões com outros gêneros e estilos artísticos, textuais e musicais de diferentes tempos e espaços da historiografia musical do Brasil com o mundo (tropicalismo, bossa nova, MPB, moda de viola e emboladas, samba, batalha de rima, lives)."
-                          },
-                          {
-                            "codigo": "ESP79",
-                            "descricao": "Avaliar o uso de aplicativos, protocolos e softwares utilizados para promoção de atividades físicas, propiciando uma visão crítica acerca dos objetivos e das metas idealizados."
-                          },
-                          {
-                            "codigo": "ESP80",
-                            "descricao": "Utilizar testes e avaliações físicas, principalmente os relacionados à saúde, para compreender os benefícios no organismo humano, nas capacidades psíquicas, fisiológicas, motoras e afetivas, para adoção de um estilo de vida que leve em consideração a promoção da atividade física."
-                          },
-                          {
-                            "codigo": "ESP81",
-                            "descricao": "Avaliar criticamente o processo histórico dos jogos eletrônicos, preconceitos, estereótipos e relações de poder, com a finalidade de desenvolver diferentes modos de participação e intervenção social."
-                          },
-                          {
-                            "codigo": "ESP82",
-                            "descricao": "Explorar as tecnologias digitais dirigidas à atividade física, conhecidas como Exergames, ou interface de esforço, compreendendo sua abrangência, seus princípios, suas funcionalidades e seus objetivos, e utilizá-las de forma crítica, ética, criativa e adequada à construção do seu conhecimento sobre o tema."
-                          },
-                          {
-                            "codigo": "ESP83",
-                            "descricao": "Analisar diferentes gêneros digitais (tradutores online, dicionários virtuais, mensagens instantâneas), com o objetivo de acessar a informação e ampliar a capacidade de comunicação, na Língua Espanhola, por meio de ambientes virtuais."
-                          },
-                          {
-                            "codigo": "ESP84",
-                            "descricao": "Explorar diferentes plataformas digitais que propiciem o acesso ao acervo artístico-literário internacional, a fim de ampliar repertório e conhecer expoentes mundiais nos cenários culturais da Língua Espanhola (música, teatro, literatura, arte)."
-                          },
-                          {
-                            "codigo": "ESP85",
-                            "descricao": "Desenvolver recursos digitais (aplicativos, sistemas, gráficos para mapeamentos de dados), utilizando a Língua Espanhola, de modo a contribuir, de forma criativa e significativa, com o aprimoramento de questões relacionadas ao bem-estar da comunidade na qual o estudante está inserido."
-                          }
-                        ]
-                      }
-                    ]
-                  }
+                  "componente": "Lingua_Espanhola",
+                  "Objetivos_Gerais": "A ampliação crítica das relações sociais por meio dos estudos das diferentes linguagens humanas nas plataformas digitais existentes.",
+                  "Objetivos_de_Aprendizagem_por_Unidade_Tematica": [
+                    {
+                      "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS SOCIOAMBIENTAIS",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "ESP43",
+                          "descricao": "Averiguar o funcionamento de órgãos públicos normatizadores e fiscalizadores de questões ambientais, a partir da análise linguística de textos oficiais relacionados à área, para a produção e divulgação de materiais informativos e opinativos referentes a temáticas socioambientais."
+                        },
+                        {
+                          "codigo": "ESP44",
+                          "descricao": "Analisar as políticas públicas de combate às ocupações ilegais/desordenadas e às queimadas, bem como a aplicabilidade da legislação vigente voltada ao uso consciente dos recursos hídricos, para um monitoramento ativo e responsável do Patrimônio Ambiental do DF e da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (RIDE)."
+                        },
+                        {
+                          "codigo": "ESP45",
+                          "descricao": "Posicionar-se, pelo uso de debates, acerca de questões socioambientais, indígenas, quilombolas e dos povos ciganos, presentes em textos midiáticos de âmbito nacional e distrital, favorecendo o raciocínio crítico, prospectivo e interpretativo."
+                        },
+                        {
+                          "codigo": "ESP46",
+                          "descricao": "Verificar ações artísticas, desportivas, verbais e socioculturais que envolvem a preservação do meio ambiente e o incentivo à sustentabilidade; visando reconstruí-las em contextos pedagógicos, escolares e socioculturais e, também, digitais."
+                        },
+                        {
+                          "codigo": "ESP47",
+                          "descricao": "Distinguir diferentes estilos e espaços cênicos, esportivos e de letramento para analisar a dinâmica de práticas sociais, tradicionais e contemporâneas, que envolvem o meio ambiente e contextualizam campos específicos dos diferentes componentes da Área de Linguagens e suas Tecnologias."
+                        },
+                        {
+                          "codigo": "ESP48",
+                          "descricao": "Comparar a espacialidade visual com práticas artísticas, esportivas, históricas e socioculturais (Arte Medieval - bizantina, românica e gótica, Renascentista - clássica e neoclássica, barroco, movimentos artísticos e literários - romantismo, realismo, naturalismo) para apreciar a construção de estéticas e monumentos que se inspiram e interferem em paisagens e no meio ambiente."
+                        },
+                        {
+                          "codigo": "ESP49",
+                          "descricao": "Analisar a participação cidadã, democrática, humana, sensível, diversa, por meio do posicionamento crítico das teorias, práticas e relações estéticas da Arte, da Educação Física e das Línguas Portuguesa e Estrangeiras com as novas tecnologias, o meio ambiente e a biodiversidade."
+                        },
+                        {
+                          "codigo": "ESP50",
+                          "descricao": "Vivenciar práticas corporais praticadas em espaços naturais e espaços urbanos de forma crítica, que leve em conta o meio ambiente, a arquitetura local, o patrimônio público e a consciência socioambiental para possibilidades de atuação social e política, objetivando a manutenção e a criação de iniciativas públicas de esporte e lazer em sua comunidade, em consonância com a preservação do meio ambiente."
+                        },
+                        {
+                          "codigo": "ESP51",
+                          "descricao": "Contrastar as ações que envolvem o Brasil e os países que falam a Língua Espanhola, no tocante a acordos internacionais acerca do meio ambiente, com o objetivo de desenvolver a consciência e o protagonismo ambiental quanto à preservação em níveis local, regional e global."
+                        },
+                        {
+                          "codigo": "ESP52",
+                          "descricao": "Categorizar, na Língua Espanhola, ações individuais e coletivas que possibilitem a reflexão sobre a importância do trabalho voluntário, para a melhoria da relação do individuo com o meio ambiente e com a comunidade em que vive, fortalecendo a consciência de pertencimento local, regional e global."
+                        },
+                        {
+                          "codigo": "ESP53",
+                          "descricao": "Criar, utilizando a Língua Espanhola, orientações/sugestões para o desenvolvimento da sustentabilidade em âmbitos local, regional e global, visando a conscientização e a preservação do patrimônio ambiental."
+                        }
+                      ]
+                    },
+                    {
+                      "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE IDENTIDADE E PROTAGONISMO JUVENIL",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "ESP54",
+                          "descricao": "Criar, pelo uso do LinkedIn, Infográficos, Currículo Digital, Blog Profissional, registros digitais profissionais em diferentes linguagens, no propósito de validar os projetos de vida alicerçados nas trajetórias de cada indivíduo."
+                        },
+                        {
+                          "codigo": "ESP55",
+                          "descricao": "Posicionar-se a partir de debates e discussões sobre temas de interesse da juventude, apropriando-se de bases legais, como o Estatuto da Juventude e as políticas públicas vigentes, para tornarem-se protagonistas de ações que contemplem a condição juvenil."
+                        },
+                        {
+                          "codigo": "ESP56",
+                          "descricao": "Avaliar os valores culturais e humanos no patrimônio artístico, arquitetônico e literário, valorizando as peculiaridades estruturais e estilísticas de diferentes gêneros artísticos e literários, a fim de fortalecer a elaboração da subjetividade e das inter-relações pessoais."
+                        },
+                        {
+                          "codigo": "ESP57",
+                          "descricao": "Planejar, de forma colaborativa, a produção de projetos culturais e de entretenimento para a divulgação, produção de comentários e avaliação de produções culturais e artísticas de interesse juvenil."
+                        },
+                        {
+                          "codigo": "ESP58",
+                          "descricao": "Desenvolver as etapas de produção da pesquisa científica a partir dos gêneros textuais envolvidos na sua realização e divulgação, reconhecendo as múltiplas formas como esse conhecimento é produzido e difundido nas sociedades contemporâneas."
+                        },
+                        {
+                          "codigo": "ESP59",
+                          "descricao": "Selecionar procedimentos de checagem de fatos noticiados e demais informações veiculadas nos sistemas de comunicação e informação e que originam o fenômeno da pós- -verdade, detectando a veracidade e os interesses implícitos dessas informações."
+                        },
+                        {
+                          "codigo": "ESP60",
+                          "descricao": "Descobrir coletivos indígenas, negros, latino-americanos e outros grupos étnicos que fazem uso de diversas expressões artísticas, verbais e desportivas (hip hop, rock, danças urbanas) para discutir a expressão e manifestação de suas ideias, de forma mútua e intercultural, por meio das diferentes linguagens e suas tecnologias."
+                        },
+                        {
+                          "codigo": "ESP61",
+                          "descricao": "Distinguir as danças e expressões brasileiras das matrizes culturais dos povos indigenas (cateretê, caiapós, cururu, guajajara, jacundá, boi-bumbá), africanas e afro-brasileiras (capoeira, congada, jongo, maracatu, samba de roda), valorizando e praticando seus saberes e fazeres culturais de formação da identidade artística, linguística e esportiva nacional."
+                        },
+                        {
+                          "codigo": "ESP62",
+                          "descricao": "Identificar conceitos sobre o corpo e discursos linguísticos e identitários presentes na expressividade corporal (ações corporais - movimento, espaço, tempo, peso, fluência, conceito de corpo dual, totalidade, corporeidade) para experimentar seus procedimentos de improvisação e criação relacionados aos diferentes modos próprios e sensíveis de criar, recriar e expressar o movimento estético e corporal em contextos pedagógicos, artísticos e desportivos."
+                        },
+                        {
+                          "codigo": "ESP63",
+                          "descricao": "Utilizar processos criativos incorporados à corporeidade e suas expressões verbais e estéticas, de modo a desenvolver o repertório artístico e cultural; contribuindo para a autonomia e trajetória de vida por meio do autoconhecimento corpóreo em práticas artiísticas, desportivas e expressivas."
+                        },
+                        {
+                          "codigo": "ESP64",
+                          "descricao": "Apreciar espetáculos e manifestações artísticas, verbais e desportivas que envolvem as diferentes linguagens, no entorno escolar e além dele, para aprimorar a fruição, a crítica e a leitura de estéticas tradicionais e contemporâneas como parte do processo de formação do público/espectador."
+                        },
+                        {
+                          "codigo": "ESP65",
+                          "descricao": "Interpretar os conceitos de atividade física, aptidão física (principalmente os componentes da aptidão física relacionados à saúde), saúde e qualidade de vida (e seus fatores), bem como seus benefícios e comorbidades associadas para significá-las em seu projeto de vida de forma consciente, de modo a desenvolver um estilo de vida mais ativo, adotando práticas de cuidado com o corpo e com a saúde."
+                        },
+                        {
+                          "codigo": "ESP66",
+                          "descricao": "Compreender os conceitos de nutrição, suplementação, produtos anabolizantes, alimentação saudável e suas relações de consumo, sustentabilidade e discursos midiáticos para a construção de um posicionamento crítico e a adoção de hábitos saudáveis."
+                        },
+                        {
+                          "codigo": "ESP67",
+                          "descricao": "Conhecer o conceito de imagem corporal, sua forma de desenvolvimento e construção, compreender os padrões de beleza e a diversidade corporal e analisar, de forma crítica, os discursos midiáticos apresentados através das manifestações artísticas, linguísticas e desportivas e sua relação com os transtornos relacionados com a imagem corporal, de modo a ressignificar suas práticas corporais na promoção do autoconhecimento e do autocuidado com a saúde para subsidiar suas escolhas para seu projeto de vida."
+                        },
+                        {
+                          "codigo": "ESP68",
+                          "descricao": "Experimentar novos processos de autoconhecimento através de técnicas do Yoga. Identificar as práticas yogues, a cultura oriental e suas influências na cultura brasileira, bem como suas origens históricas e mitológicas para desenvolvimento de um caminho de autoconhecimento, autocontrole, compreensão e respeito a si mesmo e ao outro."
+                        },
+                        {
+                          "codigo": "ESP69",
+                          "descricao": "Empregar conhecimentos linguísticos, metodológicos e socioculturais, na Língua Espanhola, para a elaboração de pré-projetos e/ou projetos (de iniciação científica, por exemplo), cartas de intenção, relatos de experiências, a fim de ampliar as possibilidades de intercâmbios estudantis, de acesso a universidades estrangeiras, de estágios profissionais e da realização de quaisquer outros projetos de vida."
+                        },
+                        {
+                          "codigo": "ESP70",
+                          "descricao": "Desenvolver a performance argumentativa, por meio da interação com diferentes contextos de uso da Língua Espanhola (debates, seminários, fóruns, plenárias, simulações da ONU a exemplo da SiINUS), com o objetivo de conhecer, conviver, trabalhar e serem um meio mais tolerante, inclusivo, colaborativo e pacífico."
+                        },
+                        {
+                          "codigo": "ESP71",
+                          "descricao": "Construir textos multimidiáticos (blogs, jornais, canais online, revistas digitais) que divulguem conteúdos de interesse dos estudantes e experiências exitosas nas comunidades escolar e local, para promover interação entre elas e ampliar a competência comunicacional na Língua Espanhola."
+                        }
+                      ]
+                    },
+                    {
+                      "Unidade_Tematica": "LÍNGUA ESPANHOLA EM CONTEXTOS DE CULTURA DIGITAL",
+                      "Objetivos_de_Aprendizagem": [
+                        {
+                          "codigo": "ESP72",
+                          "descricao": "Analisar as tecnologias da comunicação e da informação na vida pessoal e social dos jovens, associando-as ao desenvolvimento de conhecimentos científicos, às linguagens que lhes dão suporte, aos processos de produção e aos problemas que se propõem solucionar, no intuito de adequar as produções aos contextos sociais em que estejam inseridos, formando cidadãos munidos de reflexão social."
+                        },
+                        {
+                          "codigo": "ESP73",
+                          "descricao": "Planejar o uso das diversas plataformas de ferramentas digitais, a partir de uma participação fundamentada e ética, quanto à criação cultural para o engajamento social, propiciando uma visão crítica do indivíduo."
+                        },
+                        {
+                          "codigo": "ESP74",
+                          "descricao": "Apreciar formas contemporâneas de publicidade em contexto digital, bem como peças de campanhas publicitárias e políticas, debatendo os valores e as representações de situações, grupos e configurações sociais veiculadas, desconstruindo estereótipos, destacando estratégias de engajamento e viralização e explicando os mecanismos de persuasão utilizados e os efeitos de sentido provocados pelas escolhas feitas em termos de elementos e recursos de diferentes linguagens."
+                        },
+                        {
+                          "codigo": "ESP75",
+                          "descricao": "Operar, de forma compartilhada, práticas culturais e sociais de diferentes temáticas apoiadas em meios digitais atualmente existentes, com a finalidade de valorizar a participação cultural coletiva, fomentando a prática da inserção do indivíduo no ato de criação crítico-social."
+                        },
+                        {
+                          "codigo": "ESP76",
+                          "descricao": "Analisar os diferentes gêneros audiovisuais e cinematográficos e suas relações com as linguagens artísticas, verbais e esportivas (documentário, videoarte, videoclipe, animação), a fim de produzir conhecimentos da Área de Linguagens com os recursos e as estéticas digitais, considerando as produções do contexto escolar e do entorno."
+                        },
+                        {
+                          "codigo": "ESP77",
+                          "descricao": "Examinar a relação das diversas produções artísticas, verbais e corporais da Área de Linguagens com o desenvolvimento digital e tecnológico para interpretar seus contextos sociais, políticos, históricos e contemporâneos (Semana de Arte Moderna de 1922, antropofagia, arte moderna e pós-moderna, artistas, poetas, performers, grupos teatrais e musicais brasileiros)."
+                        },
+                        {
+                          "codigo": "ESP78",
+                          "descricao": "Analisar, em plataformas digitais ou em outros recursos analógicos e afins, os Festivais de Música Popular Brasileira (1965-1985) e outras composições no período da Ditadura Militar, para criar conexões com outros gêneros e estilos artísticos, textuais e musicais de diferentes tempos e espaços da historiografia musical do Brasil com o mundo (tropicalismo, bossa nova, MPB, moda de viola e emboladas, samba, batalha de rima, lives)."
+                        },
+                        {
+                          "codigo": "ESP79",
+                          "descricao": "Avaliar o uso de aplicativos, protocolos e softwares utilizados para promoção de atividades físicas, propiciando uma visão crítica acerca dos objetivos e das metas idealizados."
+                        },
+                        {
+                          "codigo": "ESP80",
+                          "descricao": "Utilizar testes e avaliações físicas, principalmente os relacionados à saúde, para compreender os benefícios no organismo humano, nas capacidades psíquicas, fisiológicas, motoras e afetivas, para adoção de um estilo de vida que leve em consideração a promoção da atividade física."
+                        },
+                        {
+                          "codigo": "ESP81",
+                          "descricao": "Avaliar criticamente o processo histórico dos jogos eletrônicos, preconceitos, estereótipos e relações de poder, com a finalidade de desenvolver diferentes modos de participação e intervenção social."
+                        },
+                        {
+                          "codigo": "ESP82",
+                          "descricao": "Explorar as tecnologias digitais dirigidas à atividade física, conhecidas como Exergames, ou interface de esforço, compreendendo sua abrangência, seus princípios, suas funcionalidades e seus objetivos, e utilizá-las de forma crítica, ética, criativa e adequada à construção do seu conhecimento sobre o tema."
+                        },
+                        {
+                          "codigo": "ESP83",
+                          "descricao": "Analisar diferentes gêneros digitais (tradutores online, dicionários virtuais, mensagens instantâneas), com o objetivo de acessar a informação e ampliar a capacidade de comunicação, na Língua Espanhola, por meio de ambientes virtuais."
+                        },
+                        {
+                          "codigo": "ESP84",
+                          "descricao": "Explorar diferentes plataformas digitais que propiciem o acesso ao acervo artístico-literário internacional, a fim de ampliar repertório e conhecer expoentes mundiais nos cenários culturais da Língua Espanhola (música, teatro, literatura, arte)."
+                        },
+                        {
+                          "codigo": "ESP85",
+                          "descricao": "Desenvolver recursos digitais (aplicativos, sistemas, gráficos para mapeamentos de dados), utilizando a Língua Espanhola, de modo a contribuir, de forma criativa e significativa, com o aprimoramento de questões relacionadas ao bem-estar da comunidade na qual o estudante está inserido."
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
-                  "Eletivas_Orientadas": {
-                    "definicao": "As Eletivas Orientadas são unidades curriculares de duração semestral, com carga horária definida conforme a intencionalidade pedagógica, nas quais os estudantes serão matriculados de acordo com suas escolhas, porém de maneira orientada.",
-                    "oferta": "Essas Unidades Curriculares serão disponibilizadas aos estudantes ao longo de todo o Ensino Médio, a partir de um catálogo construído pelas Instituições Educacionais e aprovado pela sua mantenedora.",
-                    "planejamento": "As Eletivas Orientadas devem ser planejadas em função de um ou mais Eixos Estruturantes, estando organizadas de acordo com a temática a ser abordada e em consonância com as DCNEM, com os referenciais para elaboração dos itinerários formativos e com o Currículo em Movimento da Educação Básica do Distrito Federal.",
-                    "finalidade": "Devem possibilitar tanto o aprofundamento quanto o acompanhamento das aprendizagens que ainda não foram adequadamente alcançadas pelo estudante.",
-                    "formatos_e_tematicas": "O estudante indicará as Eletivas Orientadas que pretende cursar, as quais poderão ser ofertadas no formato de projetos, oficinas, clubes, monitorias, núcleo de estudos, incubadoras, estágios, entre outras."
-                  }
+                  "componente": "Eletivas_Orientadas",
+                  "definicao": "As Eletivas Orientadas são unidades curriculares de duração semestral, com carga horária definida conforme a intencionalidade pedagógica, nas quais os estudantes serão matriculados de acordo com suas escolhas, porém de maneira orientada.",
+                  "oferta": "Essas Unidades Curriculares serão disponibilizadas aos estudantes ao longo de todo o Ensino Médio, a partir de um catálogo construído pelas Instituições Educacionais e aprovado pela sua mantenedora.",
+                  "planejamento": "As Eletivas Orientadas devem ser planejadas em função de um ou mais Eixos Estruturantes, estando organizadas de acordo com a temática a ser abordada e em consonância com as DCNEM, com os referenciais para elaboração dos itinerários formativos e com o Currículo em Movimento da Educação Básica do Distrito Federal.",
+                  "finalidade": "Devem possibilitar tanto o aprofundamento quanto o acompanhamento das aprendizagens que ainda não foram adequadamente alcançadas pelo estudante.",
+                  "formatos_e_tematicas": "O estudante indicará as Eletivas Orientadas que pretende cursar, as quais poderão ser ofertadas no formato de projetos, oficinas, clubes, monitorias, núcleo de estudos, incubadoras, estágios, entre outras."
                 },
                 {
-                  "Trilhas_de_Aprendizagens": {
-                    "definicao": "As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, cursadas a partir do terceiro.",
-                    "finalidade": "Possibilita o aprofundamento progressivo das aprendizagens em uma área do conhecimento.",
-                    "organizacao": "Cada unidade deve ser focada em um eixo estruturante, de modo que, ao final do Ensino Médio, o estudante tenha percorrido os quatro eixos.",
-                    "escolha_do_estudante": "As trilhas são de livre escolha do estudante, mas ele deverá se matricular em ao menos uma delas, no 3º semestre.",
-                    "sequencia_dos_eixos": "Investigação Científica (3º semestre), Processos Criativos (4º semestre), Mediação e Intervenção Sociocultural (5º semestre) e Empreendedorismo (6º semestre).",
-                    "certificacao": "Para efeito de conclusão e certificação do Ensino Médio, o estudante deverá ter cursado e concluído, necessariamente, uma trilha de aprendizagem."
-                  }
+                  "componente": "Trilhas_de_Aprendizagens",
+                  "definicao": "As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, cursadas a partir do terceiro.",
+                  "finalidade": "Possibilita o aprofundamento progressivo das aprendizagens em uma área do conhecimento.",
+                  "organizacao": "Cada unidade deve ser focada em um eixo estruturante, de modo que, ao final do Ensino Médio, o estudante tenha percorrido os quatro eixos.",
+                  "escolha_do_estudante": "As trilhas são de livre escolha do estudante, mas ele deverá se matricular em ao menos uma delas, no 3º semestre.",
+                  "sequencia_dos_eixos": "Investigação Científica (3º semestre), Processos Criativos (4º semestre), Mediação e Intervenção Sociocultural (5º semestre) e Empreendedorismo (6º semestre).",
+                  "certificacao": "Para efeito de conclusão e certificação do Ensino Médio, o estudante deverá ter cursado e concluído, necessariamente, uma trilha de aprendizagem."
                 }
               ],
               "Objetivos_Gerais_dos_Itinerarios_Formativos": [
