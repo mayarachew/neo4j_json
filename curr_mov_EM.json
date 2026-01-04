@@ -1,5 +1,12 @@
 {
   "Curriculo_em_Movimento_do_Novo_Ensino_Medio": {
+    "metadados": {
+      "titulo": "Currículo em Movimento do Novo Ensino Médio",
+      "edicao": "1ª edição",
+      "ano_publicacao": 2018,
+      "abrangencia": ["Ensino Médio"],
+      "referencia_oficial": "Secretaria de Estado de Educação do Distrito Federal"
+    },
     "Orientacoes_gerais_do_documento": {
       "Apresentacao": "A partir da homologação, em dezembro de 2018, da Base Nacional Comum Curricular (BNCC) (BRASIL, 20184), teve início o processo de revisitação do Currículo em Movimento do Ensino Médio do Distrito Federal (DISTRITO FEDERAL, 2014a,b). Em outubro de 2019, foi apresentada à consulta pública a primeira versão do documento revisitado. Deste amplo processo de participação popular, foi gerada a segunda versão do documento, finalizada ainda em 2019 e implementada em cinco Unidades Escolares-Piloto do Novo Ensino Médio. Desde então, duas outras versões foram elaboradas: a terceira versão, realizada a partir da compilação das contribuições oriundas do processo de leitura crítica, realizado no primeiro semestre de 2020, e que contou com a participação de setores diversos da sociedade, tais como a Universidade de Brasília (UnB), Instituto Federal de Brasília (IFB), entidades representativas de classes, entre outros. E esta quarta versão, em caráter definitivo, editada a partir do segundo processo de consulta pública realizado entre agosto e novembro também de 2020.",
       "Organizacao_do_documento": "Resultado deste trabalho, construído de forma colaborativa, este documento curricular, será o Referencial Curricular para o Ensino Médio do Sistema de Ensino do Distrito Federal e currículo obrigatório para a Rede Pública, e está organizado em seis capítulos principais."
@@ -20,6 +27,7 @@
       ]
     },
     "Eixos_transversais": [
+      "Eixos Transversais no Currículo em Movimento",
       "Educação para a Diversidade",
       "Cidadania e Educação em e para os Direitos Humanos",
       "Educação para a Sustentabilidade",
