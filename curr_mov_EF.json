@@ -4,7 +4,7 @@
       "titulo": "Currículo em Movimento do Distrito Federal – Ensino Fundamental",
       "edicao": "2ª edição",
       "ano_publicacao": 2018,
-      "abrangencia": "Ensino Fundamental – Anos Iniciais e Anos Finais",
+      "abrangencia": ["Ensino Fundamental"],
       "referencia_oficial": "Secretaria de Estado de Educação do Distrito Federal"
     },
     "eixos_transversais": [
