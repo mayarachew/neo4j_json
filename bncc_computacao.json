@@ -1,0 +1,1666 @@
+{
+    "BNCC_Computacao": {
+        "metadados": {
+            "titulo": "Computação Complemento à BNCC",
+            "edicao": "1ª edição",
+            "ano_publicacao": 2022,
+            "abrangencia": [
+                "Ensino Infantil",
+                "Ensino Fundamental",
+                "Ensino Médio"
+            ],
+            "referencia_oficial": "Ministério da Educação"
+        },
+        "area_componente": true,
+        "ensino_fundamental": {
+            "competencias": [
+                "Compreender a Computação como uma área de conhecimento que contribui para explicar o mundo atual e ser um agente ativo e consciente de transformação capaz de analisar criticamente seus impactos sociais, ambientais, culturais, econômicos, científicos, tecnológicos, legais e éticos.",
+                "Reconhecer o impacto dos artefatos computacionais e os respectivos desafios para os indivíduos na sociedade, discutindo questões socioambientais, culturais, científicas, políticas e econômicas.",
+                "Expressar e partilhar informações, ideias, sentimentos e soluções computacionais utilizando diferentes linguagens e tecnologias da Computação de forma criativa, crítica, significativa, reflexiva e ética.",
+                "Aplicar os princípios e técnicas da Computação e suas tecnologias para identificar problemas e criar soluções computacionais, preferencialmente de forma cooperativa, bem como alicerçar descobertas em diversas áreas do conhecimento seguindo uma abordagem científica e inovadora, considerando os impactos sob diferentes contextos.",
+                "Avaliar as soluções e os processos envolvidos na resolução computacional de problemas de diversas áreas do conhecimento, sendo capaz de construir argumentações coerentes e consistentes, utilizando conhecimentos da Computação para argumentar em diferentes contextos com base em fatos e informações confiáveis com respeito à diversidade de opiniões, saberes, identidades e culturas.",
+                "Desenvolver projetos, baseados em problemas, desafios e oportunidades que façam sentido ao contexto ou interesse do estudante, de maneira individual e/ou cooperativa, fazendo uso da Computação e suas tecnologias, utilizando conceitos, técnicas e ferramentas computacionais que possibilitem automatizar processos em diversas áreas do conhecimento com base em princípios éticos, democráticos, sustentáveis e solidários, valorizando a diversidade de indivíduos e de grupos sociais, de maneira inclusiva.",
+                "Agir pessoal e coletivamente com respeito, autonomia, responsabilidade, flexibilidade, resiliência e determinação, identificando e reconhecendo seus direitos e deveres, recorrendo aos conhecimentos da Computação e suas tecnologias para tomar decisões frente às questões de diferentes naturezas."
+            ],
+            "divisao": {
+                "1_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Organização de objetos",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF01CO01",
+                                            "enunciado": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+                                            "explicacao_da_habilidade": "Objetos de um mesmo conjunto podem ser organizados e agrupados de diferentes maneiras, enfatizando as características desejadas. A organização adequada pode facilitar a busca por um objeto específico dentro deste conjunto.",
+                                            "exemplos": [
+                                                "O professor pode pedir que os alunos organizem um conjunto de personagens por gênero, cor dos olhos, idade, tamanho, nacionalidade etc.",
+                                                "Também pode sugerir que os alunos organizem um conjunto de figuras geométricas por cor, por tipo de figura, por tamanho das figuras etc."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Conceituação de Algoritmos",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF01CO02",
+                                            "enunciado": "Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.",
+                                            "explicacao_da_habilidade": "O objetivo é que os alunos possam identificar passos que fazem parte da execução de uma tarefa, bem como seguir uma sequência de passos para realizar uma tarefa (resolver um problema).",
+                                            "exemplos": [
+                                                "O professor pode fornecer sequências de passos para resolver problemas como construir origamis simples, seguir caminhos, executar uma receita, construir figuras com Tangram, entre outros, e solicitar que os alunos as executem."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF01CO03",
+                                            "enunciado": "Reorganizar e criar sequências de passos em meios físicos ou digitais, relacionando essas sequências à palavra “Algoritmos”.",
+                                            "explicacao_da_habilidade": "Ao explicar para alguém como realizar uma tarefa (resolver um problema), se está criando um algoritmo. Esses algoritmos podem ser construídos a partir de um conjunto de passos desordenados ou partindo do zero, podendo-se usar linguagem textual, oral ou pictográfica.",
+                                            "exemplos": [
+                                                "O professor pode fornecer imagens que descrevem os passos para construir um objeto usando peças do tipo 'Lego' e solicitar que os alunos as organizem em uma sequência.",
+                                                "O professor pode solicitar que os alunos expliquem, oralmente ou através de sequências de desenhos, como se joga esconde-esconde ou outro jogo."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Codificação da informação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF01CO04",
+                                            "enunciado": "Reconhecer o que é a informação, que ela pode ser armazenada, transmitida como mensagem por diversos meios e descrita em várias linguagens.",
+                                            "explicacao_da_habilidade": "O objetivo é fazer com que o aluno compreenda o conceito de informação, que uma mesma informação pode ser descrita de diversas formas e que tal descrição pode ser armazenada e transmitida.",
+                                            "exemplos": [
+                                                "Transmitir uma palavra por “telefone sem fio”, enviar um desenho para um colega, gravar uma mensagem de áudio e reproduzi-la para um colega."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF01CO05",
+                                            "enunciado": "Representar informação usando diferentes codificações.",
+                                            "explicacao_da_habilidade": "Compreender o conceito de representação é um passo importante para a compreensão de como computadores representam as informações. Um algoritmo opera dados representados de maneira simbólica.",
+                                            "exemplos": [
+                                                "Mostrar que ao pintar as áreas de uma imagem com cores pré-definidas (codificação) uma imagem é recuperada (informação).",
+                                                "Mostrar a relação de uma música com suas notas musicais."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Uso de artefatos computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF01CO06",
+                                            "enunciado": "Reconhecer e explorar artefatos computacionais voltados a atender necessidades pessoais ou coletivas.",
+                                            "explicacao_da_habilidade": "Esta habilidade tem como proposta a identificação e exploração de tecnologias físicas ou digitais, como computador, tablets, brinquedos eletrônicos e ferramentas do cotidiano.",
+                                            "exemplos": [
+                                                "O professor poderá utilizar um jogo educacional em ferramentas como computador, tablet, mesas interativas ou celular."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Segurança e responsabilidade no uso de tecnologia computacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF01CO07",
+                                            "enunciado": "Conhecer as possibilidades de uso seguro das tecnologias computacionais para proteção dos dados pessoais e para garantir a própria segurança.",
+                                            "explicacao_da_habilidade": "Esta habilidade propõe que o aluno reflita sobre a importância de resguardar dados pessoais quando da utilização de tecnologias como celular e tablets.",
+                                            "exemplos": [
+                                                "Professor poderá fazer um jogo de imagens de dispositivos como celular, tablet e computador, destacando os cuidados quando usamos esses dispositivos."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "2_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Modelagem de objetos",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF02CO01",
+                                            "enunciado": "Criar e comparar modelos (representações) de objetos, identificando padrões e atributos essenciais.",
+                                            "explicacao_da_habilidade": "Um modelo é construído ao se identificar características essenciais de objetos. Modelos são importantes para classificar objetos e a escolha das características define os agrupamentos.",
+                                            "exemplos": [
+                                                "O professor pode distribuir um conjunto de imagens de veículos como motos, bicicletas, automóveis, trens, aviões, caminhões, helicópteros, jet-skis, barcos a vela, lanchas etc., e solicitar que os alunos agrupem as imagens dos veículos que voam ou que possuem rodas, ou ainda os que possuem motor, entre outras características."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Algoritmos com repetições simples",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF02CO02",
+                                            "enunciado": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.",
+                                            "explicacao_da_habilidade": "Usar linguagem oral, textual ou pictográfica para descrever algoritmos, percebendo a importância de descrevê-los com precisão para que possam ser executados por outras pessoas (ou máquinas). Os algoritmos devem ser descritos através de sequências de instruções que podem ser repetidas um determinado número de vezes.",
+                                            "exemplos": [
+                                                "Os alunos podem construir algoritmos com conjuntos de instruções pré-definidas, como ações para avançar, virar à direita e virar à esquerda.",
+                                                "Para descrever a tarefa de andar 10 passos, virar à esquerda e andar mais 5 passos, pode-se definir o algoritmo: \"Ande um passo 10 vezes; vire à esquerda; e ande um passo 5 vezes\"."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Instrução de máquina",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF02CO03",
+                                            "enunciado": "Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.",
+                                            "explicacao_da_habilidade": "Para compreender o funcionamento dos computadores, é importante entender que uma máquina disponibiliza um conjunto de instruções que, se realizadas em uma dada sequência, produzem algum resultado.",
+                                            "exemplos": [
+                                                "O aluno pode identificar que conjuntos de instruções bem definidos, como operações aritméticas simples de uma calculadora ou operações de dobradura, podem ser usados em sequências para produzir resultados."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Hardware e software",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF02CO04",
+                                            "enunciado": "Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.",
+                                            "explicacao_da_habilidade": "O objetivo da habilidade é mostrar aos alunos que dispositivos físicos do cotidiano são controlados por algo que segue uma sequência de passos lógicos.",
+                                            "exemplos": [
+                                                "Pode-se utilizar dispositivos do cotidiano do aluno para diferenciar o dispositivo físico (hardware) daquilo que o controla (software)."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Uso de artefatos computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF02CO05",
+                                            "enunciado": "Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e fora da escola.",
+                                            "explicacao_da_habilidade": "A proposta é que o aluno verifique as diferentes características das tecnologias de informação e comunicação, identificando como funcionam e reconhecendo seus usos no dia a dia.",
+                                            "exemplos": [
+                                                "O professor pode apresentar imagens de diferentes tecnologias como celular, tablet e computador, destacando características e diferentes usos no cotidiano."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Segurança e responsabilidade no uso de tecnologia computacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF02CO06",
+                                            "enunciado": "Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.",
+                                            "explicacao_da_habilidade": "A habilidade traz um panorama sobre os cuidados com a segurança ao usar dispositivos como celular, tablets e computadores.",
+                                            "exemplos": [
+                                                "O professor poderá criar um portfólio com alguns cuidados ao jogar ou utilizar dispositivos como celular e tablet."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "3_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Lógica computacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO01",
+                                            "enunciado": "Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação.",
+                                            "explicacao_da_habilidade": "As sentenças lógicas são sentenças declarativas que representam a constatação de um fato pelo emissor, podendo ser afirmativas ou negativas. Quando se faz uma declaração, ela pode ser “verdadeira” ou \"falsa\". Esses termos definem os possíveis valores (verdade) para as sentenças lógicas. O valor de uma sentença lógica pode ser modificado usando a operação de negação.",
+                                            "exemplos": [
+                                                "Cinco é maior que seis. (Falso)",
+                                                "Cinco NÃO é maior que seis. (Verdadeiro)",
+                                                "A raiz é uma das partes de uma planta. (Verdadeiro)",
+                                                "A raiz NÃO é uma das partes de uma planta. (Falso)"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Algoritmos com repetições condicionais simples",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO02",
+                                            "enunciado": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+                                            "explicacao_da_habilidade": "Os algoritmos devem ser descritos através de sequências de instruções que podem ser repetidas um número de vezes que não é conhecido de antemão. A repetição é controlada por uma condição (sentença lógica).",
+                                            "exemplos": [
+                                                "Enquanto a próxima posição estiver vazia, ande um passo."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Decomposição",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO03",
+                                            "enunciado": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+                                            "explicacao_da_habilidade": "Decomposição é uma técnica de resolução de problemas na qual um problema é dividido em subproblemas resolvidos independentemente, cujas soluções são combinadas para construir a solução final.",
+                                            "exemplos": [
+                                                "Dividir a tarefa de preparar o café da manhã em subproblemas como preparar o café e fazer um sanduíche."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Codificação da informação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO04",
+                                            "enunciado": "Relacionar o conceito de informação com o de dado.",
+                                            "explicacao_da_habilidade": "Para que um computador possa armazenar, transmitir ou manipular uma informação é preciso processá-la e representá-la como um conjunto de dados.",
+                                            "exemplos": [
+                                                "Os dados de dia, mês e ano, em conjunto, definem uma data específica.",
+                                                "As cores de cada pixel, juntas, definem uma imagem."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF03CO05",
+                                            "enunciado": "Compreender que dados são estruturados em formatos específicos dependendo da informação armazenada.",
+                                            "explicacao_da_habilidade": "Cada tipo de informação possui uma estratégia de representação, podendo exigir a combinação de diferentes tipos de dados.",
+                                            "exemplos": [
+                                                "Uma imagem representada por uma sequência de números que definem a cor de cada pixel."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Interface física",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO06",
+                                            "enunciado": "Reconhecer que, para um computador realizar tarefas, ele se comunica com o mundo exterior com o uso de interfaces físicas (dispositivos de entrada e saída).",
+                                            "explicacao_da_habilidade": "O computador se comunica com o mundo exterior por meio de dispositivos de entrada e de saída.",
+                                            "exemplos": [
+                                                "Teclado, mouse, microfone como dispositivos de entrada.",
+                                                "Monitor, alto-falante e impressora como dispositivos de saída."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Uso de tecnologias computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO07",
+                                            "enunciado": "Utilizar diferentes navegadores e ferramentas de busca para pesquisar e acessar informações.",
+                                            "explicacao_da_habilidade": "Explorar navegadores e buscadores, compreendendo aspectos como associação de palavras, abas e filtros de busca.",
+                                            "exemplos": [
+                                                "Realizar pesquisas simples variando palavras-chave e filtros."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF03CO08",
+                                            "enunciado": "Usar ferramentas computacionais em situações didáticas para se expressar em diferentes formatos digitais.",
+                                            "explicacao_da_habilidade": "Explorar ferramentas computacionais como jogos educacionais, programas de animação e ferramentas de desenho para expressão de ideias.",
+                                            "exemplos": [
+                                                "Criar um desenho digital que represente um evento importante."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF03CO09",
+                                            "enunciado": "Reconhecer o potencial impacto do compartilhamento de informações pessoais ou de seus pares em meio digital.",
+                                            "explicacao_da_habilidade": "Identificar impactos do compartilhamento de dados pessoais em ambientes digitais e os riscos associados.",
+                                            "exemplos": [
+                                                "Analisar casos de uso indevido de dados pessoais compartilhados na internet."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "4_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Matrizes e registros",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF04CO01",
+                                            "enunciado": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de matrizes que estabelecem uma organização na qual cada componente está em uma posição definida por coordenadas, fazendo manipulações simples sobre estas representações.",
+                                            "explicacao_da_habilidade": "Matrizes são estruturas de dados organizadas em linhas e colunas, nas quais cada dado é acessado por coordenadas. A habilidade propõe identificar objetos do mundo real que possam ser caracterizados como matrizes e realizar manipulações simples sobre essas representações.",
+                                            "exemplos": [
+                                                "Construir um tabuleiro de batalha naval usando uma matriz e jogar informando coordenadas.",
+                                                "Representar fachadas de prédios por matrizes, registrando características das janelas."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF04CO02",
+                                            "enunciado": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de registros que estabelecem uma organização na qual cada componente é identificado por um nome, fazendo manipulações sobre estas representações.",
+                                            "explicacao_da_habilidade": "Registros são estruturas de dados que agrupam informações de diferentes tipos, acessadas por identificadores. A habilidade envolve reconhecer objetos estruturados como registros e realizar manipulações simples sobre eles.",
+                                            "exemplos": [
+                                                "Analisar documentos de identidade fictícios para identificar informações como nome e data de nascimento.",
+                                                "Criar formulários para coletar informações anônimas sobre colegas e analisar os dados."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Algoritmos com repetições simples e aninhadas",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF04CO03",
+                                            "enunciado": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples e aninhadas (iterações definidas e indefinidas), para resolver problemas de forma independente e em colaboração.",
+                                            "explicacao_da_habilidade": "Os algoritmos podem conter repetições simples ou aninhadas, em que um ciclo de repetição pode conter outro. A habilidade envolve descrever e simular esses algoritmos para resolver problemas.",
+                                            "exemplos": [
+                                                "Descrever o algoritmo de lavar as janelas de um prédio com vários andares, repetindo a tarefa para cada andar e para cada janela."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Codificação da informação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF04CO04",
+                                            "enunciado": "Entender que para guardar, manipular e transmitir dados deve-se codificá-los de alguma forma que seja compreendida pela máquina.",
+                                            "explicacao_da_habilidade": "A codificação em formato digital é necessária para que computadores possam processar dados, utilizando sistemas como o binário.",
+                                            "exemplos": [
+                                                "Utilizar a tabela ASCII para representar caracteres em formato digital."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF04CO05",
+                                            "enunciado": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+                                            "explicacao_da_habilidade": "Existem diferentes estratégias de representação digital para diferentes tipos de informação, como textos e imagens.",
+                                            "exemplos": [
+                                                "Representar imagens usando matrizes de valores binários ou tons de cinza."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Uso de tecnologias computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF04CO06",
+                                            "enunciado": "Usar diferentes ferramentas computacionais para criação de conteúdo (textos, apresentações, vídeos etc.).",
+                                            "explicacao_da_habilidade": "Explorar ferramentas computacionais para produzir conteúdos digitais em projetos e atividades diversas.",
+                                            "exemplos": [
+                                                "Criar uma história digital ou um vídeo curto utilizando editores de texto ou vídeo."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF04CO07",
+                                            "enunciado": "Demonstrar postura ética nas atividades de coleta, transferência, guarda e uso de dados.",
+                                            "explicacao_da_habilidade": "Refletir sobre aspectos éticos relacionados à manipulação de dados, como compartilhamento e autoria.",
+                                            "exemplos": [
+                                                "Construir um painel destacando cuidados éticos no uso de imagens, músicas e informações."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF04CO08",
+                                            "enunciado": "Reconhecer a importância de verificar a confiabilidade das fontes de informações obtidas na Internet.",
+                                            "explicacao_da_habilidade": "Identificar se as fontes de informação são seguras e confiáveis ao pesquisar na internet.",
+                                            "exemplos": [
+                                                "Comparar páginas diferentes sobre o mesmo tema e analisar divergências de informações."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "5_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Listas e grafos",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05SCO01",
+                                            "enunciado": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+                                            "explicacao_da_habilidade": "Listas são estruturas de dados que agrupam itens organizados em sequência lógica e não possuem tamanho pré-definido, permitindo resolver problemas com conjuntos de diferentes tamanhos.",
+                                            "exemplos": [
+                                                "Filas de pessoas, pilhas de cartas, lista de itens, pilha de pratos, lista de alunos de uma turma, lista de notas musicais."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF05SCO02",
+                                            "enunciado": "Reconhecer objetos do mundo real e digital que podem ser representados através de grafos que estabelecem uma organização com uma quantidade variável de vértices conectados por arestas, fazendo manipulações simples sobre estas representações.",
+                                            "explicacao_da_habilidade": "Grafos representam relações entre objetos por meio de vértices e arestas, permitindo resolver problemas com diferentes tamanhos de entrada.",
+                                            "exemplos": [
+                                                "Mapas, redes sociais, internet, redes de computadores, árvores genealógicas, chaveamento de times em um campeonato."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Lógica computacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05SCO03",
+                                            "enunciado": "Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+                                            "explicacao_da_habilidade": "As operações lógicas permitem modificar ou combinar valores de sentenças lógicas, como inverter valores ou avaliar múltiplas condições simultaneamente.",
+                                            "exemplos": [
+                                                "Cinco é maior que seis. (Falso)",
+                                                "Cinco NÃO é maior que seis. (Verdadeiro)",
+                                                "Cinco é maior que seis E maior que dois. (Falso)",
+                                                "Cinco é maior que seis OU maior que dois. (Verdadeiro)"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Algoritmos com seleção condicional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05CO04",
+                                            "enunciado": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências, repetições e seleções condicionais para resolver problemas de forma independente e em colaboração.",
+                                            "explicacao_da_habilidade": "Algoritmos podem exigir escolhas baseadas em condições, nas quais diferentes ações são executadas dependendo da situação analisada.",
+                                            "exemplos": [
+                                                "Descrever o algoritmo para atravessar uma rua considerando a cor do semáforo."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Arquitetura de computadores",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05CO05",
+                                            "enunciado": "Identificar os componentes principais de um computador (dispositivos de entrada/saída, processadores e armazenamento).",
+                                            "explicacao_da_habilidade": "A arquitetura de um computador envolve componentes responsáveis pelo processamento, entrada, saída e armazenamento de dados.",
+                                            "exemplos": [
+                                                "Identificar processador, memória, teclado, mouse, monitor e disco rígido em um computador."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Armazenamento de dados",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05CO06",
+                                            "enunciado": "Reconhecer que os dados podem ser armazenados em um dispositivo local ou remoto.",
+                                            "explicacao_da_habilidade": "Dados podem ser armazenados em dispositivos físicos acoplados ao computador ou em dispositivos remotos, como serviços na internet.",
+                                            "exemplos": [
+                                                "Comparar armazenamento em disco rígido, pen drive e armazenamento em nuvem."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Sistema operacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05CO07",
+                                            "enunciado": "Reconhecer a necessidade de um sistema operacional para a execução de programas e gerenciamento do hardware.",
+                                            "explicacao_da_habilidade": "O sistema operacional é o software responsável por gerenciar os recursos do computador e permitir a execução de programas.",
+                                            "exemplos": [
+                                                "Citar funções como gerenciamento de memória, arquivos e dispositivos de entrada e saída."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05CO08",
+                                            "enunciado": "Acessar as informações na Internet de forma crítica para distinguir os conteúdos confiáveis de não confiáveis.",
+                                            "explicacao_da_habilidade": "A habilidade propõe a análise crítica de informações disponíveis na internet, identificando fontes confiáveis e notícias falsas.",
+                                            "exemplos": [
+                                                "Comparar sites de jornais oficiais com blogs ou páginas não institucionais."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF05CO09",
+                                            "enunciado": "Usar informações considerando aplicações e limites dos direitos autorais em diferentes mídias digitais.",
+                                            "explicacao_da_habilidade": "Reconhecer direitos autorais e limites de uso de conteúdos digitais, respeitando autoria e propriedade intelectual.",
+                                            "exemplos": [
+                                                "Criar um portfólio digital citando corretamente as fontes utilizadas."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Uso de tecnologias computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF05CO10",
+                                            "enunciado": "Expressar-se crítica e criativamente na compreensão das mudanças tecnológicas no mundo do trabalho e sobre a evolução da sociedade.",
+                                            "explicacao_da_habilidade": "Refletir sobre os impactos das tecnologias digitais no cotidiano e no mundo do trabalho.",
+                                            "exemplos": [
+                                                "Criar uma animação ou desenho sobre um impacto da tecnologia na sociedade."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF05CO11",
+                                            "enunciado": "Identificar a adequação de diferentes tecnologias computacionais na resolução de problemas.",
+                                            "explicacao_da_habilidade": "Selecionar tecnologias apropriadas para resolver problemas distintos, considerando critérios como finalidade e contexto.",
+                                            "exemplos": [
+                                                "Escolher entre computador ou celular para resolver diferentes situações-problema."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "1_ao_5_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Organização e representação da informação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO01",
+                                            "enunciado": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+                                            "explicacao_da_habilidade": "Objetos de um mesmo conjunto podem ser organizados e agrupados de diferentes maneiras, enfatizando as características desejadas. A organização adequada pode facilitar a busca por um objeto específico dentro deste conjunto.",
+                                            "exemplos": [
+                                                "O professor pode pedir que os alunos organizem um conjunto de personagens por gênero, cor dos olhos, idade, tamanho, nacionalidade etc.",
+                                                "Também pode sugerir que os alunos organizem um conjunto de figuras geométricas por cor, por tipo de figura, por tamanho das figuras etc."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Algoritmos",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO02",
+                                            "enunciado": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+                                            "explicacao_da_habilidade": "O objetivo é que os alunos possam identificar passos que fazem parte da execução de uma tarefa, bem como seguir uma sequência de passos para realizar uma tarefa (resolver um problema).",
+                                            "exemplos": [
+                                                "Construir origamis simples.",
+                                                "Seguir caminhos, executar uma receita, construir figuras com Tangram."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Lógica computacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO03",
+                                            "enunciado": "Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores \"verdadeiro\" e \"falso\".",
+                                            "explicacao_da_habilidade": "As sentenças lógicas são sentenças declarativas que podem assumir valores verdadeiro ou falso. Esses valores podem ser modificados por operações lógicas como negação.",
+                                            "exemplos": [
+                                                "Cinco é maior que seis. (Falso)",
+                                                "Cinco NÃO é maior que seis. (Verdadeiro)"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Decomposição",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO04",
+                                            "enunciado": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+                                            "explicacao_da_habilidade": "Decomposição é uma técnica de resolução de problemas em que um problema é dividido em subproblemas resolvidos independentemente.",
+                                            "exemplos": [
+                                                "Dividir a tarefa de preparar o café da manhã em preparar o café e fazer um sanduíche."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Codificação da informação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO05",
+                                            "enunciado": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+                                            "explicacao_da_habilidade": "Para que um computador possa armazenar, transmitir ou manipular uma informação é preciso representá-la como um conjunto de dados.",
+                                            "exemplos": [
+                                                "Dados de dia, mês e ano que definem uma data.",
+                                                "Cores de pixels que definem uma imagem."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Funcionamento de dispositivos computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO06",
+                                            "enunciado": "Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.",
+                                            "explicacao_da_habilidade": "Dispositivos físicos do cotidiano são controlados por sequências de passos lógicos executadas por programas.",
+                                            "exemplos": [
+                                                "Celulares, computadores, calculadoras, máquinas de costura."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Sistema Operacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO07",
+                                            "enunciado": "Conhecer o conceito de Sistema Operacional e sua importância na integração entre software e hardware.",
+                                            "explicacao_da_habilidade": "O sistema operacional permite que programas utilizem os recursos físicos do dispositivo.",
+                                            "exemplos": [
+                                                "Relacionar aplicativos ao funcionamento do sistema operacional."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Uso de artefatos computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO08",
+                                            "enunciado": "Reconhecer e utilizar tecnologias computacionais para pesquisar e acessar informações, expressar-se crítica e criativamente e resolver problemas.",
+                                            "explicacao_da_habilidade": "Identificar diferentes tecnologias e seus usos no cotidiano dentro e fora da escola.",
+                                            "exemplos": [
+                                                "Uso de celular, tablet e computador para acessar informações e produzir conteúdo."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia computacional",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF15CO09",
+                                            "enunciado": "Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+                                            "explicacao_da_habilidade": "Refletir sobre cuidados com dados pessoais, propriedade intelectual e comportamento responsável no ambiente digital.",
+                                            "exemplos": [
+                                                "Comparar cuidados com segurança física e cuidados ao navegar na internet.",
+                                                "Criar desenhos ou portfólios destacando autoria e propriedade intelectual."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "6_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Programação / Tipos de dados / Linguagem de programação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF06CO01",
+                                            "enunciado": "Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um “tipo de dados”.",
+                                            "explicacao_da_habilidade": "As informações são armazenadas de diferentes maneiras, dependendo do tipo de dado que ela representa. Basicamente existem três tipos primitivos de dados: inteiros, real e string.",
+                                            "exemplos": [
+                                                "Encontrar um Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF06CO02",
+                                            "enunciado": "Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras.",
+                                            "exemplos": [
+                                                "Calcular a média de notas de uma turma em uma dada disciplina e informar se o resultado está acima da média do colégio."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF06CO03",
+                                            "enunciado": "Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",
+                                            "explicacao_da_habilidade": "É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação.",
+                                            "exemplos": [
+                                                "Se o ponteiro do mouse tocar no animal então o animal andará 10 passos, 10 vezes seguidas."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Estratégias de solução de problemas / Decomposição / Generalização",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF06CO04",
+                                            "enunciado": "Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original.",
+                                            "exemplos": [
+                                                "Decompor o problema de desenhar imagens em subproblemas de desenhar formas básicas."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF06GCO05",
+                                            "enunciado": "Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados, e estabelecendo a definição de problema como uma relação entre entrada e saída.",
+                                            "explicacao_da_habilidade": "Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução. A definição de um problema se dá identificando quais são os tipos de entradas necessárias e qual o tipo da saída.",
+                                            "exemplos": [
+                                                "Encontrar um Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF06CO06",
+                                            "enunciado": "Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles, e criar um algoritmo para resolver todos, fazendo uso de variáveis (parâmetros) para permitir o tratamento de todos os casos de forma genérica.",
+                                            "explicacao_da_habilidade": "Idealmente, um algoritmo é uma solução genérica: ele resolve várias instâncias de um problema. Para isso, é necessário dar nomes às entradas do algoritmo, chamados de variáveis ou parâmetros.",
+                                            "exemplos": [
+                                                "Criar um algoritmo para calcular a área de qualquer retângulo, variando base e altura."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Armazenamento e transmissão de dados / Fundamentos de transmissão de dados / Gestão de dados",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF06CO07",
+                                            "enunciado": "Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",
+                                            "explicacao_da_habilidade": "O processo de transmissão de dados envolve dividir a informação em pedaços, transmiti-los por diferentes equipamentos e reconstruí-los no destino.",
+                                            "exemplos": [
+                                                "Utilizar os alunos como equipamentos de transmissão, passando uma frase em pedaços de papel."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF06CO08",
+                                            "enunciado": "Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",
+                                            "explicacao_da_habilidade": "O gerenciamento de dados é frequentemente realizado através do conceito de arquivo, que pode ser armazenado, recuperado, editado e compactado.",
+                                            "exemplos": [
+                                                "Utilizar um arquivo físico para simular um sistema de arquivos e realizar ações de manipulação de pastas."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia / Tecnologia digital e sociedade",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF06CO09",
+                                            "enunciado": "Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",
+                                            "explicacao_da_habilidade": "Nesta habilidade é importante que os alunos possam vivenciar, discutir e refletir sobre o comportamento ao se comunicar em ambiente digital.",
+                                            "exemplos": [
+                                                "Propor regras de conduta para comunicação em ambientes on-line."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Uso de tecnologias computacionais / Tecnologia digital e sustentabilidade",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF06CO10",
+                                            "enunciado": "Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e a sustentabilidade.",
+                                            "explicacao_da_habilidade": "Refletir sobre hábitos de consumo tecnológico e os recursos necessários para produzir tecnologias digitais.",
+                                            "exemplos": [
+                                                "Identificar formas de economizar energia utilizando dispositivos em modo de economia."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "7_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Programação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF07CO01",
+                                            "enunciado": "Criar soluções de problemas para os quais seja adequado o uso de registros e matrizes unidimensionais para descrever suas informações e automatizá-las usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "Para automatizar a solução de um problema através da construção de um programa de computador, normalmente é necessário definir as estruturas de dados que serão usadas para representar a informação relacionada ao problema, e depois descrever o algoritmo usando as construções disponíveis na linguagem de programação escolhida.",
+                                            "exemplos": [
+                                                "Desenvolver um programa que leia os dados de um documento de identidade, calcule a idade e mostre todas as informações na tela."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF07CO02",
+                                            "enunciado": "Analisar programas para detectar e remover erros, ampliando a confiança na sua correção.",
+                                            "explicacao_da_habilidade": "Deve-se estimular a análise crítica do programa construído. Uma das formas é através da depuração, que consiste em uma análise detalhada do código e realização de testes para identificar erros.",
+                                            "exemplos": [
+                                                "Usar aplicativos disponíveis que permitem ao programador monitorar a execução de um programa."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF07CO03",
+                                            "enunciado": "Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",
+                                            "explicacao_da_habilidade": "Uma estrutura de dados em ciência da computação é uma coleção tanto de valores quanto de operações, sendo uma implementação concreta de um tipo abstrato de dado.",
+                                            "exemplos": [
+                                                "Analisar a proposição e os requisitos de um programa e identificar qual a estrutura de dados adequada a ser empregada."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF07CO04",
+                                            "enunciado": "Explorar propriedades básicas de grafos.",
+                                            "explicacao_da_habilidade": "Grafos possuem muitas propriedades que podem ser úteis para a descoberta de conhecimento, como coloração, cliques, graus de vértices, diâmetro e pontes.",
+                                            "exemplos": [
+                                                "Analisar a estrutura de conexão entre os usuários de uma rede social."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Estratégias de solução de problemas",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF07CO05",
+                                            "enunciado": "Criar algoritmos fazendo uso da decomposição e do reúso no processo de solução de forma colaborativa e cooperativa e automatizá-los usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "A decomposição facilita o trabalho cooperativo, pois auxilia na identificação clara de cada subtarefa e da forma como os resultados das tarefas devem ser combinados.",
+                                            "exemplos": [
+                                                "Criar um algoritmo para organizar um baralho por naipe e numeração, dividindo o problema em subproblemas."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Armazenamento e transmissão de dados",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF07CO06",
+                                            "enunciado": "Compreender o papel de protocolos para a transmissão de dados.",
+                                            "explicacao_da_habilidade": "A transmissão de dados precisa ser realizada considerando um conjunto de regras para sua execução correta, chamado de protocolo.",
+                                            "exemplos": [
+                                                "Definir regras de encaminhamento de mensagens em uma brincadeira do tipo telefone sem fio."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF07CO07",
+                                            "enunciado": "Identificar problemas de segurança cibernética e experimentar formas de proteção.",
+                                            "explicacao_da_habilidade": "A utilização de sistemas e redes de computadores precisa respeitar propriedades fundamentais da segurança da informação, como confidencialidade, integridade e disponibilidade.",
+                                            "exemplos": [
+                                                "Utilizar histórias para demonstrar como segredos compartilhados podem ser espalhados."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF07CO08",
+                                            "enunciado": "Demonstrar empatia sobre opiniões divergentes na web.",
+                                            "explicacao_da_habilidade": "Considera-se a discussão e reflexão sobre colocar-se na posição do outro e respeitar opiniões divergentes na internet.",
+                                            "exemplos": [
+                                                "Demonstrar respeito a diferentes opiniões em um debate sobre escolhas musicais."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF07CO09",
+                                            "enunciado": "Reconhecer e debater sobre cyberbullying.",
+                                            "explicacao_da_habilidade": "Refletir e discutir sobre cyberbullying, sua definição e a importância de combatê-lo.",
+                                            "exemplos": [
+                                                "Debater um estudo de caso real e propor ações para solucionar o problema."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Uso de tecnologias computacionais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF07CO10",
+                                            "enunciado": "Identificar os impactos ambientais do descarte de peças de computadores e eletrônicos, bem como sua relação com a sustentabilidade.",
+                                            "explicacao_da_habilidade": "Refletir sobre a relação da sustentabilidade com a produção e descarte de lixo eletrônico.",
+                                            "exemplos": [
+                                                "Realizar estudo sobre o impacto das toxinas químicas no descarte inadequado de computadores."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF07CO11",
+                                            "enunciado": "Criar, documentar e publicar, de forma individual ou colaborativa, produtos usando recursos de tecnologia.",
+                                            "explicacao_da_habilidade": "Utilizar recursos e ferramentas digitais para produzir e publicar conteúdos digitais.",
+                                            "exemplos": [
+                                                "Organizar uma linha do tempo documentando o processo de um projeto."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "8_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Programação / Programação com listas e recursão / Algoritmos clássicos / Projetos com programação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF08CO01",
+                                            "enunciado": "Construir soluções de problemas usando a técnica de recursão e automatizar tais soluções usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "O conceito de recursão permite exercitar o pensamento indutivo na resolução de problemas, possibilitando trabalhar em um nível de abstração mais elevado, sendo uma forma poderosa de resolver problemas computacionais.",
+                                            "exemplos": [
+                                                "Solução recursiva para definir o tamanho de uma lista, considerando o caso base e a chamada recursiva."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO02",
+                                            "enunciado": "Criar soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema.",
+                                            "explicacao_da_habilidade": "Fazer projetos e construir soluções usando listas e recursão, identificando casos base e chamadas recursivas para garantir a correta execução do programa.",
+                                            "exemplos": [
+                                                "Fazer um programa que junte duas pilhas de cartas ordenadas de forma que o baralho todo continue ordenado."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO03",
+                                            "enunciado": "Utilizar algoritmos clássicos de manipulação sobre listas.",
+                                            "explicacao_da_habilidade": "Compreender algoritmos de manipulação de listas por meio de simulações ou implementações, como algoritmos de ordenação, busca, inserção e remoção.",
+                                            "exemplos": [
+                                                "Simular ou programar algoritmos de ordenação como Bubblesort, Mergesort e Quicksort."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO04",
+                                            "enunciado": "Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",
+                                            "explicacao_da_habilidade": "Uma estrutura de dados é uma coleção de valores e operações, sendo uma implementação concreta de um tipo abstrato de dado.",
+                                            "exemplos": [
+                                                "Identificar a estrutura de dados adequada para um programa que manipula imagens ou pontuação de jogos."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Sistemas distribuídos e internet / Fundamentos de sistemas distribuídos / Internet",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF08CO05",
+                                            "enunciado": "Compreender os conceitos de paralelismo, concorrência e armazenamento/processamento distribuídos.",
+                                            "explicacao_da_habilidade": "O paralelismo permite executar partes independentes de uma tarefa simultaneamente, melhorando o desempenho e possibilitando trabalho cooperativo.",
+                                            "exemplos": [
+                                                "Analisar funcionalidades de um sistema web que dependem de concorrência ou armazenamento distribuído."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO06",
+                                            "enunciado": "Entender como é a estrutura e funcionamento da internet.",
+                                            "explicacao_da_habilidade": "A internet é composta por múltiplas redes interligadas que compartilham protocolos comuns, organizadas em sistemas autônomos.",
+                                            "exemplos": [
+                                                "Utilizar a lógica de um modelo em camadas para explicar a comunicação entre redes distintas."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia / Redes sociais e segurança da informação / Segurança em ambientes virtuais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF08CO07",
+                                            "enunciado": "Compartilhar informações por meio de redes sociais, compreendendo a sua dinâmica de funcionamento, de forma responsável e avaliando sua confiabilidade, considerando o respeito e a ética.",
+                                            "explicacao_da_habilidade": "Refletir sobre o uso responsável das redes sociais, considerando regras, ética, respeito e confiabilidade das informações.",
+                                            "exemplos": [
+                                                "Compartilhar informações sobre um evento com colegas em redes sociais de forma responsável."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO08",
+                                            "enunciado": "Distinguir os tipos de dados pessoais que são solicitados em espaços digitais e os riscos associados.",
+                                            "explicacao_da_habilidade": "Identificar dados pessoais exigidos em ambientes digitais e refletir sobre os riscos de seu compartilhamento.",
+                                            "exemplos": [
+                                                "Criar uma lista de sites e analisar os tipos de dados pessoais solicitados e os riscos envolvidos."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO09",
+                                            "enunciado": "Analisar criticamente as políticas de termos de uso das redes sociais e demais plataformas.",
+                                            "explicacao_da_habilidade": "Discutir e analisar os termos de uso e suas implicações sobre os dados pessoais dos usuários.",
+                                            "exemplos": [
+                                                "Identificar aspectos polêmicos em políticas de uso de redes sociais."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF08CO10",
+                                            "enunciado": "Discutir questões sobre segurança e privacidade relacionadas ao uso dos ambientes virtuais.",
+                                            "explicacao_da_habilidade": "Refletir sobre segurança e privacidade em ambientes virtuais, como redes sociais, jogos e compras online.",
+                                            "exemplos": [
+                                                "Analisar configurações de privacidade para garantir maior proteção dos dados."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Uso de tecnologias computacionais / Uso crítico das mídias digitais",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF08CO11",
+                                            "enunciado": "Avaliar a precisão, relevância, adequação, abrangência e vieses que ocorrem em fontes de informação eletrônica.",
+                                            "explicacao_da_habilidade": "Analisar criticamente fontes digitais, como jornais, blogs e vídeos, observando como a informação é veiculada.",
+                                            "exemplos": [
+                                                "Realizar pesquisa na internet e comparar resultados apresentados por diferentes buscadores."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "9_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Programação / Programação usando grafos e árvores / Autômatos e linguagens baseadas em eventos / Projetos com programação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF09CO01",
+                                            "enunciado": "Criar soluções de problemas para os quais seja adequado o uso de árvores e grafos para descrever suas informações e automatizá-las usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "Grafos e árvores podem ser usados para representar uma gama enorme de informações. Para que possamos construir programas de computador, essas estruturas precisam ser formalizadas e descritas em linguagens de programação. Grafos representam objetos e relacionamentos entre esses objetos, enquanto árvores são grafos organizados hierarquicamente.",
+                                            "exemplos": [
+                                                "Construir um algoritmo para encontrar um caminho em um mapa (grafo), partindo de uma cidade e chegando em outra.",
+                                                "Construir um algoritmo para encontrar os filhos de uma pessoa em uma árvore genealógica."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF09CO02",
+                                            "enunciado": "Construir soluções computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares.",
+                                            "explicacao_da_habilidade": "Uma estrutura de dados em ciência da computação é uma coleção tanto de valores quanto de operações, sendo uma implementação concreta de um tipo abstrato de dado.",
+                                            "exemplos": [
+                                                "Analisar a proposição e os requisitos de um programa e identificar qual a estrutura de dados adequada a ser empregada."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF09CO03",
+                                            "enunciado": "Usar autômatos para descrever comportamentos de forma abstrata automatizando-os através de uma linguagem de programação baseada em eventos.",
+                                            "explicacao_da_habilidade": "Linguagens baseadas em eventos permitem descrever sistemas orientados pela ocorrência de eventos. Para desenvolvê-los, é útil construir uma especificação abstrata usando autômatos, que representam estados do sistema e transições possíveis.",
+                                            "exemplos": [
+                                                "Modelar o comportamento de um robô utilizando autômatos, descrevendo eventos acionados a partir da leitura de sensores."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Sistemas distribuídos e internet / Segurança cibernética",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF09CO04",
+                                            "enunciado": "Compreender o funcionamento de malwares e outros ataques cibernéticos.",
+                                            "explicacao_da_habilidade": "Software malicioso, ou malware, são programas nocivos que obtêm acesso ilegal a dispositivos digitais, podendo roubar, corromper ou excluir dados pessoais.",
+                                            "exemplos": [
+                                                "Analisar tipos de malware como vírus, worms, spyware, trojans e ransomware a partir de casos históricos."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF09CO05",
+                                            "enunciado": "Analisar técnicas de criptografia para armazenamento e transmissão de dados.",
+                                            "explicacao_da_habilidade": "A criptografia transforma mensagens em formatos ilegíveis para terceiros, sendo essencial para a segurança de comunicações e transações digitais.",
+                                            "exemplos": [
+                                                "Utilizar algoritmos simples de criptografia para codificar mensagens e discutir a proteção de dados bancários."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia / Tecnologia digital e sociedade / Autoria em meio digital",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF09CO06",
+                                            "enunciado": "Analisar problemas sociais de sua cidade e estado a partir de ambientes digitais, propondo soluções.",
+                                            "explicacao_da_habilidade": "Utilizar recursos digitais para analisar problemas sociais do cotidiano, documentar pesquisas e propor soluções.",
+                                            "exemplos": [
+                                                "Apresentar propostas de solução para problemas da cidade utilizando fóruns ou plataformas digitais."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF09CO07",
+                                            "enunciado": "Avaliar aplicações e implicações políticas, socioambientais e culturais das tecnologias digitais para propor alternativas aos desafios do mundo contemporâneo.",
+                                            "explicacao_da_habilidade": "Refletir sobre os impactos das tecnologias digitais em áreas como meio ambiente, saúde, economia e trabalho.",
+                                            "exemplos": [
+                                                "Analisar o surgimento de novas profissões e o desaparecimento de outras devido à automação."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF09CO08",
+                                            "enunciado": "Discutir como a distribuição desigual de recursos de computação em uma economia global levanta questões de equidade, acesso e poder.",
+                                            "explicacao_da_habilidade": "Refletir sobre acesso às tecnologias, custos e impactos na igualdade social e no desenvolvimento sustentável.",
+                                            "exemplos": [
+                                                "Comparar custos de tecnologias e discutir quem pode ter acesso a elas."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF09CO09",
+                                            "enunciado": "Criar ou utilizar conteúdo em meio digital, compreendendo questões éticas relacionadas a direitos autorais e de uso de imagem.",
+                                            "explicacao_da_habilidade": "Utilizar recursos digitais para criar conteúdos respeitando direitos autorais e propriedade intelectual.",
+                                            "exemplos": [
+                                                "Discutir práticas de pirataria e direitos autorais de músicas e filmes."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Uso de tecnologias computacionais / Qualidade da informação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF09CO10",
+                                            "enunciado": "Avaliar a veracidade, credibilidade e relevância da informação em seus diferentes formatos, sendo capaz de identificar o propósito pelo qual foi disseminada.",
+                                            "explicacao_da_habilidade": "Refletir criticamente sobre informações que circulam em diferentes formatos, identificando intenções, confiabilidade e relevância.",
+                                            "exemplos": [
+                                                "Analisar fake news, diferenciando informações falsas e verdadeiras."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "6_ao_9_ano": {
+                    "eixos": [
+                        {
+                            "nome": "PENSAMENTO COMPUTACIONAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Programação / Tipos de dados / Linguagem de programação",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF69CO01",
+                                            "enunciado": "Classificar informações, agrupando-as em coleções (conjuntos) e associando cada coleção a um ‘tipo de dado’.",
+                                            "explicacao_da_habilidade": "Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número.",
+                                            "exemplos": [
+                                                "Para encontrar uma carta do tipo Ás em um baralho, precisa-se de um baralho (lista de cartas) e, o resultado é uma carta; para calcular a média das provas dos alunos de uma turma, precisa-se da lista de provas dos alunos, e o resultado é um número."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF69CO02",
+                                            "enunciado": "Elaborar algoritmos que envolvam instruções sequenciais, de repetição e de seleção usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "Existem diferentes linguagens de programação que podem ser usadas para descrever algoritmos em diferentes níveis de abstração, como linguagens visuais, orientadas a objetos, funcionais, entre outras.",
+                                            "exemplos": [
+                                                "Calcular a média de notas de uma turma em uma dada disciplina e informar se o resultado está acima da média do colégio."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF69CO03",
+                                            "enunciado": "Descrever com precisão a solução de um problema, construindo o programa que implementa a solução descrita.",
+                                            "explicacao_da_habilidade": "É importante que se consiga expressar a solução do problema (algoritmo) em português, compreendendo que o programa é apenas uma descrição deste algoritmo em uma linguagem de programação.",
+                                            "exemplos": [
+                                                "Se o ponteiro do mouse tocar no animal então o animal andará 10 passos, 10 vezes seguidas."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Estratégias de solução de problemas / Decomposição / Generalização",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF69CO04",
+                                            "enunciado": "Construir soluções de problemas usando a técnica de decomposição e automatizar tais soluções usando uma linguagem de programação.",
+                                            "explicacao_da_habilidade": "Decomposição é uma das principais técnicas de resolução de problemas, onde um problema é dividido em subproblemas, os quais são resolvidos independentemente.",
+                                            "exemplos": [
+                                                "Decompor o problema de desenhar imagens em subproblemas de desenhar formas básicas."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF69CO05",
+                                            "enunciado": "Identificar os recursos ou insumos necessários (entradas) para a resolução de problemas, bem como os resultados esperados (saídas), determinando os respectivos tipos de dados.",
+                                            "explicacao_da_habilidade": "Definir problemas é uma habilidade muito importante, pois é o primeiro passo da solução, identificando entradas e saídas.",
+                                            "exemplos": [
+                                                "Para encontrar um Ás em um baralho, precisa-se de um baralho e o resultado é uma carta."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF69CO06",
+                                            "enunciado": "Comparar diferentes casos particulares (instâncias) de um mesmo problema, identificando as semelhanças e diferenças entre eles.",
+                                            "explicacao_da_habilidade": "Idealmente, um algoritmo é uma solução genérica que resolve várias instâncias de um problema, fazendo uso de variáveis ou parâmetros.",
+                                            "exemplos": [
+                                                "Criar um algoritmo para calcular a área de qualquer retângulo variando base e altura."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "MUNDO DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Armazenamento e transmissão de dados / Gestão de dados",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF69CO07",
+                                            "enunciado": "Entender o processo de transmissão de dados, como a informação é quebrada em pedaços, transmitida em pacotes através de múltiplos equipamentos, e reconstruída no destino.",
+                                            "explicacao_da_habilidade": "O processo de transmissão de dados envolve dividir a informação em pedaços para facilitar o envio pela rede e remontá-la no destino.",
+                                            "exemplos": [
+                                                "Utilizar os alunos como equipamentos de transmissão, passando uma frase em pedaços de papel."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF69CO08",
+                                            "enunciado": "Compreender e utilizar diferentes formas de armazenar, manipular, compactar e recuperar arquivos, documentos e metadados.",
+                                            "explicacao_da_habilidade": "O gerenciamento de dados é realizado por meio de arquivos que podem ser armazenados, editados e compactados.",
+                                            "exemplos": [
+                                                "Simular um sistema de arquivos utilizando pastas físicas."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Sistemas distribuídos e internet",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF69CO09",
+                                            "enunciado": "Compreender os conceitos de paralelismo, concorrência e armazenamento/processamento distribuídos.",
+                                            "explicacao_da_habilidade": "O paralelismo permite executar partes independentes de uma tarefa simultaneamente.",
+                                            "exemplos": [
+                                                "Analisar funcionalidades de um sistema web que dependem de concorrência."
+                                            ]
+                                        },
+                                        {
+                                            "codigo": "EF69CO10",
+                                            "enunciado": "Entender como é a estrutura e funcionamento da internet.",
+                                            "explicacao_da_habilidade": "A internet é composta por múltiplas redes interligadas que compartilham protocolos comuns.",
+                                            "exemplos": [
+                                                "Utilizar um modelo em camadas para explicar a comunicação entre redes."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nome": "CULTURA DIGITAL",
+                            "objetos_de_conhecimento": [
+                                {
+                                    "nome": "Segurança e responsabilidade no uso da tecnologia",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF69CO11",
+                                            "enunciado": "Apresentar conduta e linguagem apropriadas ao se comunicar em ambiente digital, considerando a ética e o respeito.",
+                                            "explicacao_da_habilidade": "Destaca-se a reflexão sobre empatia, direitos, deveres e consequências da conduta on-line.",
+                                            "exemplos": [
+                                                "Criar soluções éticas para situações de conduta inadequada em ambientes digitais."
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nome": "Uso de tecnologias computacionais / Tecnologia digital e sustentabilidade",
+                                    "habilidades": [
+                                        {
+                                            "codigo": "EF69CO12",
+                                            "enunciado": "Analisar o consumo de tecnologia na sociedade, compreendendo criticamente o caminho da produção dos recursos bem como aspectos ligados à obsolescência e à sustentabilidade.",
+                                            "explicacao_da_habilidade": "Refletir sobre a cadeia de produção da tecnologia e seus impactos ambientais e sociais.",
+                                            "exemplos": [
+                                                "Analisar o descarte de tecnologias e seus impactos no meio ambiente."
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "ensino_medio": {
+            "competencias": [
+                "Compreender as possibilidades e os limites da Computação para resolver problemas, tanto em termos de viabilidade quanto de eficiência, propondo e analisando soluções computacionais para diversos domínios do conhecimento, considerando diferentes aspectos.",
+                "Analisar criticamente artefatos computacionais, sendo capaz de identificar as vulnerabilidades dos ambientes e das soluções computacionais buscando garantir a integridade, privacidade, sigilo e segurança das informações.",
+                "Analisar situações do mundo contemporâneo, selecionando técnicas computacionais apropriadas para a solução de problemas.",
+                "Construir conhecimento usando técnicas e tecnologias computacionais, produzindo conteúdos e artefatos de forma criativa, com respeito às questões éticas e legais, que proporcionem experiências para si e os demais.",
+                "Desenvolver projetos para investigar desafios do mundo contemporâneo, construir soluções e tomar decisões éticas, democráticas e socialmente responsáveis, articulando conceitos, procedimentos e linguagens próprias da Computação preferencialmente de maneira colaborativa.",
+                "Expressar e partilhar informações, ideias, sentimentos e soluções computacionais utilizando diferentes plataformas, ferramentas, linguagens e tecnologias da Computação de forma fluente, criativa, crítica, significativa, reflexiva e ética.",
+                "Agir pessoal e coletivamente com respeito, autonomia, responsabilidade, flexibilidade, resiliência e determinação, identificando e reconhecendo seus direitos e deveres, recorrendo aos conhecimentos da Computação e suas tecnologias frente às questões de diferentes naturezas."
+            ],
+            "competencias_especificas": [
+                {
+                    "nome": "Compreender as possibilidades e os limites da Computação para resolver problemas, tanto em termos de viabilidade quanto de eficiência, propondo e analisando soluções computacionais para diversos domínios do conhecimento, considerando diferentes aspectos.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO01",
+                            "enunciado": "Explorar e construir a solução de problemas por meio da reutilização de partes de soluções existentes.",
+                            "explicacao_da_habilidade": "Considerando que esta habilidade já vem sendo trabalhada desde o Ensino Fundamental, nesta etapa serão trabalhados principalmente dois tópicos (i) pelo lado mais prático, deve ser enfatizado o reuso de códigos de bibliotecas, (ii) pelo lado conceitual, deve-se trabalhar a construção da solução através da comparação (transformando) do problema a ser resolvido com outros problemas já solucionados, e assim reusando (e eventualmente adaptando) as soluções existentes.",
+                            "exemplos": [
+                                "Utilização de bibliotecas de código com linguagens de programação textuais, uso de GitHub para elaborar soluções colaborativamente."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO02",
+                            "enunciado": "Explorar e construir a solução de problemas por meio de refinamentos, utilizando diversos níveis de abstração desde a especificação até a implementação.",
+                            "explicacao_da_habilidade": "Aplicar boas práticas da Engenharia de Software, tanto para construir uma solução usando níveis de abstração diferentes partindo da definição dos requisitos, especificação, projeto e implementação (refinamento vertical), quanto para fazer a evolução do sistema partindo de um protótipo e inserindo gradualmente as funcionalidades desejadas até chegar ao sistema completo (refinamento horizontal).",
+                            "exemplos": [
+                                "Representar problemas delimitados em conjunto com outras áreas, como na Biologia, e partir de esboço geral para níveis crescentes de detalhamento."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO03",
+                            "enunciado": "Identificar o comportamento dos algoritmos no que diz respeito ao consumo de recursos como tempo de execução, espaço de memória e energia, entre outros.",
+                            "explicacao_da_habilidade": "Conhecer os princípios da complexidade de algoritmos, identificando as principais classes de funções que descrevem o consumo de recursos (tempo, espaço, energia) por algoritmos. Essas classes são caracterizadas por funções estudadas na Matemática no Ensino Médio (polinomiais, logarítmicas, exponenciais). É importante compreender, por exemplo, que um algoritmo que executa em tempo polinomial é mais eficiente que um que executa em tempo exponencial. Esse tema é relevante na prática, pois várias técnicas de criptografia usadas em bancos, sistemas de eleição etc., se baseiam no fato de que determinados problemas não têm solução algorítmica eficiente conhecida.",
+                            "exemplos": [
+                                "Testes de programas com soluções corretas, mas que geram tempo inviável de execução, ou utilizam memória em quantidade maior do que disponível na máquina. Exemplificar programas com tempo de execução exponencial, linear, quadrático e logarítmico. Mostrar esquemas de criptografia reais que usam fatoração de números grandes (produto de dois números primos grandes), ou seja, com mais de 30 dígitos."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO04",
+                            "enunciado": "Reconhecer o conceito de metaprogramação como uma forma de generalização na construção de programas, permitindo que algoritmos sejam entrada ou saída para outros algoritmos.",
+                            "explicacao_da_habilidade": "Pode-se construir programas que manipulam ou geram outros programas. Isto se chama metaprogramação. Com isto, se pode obter programas muito mais flexíveis, que podem ser utilizados em diversos contextos. Do ponto de vista teórico, o conceito é importante para analisarmos os limites do que pode ser resolvido com programas de computador (teoria da Computabilidade).",
+                            "exemplos": [
+                                "Construção de scripts em um sistema operacional capazes de gerar outros scripts de execução. Outro exemplo seria um programa que aplica um outro programa (calcular tamanho, trocar nome etc.) em vários arquivos de uma mesma pasta."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO05",
+                            "enunciado": "Identificar os limites da Computação para diferenciar o que pode ou não ser automatizado, buscando uma compreensão mais ampla dos limites dos processos mentais envolvidos na resolução de problemas.",
+                            "explicacao_da_habilidade": "Existem problemas que não têm solução computacional, o exemplo clássico é o Problema da Parada. A existência de uma solução para este problema levaria a um paradoxo. Isso mostra que os computadores não são (e nunca serão) capazes de resolver qualquer tipo de problema. Vários problemas chamados não-computáveis têm relação com programas que analisam outros programas (e, portanto, se forem analisar eles próprios, pode-se chegar a paradoxos).",
+                            "exemplos": [
+                                "Mostrar paradoxos como o Paradoxo do Mentiroso para explicar o que é um paradoxo e relacionar com o problema da Parada."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO06",
+                            "enunciado": "Avaliar software levando em consideração diferentes características e métricas associadas.",
+                            "explicacao_da_habilidade": "A ideia desta habilidade é fazer com que os estudantes possam realizar avaliação de software, através da adoção de características (eficiência, usabilidade, portabilidade, correção, segurança, privacidade, referenciais éticas, entre outras) e métricas associadas, embasando cientificamente as suas escolhas, em contextos diversos de uso dessas ferramentas computacionais.",
+                            "exemplos": [
+                                "Dados sistemas desenvolvidos para um mesmo propósito por diferentes grupos de uma turma de estudantes do Ensino Médio, definir critérios relevantes, classificá-los em níveis de importância, avaliar os sistemas e fazer uma discussão crítica comparando os resultados das avaliações dos sistemas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Analisar criticamente artefatos computacionais, sendo capaz de identificar as vulnerabilidades dos ambientes e das soluções computacionais buscando garantir a integridade, privacidade, sigilo e segurança das informações.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO07",
+                            "enunciado": "Compreender as diferentes tecnologias, bem como equipamentos, protocolos e serviços envolvidos no funcionamento de redes de computadores, identificando suas possibilidades de escala e confiabilidade.",
+                            "explicacao_da_habilidade": "Redes de Computadores como a Internet funcionam a partir de um conjunto de equipamentos (ex: bases Wi-Fi, switches, roteadores, firewalls) que realizam operações específicas e complementares. A comunicação entre os equipamentos de rede entre si e com os equipamentos dos usuários (ex: computadores, smart TVs, smartphones, tablets, consoles de videogame) acontece através de protocolos de comunicação que regem quais informações devem ser trocadas de forma que a rede funcione de forma adequada. Além dos aplicativos que são executados nos equipamentos dos usuários (ex: jogos online, navegadores Web), existem outros softwares que são executados dentro da rede para oferecer serviços aos usuários (ex: tradução dos nomes de máquinas para endereços IP, bloqueio de ataques). Esta diversidade de equipamentos, protocolos e serviços cria um ambiente sofisticado pela quantidade de elementos, e que precisa ser apropriadamente administrado para que as redes de computadores apresentem um comportamento suficientemente confiável aos olhos dos usuários.",
+                            "exemplos": [
+                                "Estudo sobre como equipamentos de rede são fisicamente interconectados, formando diferentes topologias de rede. Observação através de analisadores de pacotes do tráfego de rede gerado pela comunicação entre equipamentos de rede, para observar exemplos de diversos protocolos. Habilitar e desabilitar serviços de rede para observar, no equipamento dos usuários, como as aplicações se comportam diante da ausência de serviços de rede importantes. Nos equipamentos do usuário, mostrar como são formados os endereços IP e como eles são traduzidos para nomes de máquinas (ex: Wwww.google.com). Emular um ataque na Internet e demonstrar como a existência de um firewall permite bloquear o ataque e proteger o usuário."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO08",
+                            "enunciado": "Entender como mudanças na tecnologia afetam a segurança, incluindo novas maneiras de preservar sua privacidade e dados pessoais on-line, reportando suspeitas e buscando ajuda em situações de risco.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para fazer análise crítica sobre as tecnologias a que têm acesso (redes sociais, e-mails, ferramentas de e-commerce, formulários para cadastro em meio digital etc), sendo capaz de identificar, a cada atualização, os riscos a que estão expostos, seja por meio do compartilhamento de informações pessoais desnecessárias ou sensíveis ou na interação com pessoas ou grupos desconhecidos e saber como se proteger e denunciar situações suspeitas.",
+                            "exemplos": [
+                                "Estudo de casos de perfis falsos de conhecidos para coleta de informações pessoais"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Analisar situações do mundo contemporâneo, selecionando técnicas computacionais apropriadas para a solução de problemas.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO09",
+                            "enunciado": "Identificar tecnologias digitais, sua presença e formas de uso, nas diferentes atividades no mundo do trabalho.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a conduzir os estudantes à percepção de quais são as ferramentas disponíveis no universo laboral e como cada uma delas pode ser utilizada para resolver determinado problema. Saber utilizar, por exemplo, ferramentas de produtividade para entender o fluxo de um projeto ou para organizar processos, compreender como uma planilha eletrônica pode otimizar determinados controles e gerar gráficos para melhor compreender cenários, saber utilizar software ou impressora 3D para produzir protótipos, recursos para editoração gráfica, organização de banco de dados etc. No contexto desta habilidade também deve-se trabalhar para que os estudantes sejam capazes de identificar os diferentes hardwares disponíveis, sua necessidade e efetividade para diferentes contextos laborais, analisando questões de custo X benefício, condições de instalação, acessibilidade etc.",
+                            "exemplos": [
+                                "Ser capaz de identificar quais ferramentas resolveriam cada problema; exemplo do trator, impressora 3D, ferramentas de produtividade, mapa mental"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO10",
+                            "enunciado": "Conhecer os fundamentos da Inteligência Artificial, comparando-a com a inteligência humana, analisando suas potencialidades, riscos e limites.",
+                            "explicacao_da_habilidade": "A Inteligência Artificial (IA) refere-se a sistemas ou máquinas que imitam a inteligência humana para executar tarefas e tomar decisões. A grande contribuição da IA é a automatização de diversas tarefas cognitivas. Porém, o uso indiscriminado e irresponsável dessas tecnologias pode ter consequências graves.",
+                            "exemplos": [
+                                "Algoritmos de recomendação de plataformas de streaming e outras são normalmente implementados usando técnicas de inteligência artificial. Analisar criticamente como esses algoritmos podem influenciar o usuário dessas plataformas. Após, construir e avaliar pequenos sistemas de recomendação."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO11",
+                            "enunciado": "Criar e explorar modelos computacionais simples para simular e fazer previsões, identificando sua importância no desenvolvimento científico.",
+                            "explicacao_da_habilidade": "Usar diferentes ferramentas de modelagem e simulação computacional para analisar sistemas simples e fazer previsões. Este tipo de modelagem envolve conceitos de probabilidade e estatística.",
+                            "exemplos": [
+                                "Construir modelos de simulação simples para avaliar consumo de energia de uma casa ao longo do tempo; envelhecimento da população; crescimento da população; valorização de cripto moedas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Construir conhecimento usando técnicas e tecnologias computacionais, produzindo informação e/ou artefatos de forma criativa, com respeito às questões legais, que proporcionem experiências para si e os demais.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO12",
+                            "enunciado": "Produzir, analisar, gerir e compartilhar informações a partir de dados, utilizando princípios de ciência de dados.",
+                            "explicacao_da_habilidade": "Ciência de dados é uma área visa a extração de conhecimento a partir de dados. Isso pode ser feito por diferentes processos apoiados por ferramentas computacionais, por exemplo planilhas, bancos de dados, ferramentas estatísticas, ferramentas baseadas em padrões e técnicas de aprendizado de máquina, entre outras.",
+                            "exemplos": [
+                                "Análise e previsão de comportamento de compra de clientes a partir de perfis de compras passadas."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO13",
+                            "enunciado": "Analisar e utilizar as diferentes formas de representação e consulta a dados em formato digital para pesquisas científicas.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para fazer pesquisas eficazes, em bases de dados digitais, sendo capaz de criar e utilizar palavras-chave, fazer uso de filtros em buscadores avançados e identificar a origem da informação (por qual instituição e/ou sujeito ela foi publicada). Analisar também como essas informações aparecem em ambientes para consulta, sendo capaz de identificar o modus operandis dos sistemas que determinam a sua relevância ou prioridade.",
+                            "exemplos": [
+                                "Estudo de metadados em documentos digitais e gerenciadores de referências bibliográficas"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO14",
+                            "enunciado": "Avaliar a confiabilidade das informações encontradas em meio digital, investigando seus modos de construção e considerando a autoria, a estrutura e o propósito da mensagem.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para analisar as informações encontradas em meio digital sendo capaz de identificar a confiabilidade da informação, o quanto ela é atual, por quem ela foi produzida (instituição e/ou sujeito), qual a relação da mensagem com a visão deste(s) autor(es) e a originalidade do texto.",
+                            "exemplos": [
+                                "Avaliação sobre a origem da postagem de \"fake news\" por meio de busca dos locais originais de publicação"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO15",
+                            "enunciado": "Analisar a interação entre usuários e artefatos computacionais, abordando aspectos da experiência do usuário e promovendo reflexão sobre a qualidade do uso dos artefatos nas esferas do trabalho, do lazer e do estudo.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para analisar a interação entre usuários e artefatos computacionais (plataformas, softwares, aplicativos, jogos, sites etc.), sendo capaz de verificar a experiência do usuário no que tange as condições de acessibilidade (infraestrutura necessária, condições para pessoas com deficiência etc.), correlação com os objetivos de usabilidade apresentados por cada artefato, adequação dos objetivos ao público-alvo, perfil do público-alvo, inovação, aspectos organizacionais, velocidade etc.",
+                            "exemplos": [
+                                "Estudo de interfaces em aplicativos de smartphones usados por pessoas da melhor idade."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO16",
+                            "enunciado": "Desenvolver projetos com robótica, utilizando artefatos físicos ou simuladores.",
+                            "explicacao_da_habilidade": "É possível desenvolver essa habilidade tanto usando kits físicos de robótica, quanto simuladores instalados em dispositivos computacionais ou online.",
+                            "exemplos": [
+                                "Projetos de trabalho com plataforma Arduino ou MakeCode"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Desenvolver projetos para investigar desafios do mundo contemporâneo, construir soluções e tomar decisões éticas, democráticas e socialmente responsáveis, articulando conceitos, procedimentos e linguagens próprias da Computação de maneira colaborativa.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO17",
+                            "enunciado": "Construir redes virtuais de interação e colaboração, favorecendo o desenvolvimento de projetos de forma segura, legal e ética.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a fazer com que os estudantes sejam capazes de mobilizarem-se por meio de redes sociais, criando comunidades que possam articular propostas e projetos sociais ou científicos. Com isso espera-se que os jovens possam entender necessidades coletivas, organizar ideias, conduzir iniciativas de crowdfunding (vaquinhas virtuais e captações de recursos financeiros) e utilizarem-se dessas estratégias para resolver problemas reais. Exemplos de resultados alcançados com iniciativas desta natureza podem ser a construção de uma biblioteca na comunidade, a reforma de uma praça, reivindicar melhoria na prestação de serviços públicos, denunciar abusos e injustiças que eventualmente afetem comunidades ou grupos sociais específicos, captar recursos para algum projeto ou pesquisa de iniciação científica etc.",
+                            "exemplos": [
+                                "Exemplos de iniciativas dessa natureza: Sleeping Giants, crowdfunding para projetos"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO18",
+                            "enunciado": "Planejar e gerenciar projetos integrados às áreas de conhecimento de forma colaborativa, solucionando problemas, usando diversos artefatos computacionais.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para utilizar artefatos computacionais para planejar e gerenciar projetos sendo capaz de integrar, por exemplo, recursos para gestão de cronogramas, riscos e equipes, espaços compartilhados para armazenamento de arquivos, uso de ferramentas para videoconferência, artefatos para discussão assíncrona, ferramentas para gestão de dados etc.",
+                            "exemplos": [
+                                "Utilizar ferramentas de produtividade para gerenciar projetos, organizar informações em drives virtuais, configurar permissões de compartilhamento de arquivos de forma consciente e adequada às necessidades de cada momento, produzir fluxogramas para comunicar processos, organizar reuniões virtuais e videoconferências, criar e aplicar pesquisas por meio de formulários digitais etc."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Expressar e partilhar informações, ideias, sentimentos e soluções computacionais utilizando diferentes plataformas, ferramentas, linguagens e tecnologias da Computação de forma fluente, criativa, crítica, significativa, reflexiva e ética.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO19",
+                            "enunciado": "Expor, argumentar e negociar propostas, produtos e serviços, utilizando diferentes mídias e ferramentas digitais.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para vender uma ideia fazendo uso de diferentes recursos tecnológicos tais como produção de um vídeo promocional, construção de um site, cards para as redes sociais, e-mail marketing, apresentação de slides, criação de storytelling para uma apresentação por videoconferência etc., além de entender o comportamento das ferramentas de marketing digital sendo capaz de analisar a performance de cada campanha.",
+                            "exemplos": [
+                                "Aqui os estudantes podem ser orientados a organizarem-se em grupos para pensarem em soluções para problemas pré-definidos pelos professores ou estimulados a criarem produtos para serem apresentados e defendidos perante uma banca avaliadora (que pode ser formada por professores, gestores e funcionários da escola, pais, convidados da comunidade e profissionais convidados). Os alunos também devem ser estimulados por exemplo, a realizarem pesquisas para entender como seus produtos são aceitos (ex. Formulários digitais) e a criarem perfis em redes sociais para divulgar essas ideias como fariam em uma situação profissional real. Dessa forma espera-se que possam simular ainda na escola, futuras experiências profissionais."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO20",
+                            "enunciado": "Criar conteúdos, disponibilizando-os em ambientes virtuais para publicação e compartilhamento, avaliando a confiabilidade e as consequências da disseminação dessas informações.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para criarem conteúdos, de diversas naturezas, para serem disseminados em ambientes virtuais, tais como podcasts e vídeos para canais em redes digitais de divulgação de vídeos (ex. YouTube, Twitch, Vimeo etc.), microvídeos (ex. Instagram, TikTok etc.), textos jornalísticos e crônicas (ex. Blogs, Facebook etc.), fotografias (ex. Instagram, Facebook etc.), refletindo sobre seus alcances e como o teor da mensagem que é veiculada pode influenciar uma comunidade local ou até mesmo global.",
+                            "exemplos": [
+                                "Criação e postagens de vídeos no TikTok sobre conteúdos de Química"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO21",
+                            "enunciado": "Comunicar ideias complexas de forma clara por meio de objetos digitais como mapas conceituais, infográficos, hipertextos e outros.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para utilizar recursos digitais que os ajudem a fazer sínteses e correlações entre ideias, sendo capazes de traduzir e sintetizar informações complexas em ideias mais simples. Por exemplo: ler e interpretar um artigo científico e representar suas principais ideias por meio de um mapa conceitual, fazer a leitura de um relatório de pesquisa e transformá-lo em um infográfico, criar correlação entre textos, imagens e outros recursos por meio da linguagem hipertextual etc.",
+                            "exemplos": [
+                                "Comunicação de temática com infográfico por meio da ferramenta Canva"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO22",
+                            "enunciado": "Produzir e publicar conteúdo como textos, imagens, áudios, vídeos e suas associações, bem como ferramentas para sua integração, organização e apresentação, utilizando diferentes mídias digitais.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para escolher e utilizar a ferramenta digital mais adequada de acordo com o propósito da mensagem e público-alvo que se pretende atingir. Os estudantes deverão ter a oportunidade de produzir, por exemplo, textos para blogs, gravar vídeos e podcast, construir gráficos, apresentações em slides etc., além de serem capazes de integrar recursos (inserir um vídeo em um blog, por exemplo), desenvolver o senso estético (cores, fontes, estilos etc.) e valorizar a inclusão (uso de ferramentas para acessibilidade visual, auditiva, motora etc.).",
+                            "exemplos": [
+                                "Construção de conteúdo multimídia de História com a ferramenta ActivePresenter"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Agir pessoal e coletivamente com respeito, autonomia, responsabilidade, flexibilidade, resiliência e determinação, identificando e reconhecendo seus direitos e deveres, recorrendo aos conhecimentos da Computação e suas tecnologias para tomar decisões frente às questões de diferentes naturezas.",
+                    "habilidades": [
+                        {
+                            "codigo": "EM13CO23",
+                            "enunciado": "Analisar criticamente as experiências em comunidades virtuais e as relações advindas da interação e comunicação com outras pessoas, bem como seus impactos na sociedade.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a criar oportunidades de reflexão com os estudantes sobre as oportunidades de diálogo e alcance da mensagem que se configuram na formação de comunidades virtuais, tanto relacionado a aspectos positivos como negativos, em contextos pessoais ou profissionais. Como exemplo, é possível discutir sobre a organização de comunidades virtuais para produzir pesquisa científica e colaborar com o desenvolvimento da ciência, para busca de soluções para problemas locais, defesa de uma causa etc.",
+                            "exemplos": [
+                                "Uso de emojis para representação de emoções em comunidades virtuais baseadas em texto, como grupos de WhatsApp"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO24",
+                            "enunciado": "Identificar e reconhecer como as redes sociais e artefatos computacionais em geral interferem na saúde física e mental de seus usuários.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a sensibilizar os estudantes sobre o impacto do uso excessivo das tecnologias para sua saúde, seja relacionado a aspectos físicos, sociais ou emocionais. Neste contexto, é possível trabalhar questões relacionadas à depressão, fobia, baixa autoestima, lesões por movimentos repetitivos, isolamento social etc.",
+                            "exemplos": [
+                                "Estudo de tempos de uso em aparelhos eletrônicos de tela por parte de crianças"
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO25",
+                            "enunciado": "Dialogar em ambientes virtuais com segurança e respeito às diferenças culturais e pessoais, reconhecendo e denunciando atitudes abusivas.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a preparar os estudantes para interagir e se comunicar em ambientes virtuais, como por exemplo, participar de um grupo de WhatsApp, interagir em um fórum de discussão online em um curso a distância, participar de uma videoconferência, postar uma crítica em um blog etc), com respeito aos sujeitos envolvidos, buscando entender o contexto destas pessoas (sociais, políticos, religiosos, étnicos etc.), além de ser capaz de preservar sua imagem e privacidade em prol da sua segurança pessoal ou mesmo coletiva.",
+                            "exemplos": [
+                                "Diálogo estabelecido entre equipes durante uma partida em game multiplayer."
+                            ]
+                        },
+                        {
+                            "codigo": "EM13CO26",
+                            "enunciado": "Aplicar os conceitos e pressupostos do direito digital em sua conduta e experiências com o cotidiano da cultura digital, bem como na produção e uso de artefatos computacionais.",
+                            "explicacao_da_habilidade": "Esta habilidade visa a orientar os estudantes sobre questões que se referem ao respeito a Lei Geral de Proteção de Dados e outras correlacionadas, seja nas oportunidades de interação e colaboração online (navegação nas redes sociais, organização de grupos de trabalho etc.), seja na produção de uma pesquisa científica (autoria na produção de materiais, por exemplo) ou mesmo no desenvolvimento de um software, onde é necessário avaliar que tipo de informação é possível coletar de um usuário e o que pode ser feito com ela.",
+                            "exemplos": [
+                                "Licenças de uso de imagens digitais baixadas da Internet; Marco Civil da Internet, Lei Geral de Proteção de Dados (LGPD), licenças Creative Commons, Direitos Autorais etc."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
